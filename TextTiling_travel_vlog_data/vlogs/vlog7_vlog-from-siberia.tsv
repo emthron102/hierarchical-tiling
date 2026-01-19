@@ -1,0 +1,74 @@
+boundary-coarse	segment-coarse	boundary-fine	segment-fine	sentence
+1	1	1	1	 We are going to my grandmother in Kuybyshev.
+0	1	0	1	 It's -15°C.
+0	1	0	1	 Frosty.
+0	1	1	2	 As you already heard, we are going to Kuybyshev.
+0	1	0	2	 This is a city that is located four hours from Novosibirsk, the capital of Siberia.
+0	1	0	2	 I have several videos about Novosibirsk.
+0	1	0	2	 If you haven't watched them, the links will be in the description.
+0	1	0	2	 My dad was born in Kuybyshev, and now we are going there to visit my grandmother.
+0	1	0	2	 In this video I will tell you a little about Siberia and Kuybyshev.
+0	1	0	2	 I will post links to sources on my website.
+1	2	1	3	 What do you know about Siberia?
+0	2	0	3	 Many people imagine Siberia as a harsh and cold land.
+0	2	0	3	 But, of course, snow does not lie here all year round - only in winter, autumn and spring.
+0	2	0	3	 Sometimes snow falls even in May.
+0	2	0	3	 Now I'm talking about Western Siberia, the place where I was born.
+0	2	1	4	 The Siberian Khanate became part of the Russian kingdom in 1555.
+0	2	0	4	 Tsar Ivan the Terrible sent here a Cossack detachment of 800 people led by Yermak in 1581.
+0	2	0	4	 Regular Cossack hundreds were well trained and quickly captured the capital of the Siberian Tatars - the city of Isker.
+0	2	0	4	 And after that, over the course of 15 years, the Russians founded several fortress cities in these Siberian lands.
+0	2	0	4	 Tyumen was founded in 1586, Tobolsk in 1587, and Surgut in 1593.
+0	2	0	4	 Novosibirsk is a young city, this year it will be 130 years old.
+1	3	1	5	 We got off the train and go to the minibus to get to Kuibyshev.
+0	3	0	5	 We are now in Barabinsk.
+0	3	0	5	 We arrived in Kuibyshev.
+0	3	1	6	 The former name of the city is Kainsk.
+0	3	0	6	 This is one of the oldest cities in Western Siberia, its history began with plans for the construction of the Siberian line of fortresses along the Irtysh river in the early 18th century.
+0	3	0	6	 Three permanent Russian fortifications were built one after the other.
+0	3	0	6	 This was due to the formation of Russian statehood and the protection of the eastern borders of Russia from the Tatar Siberian Khanate.
+0	3	0	6	 So, according to the decree of Peter the Great, in 1722, Kainsky Pass (later - an outpost) arose, but in the middle of the 18th century it lost its military significance and turned into a settlement.
+0	3	0	6	 The population of the settlement was made up of exiles from Russia, transferred coachmen, fugitive peasants, recruits, whose main activity was carting and handicraft production.
+0	3	0	6	 In January 1782, Empress Catherine II signed a decree on the formation of the county town of Kainsk.
+0	3	0	6	 So the first city appeared in the Baraba steppe, today it is the oldest holder of this status in the Novosibirsk region.
+0	3	0	6	 The special position of Kainsk contributed to its rapid growth, the development of trade and crafts.
+0	3	0	6	 This city appeared at the intersection of land and river trade routes and at the end of the 19th century it became a major economic and administrative center of Western Siberia.
+0	3	0	6	 It was the only place in Western Siberia where there was a synagogue, a Roman Catholic church and Orthodox churches.
+0	3	1	7	 In the center of Kuybyshev, you can see several merchant houses. Who is a merchant?
+0	3	0	7	 This is a person who was professionally engaged in trade, buying up goods, not for their own consumption, but for subsequent resale for profit.
+0	3	0	7	 So, this is an architectural monument - Lebedev's house, the second half of the 19th century.
+0	3	0	7	 The first merchants appeared in Kainsk in 1801.
+0	3	0	7	 Using the advantage of their geographical position, the merchants were actively trading in the city, province, throughout Russia and even abroad.
+0	3	0	7	 Having received significant rights under the Charter to the cities of 1875, the merchants turned into a privileged layer of the townspeople and sought to stand out among the rest of the population with their way of life, focusing on European noble culture.
+0	3	0	7	 Merchants' mansions were built on the central streets of the city.
+0	3	0	7	 Usually shops and trading floors were located on the first floors, and living quarters on the second.
+0	3	0	7	 In the 19th century, wealthy merchants specially ordered paintings and their own portraits to professional artists, including those from the capital.
+0	3	0	7	 By the end of the 19th century, on the table of merchants were coffee, chocolate, sweets, French and German wines, lemonades, fruits and overseas spices.
+1	4	1	8	 I want to share with you some interesting dates. For example, in 1826, Decembrists passed through Kainsk on their way to exile in Eastern Siberia.
+0	4	0	8	 On March 28, 1860, a women's school of the second category was opened, which in 1873 was transformed into a three-year progymnasium.
+0	4	0	8	 In 1910, the women's progymnasium was transformed into a full seven-year gymnasium.
+0	4	0	8	 In 1784 the first fair was opened in Kainsk.
+0	4	0	8	 It is said that up to 20 thousand people came to the fair.
+0	4	0	8	 In 1795, the first butter factory was opened, and two years later it was The Dairy Society was formed.
+0	4	0	8	 Since 1897, the KAOLVI winery was built in 7 years.
+0	4	0	8	 A steam mill was built in 1904, and the first cinema was opened in 1912.
+0	4	0	8	 After February 1917, troubled times began in Kainsk, which lasted five years.
+0	4	0	8	 With the revolution and the civil war, the Cain merchants perished, and with it the economic basis of the city's life was destroyed.
+0	4	1	9	 A new culture and a new type of economic relations were born.
+0	4	0	9	 In 1920, a mass renaming of streets takes place, religion and the church are destroyed.
+0	4	0	9	 The Cathedral of the Savior was blown up , the Roman Catholic Church was closed.
+0	4	0	9	 A tough political regime was established in the 1930s, but the city's industry is on the rise.
+0	4	0	9	 A meat-packing plant appeared in 1930, the Baraba thermal power plant and an auto parts plant were opened in 1933.
+0	4	0	9	 In 1935, Kainsk was renamed Kuibyshev in honor of the revolutionary figure Valerian Vladimirovich Kuibyshev, who was in exile in this city at the beginning of the 20th century.
+0	4	1	10	 Since 1941, during the 4 years of the war, about 10 thousand soldiers went to the front, less than half of them returned.
+0	4	0	10	 My great-grandfather and his brothers died at the front in the autumn of 1941, the youngest of them was only 19 years old.
+0	4	1	11	 In the post-war period, a milk-cannery, a bakery, a garment factory, a chemical factory, a brick factory, and a factory for reinforced concrete products were built.
+0	4	0	11	 Today the territory of the city is more than 10 thousand hectares, with a population of more than 46 thousand people.
+1	5	1	12	 Walking around the city, I noticed several abandoned and burnt houses.
+0	5	0	12	 Unfortunately, as in other regions of Russia, people leave for larger cities in search of better income.
+0	5	0	12	 I walked around the city, went to the registry office to find out the dates of birth of my great-grandfathers, had a snack in the canteen for only 120 rubles and read about the history of the region in the local library.
+0	5	1	13	 Hope you enjoyed watching this video.
+0	5	0	13	 I will be very happy about feedback.
+0	5	0	13	 I thank my patrons for their support.
+0	5	0	13	 Don't forget that you can also support my channel and download English translations of my videos and podcasts.
+0	5	0	13	 See you in a week!
