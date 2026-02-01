@@ -63,9 +63,9 @@ def process_file(input_path, output_path, model):
     binary_new_fine = []
     fine_ids = []
 
-    # State variables
-    current_coarse_id = 0
-    current_fine_id = 0
+    # State variables, start from 1
+    current_coarse_id = 1
+    current_fine_id = 1
 
     # --- HANDLE FIRST SENTENCE ---
     # The first sentence always starts the first tile
@@ -105,10 +105,10 @@ def process_file(input_path, output_path, model):
 
     # 4. Create Result DataFrame
     result_df = pd.DataFrame({
-        'binary_prediction_new_coarse_tile': binary_new_coarse,
-        'coarse_tile_number': coarse_ids,
-        'binary_prediction_new_fine_tile': binary_new_fine,
-        'fine_tile_number': fine_ids,
+        'boundary-coarse': binary_new_coarse,
+        'segment-coarse': coarse_ids,
+        'boundary-fine': binary_new_fine,
+        'segment-fine': fine_ids,
         'sentence': sentences
     })
 
