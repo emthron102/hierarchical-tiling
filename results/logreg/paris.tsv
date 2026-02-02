@@ -1,0 +1,833 @@
+boundary-coarse	segment-coarse	boundary-fine	segment-fine	sentence
+0	1	0	1	Paris, the cosmopolitan capital of France, is one of the largest agglomerations in Europe, with 2.2 million people living in the dense (105 km2) central city in 2022, 10 million people in the Métropole du Grand Paris (814 km2) and almost 13 million people living in the metropolitan area.
+0	1	1	1	In the centre-north of the country on the river Seine, Paris has the reputation of being the most beautiful and romantic of all cities, brimming with historic associations and remaining vastly influential in the realms of culture, art, fashion, food and design.
+0	1	0	2	Dubbed the City of Light (la Ville lumière) and Capital of Fashion, it is home to some of the world's finest and most luxurious fashion designers and cosmetics, such as Chanel, Christian Dior, Yves Saint-Laurent, Guerlain, Lancôme, L'Oréal, and Clarins.
+0	1	0	2	A large part of the city, including the banks of the Seine, is a UNESCO World Heritage Site.
+0	1	1	2	The city has the second highest number of Michelin-starred restaurants in the world (after Tokyo, which is much larger) and contains numerous iconic landmarks such as the Eiffel Tower, the Arc de Triomphe, Notre-Dame de Paris, the Louvre, the Moulin Rouge and the Basilique du Sacré-Cœur, making it one of the most popular international tourist destinations in the world, with around 14 million tourists annually.
+0	1	0	3	The city of Paris is divided into 20 districts called arrondissements, numbered from 1 to 20 in a clockwise spiral from the centre of the city (which is known as Kilomètre zéro and is located at the front of Notre Dame).
+0	1	0	3	Arrondissements are named according to their number.
+0	1	0	3	"You might, for example, stay in the ""5th"", which would be written as 5e in French."
+0	1	1	3	The 12th and 16th arrondissements include large parks: the Bois de Vincennes and the Bois de Boulogne respectively.
+0	1	0	4	"The very best map you can get for Paris is called ""Paris Pratique par Arrondissement"" which you can buy for about €5 at any news stand."
+0	1	0	4	It makes navigating the city easy.
+0	1	1	4	The various tourist information centres and hotels in Paris also provide various city and metro maps for free and which contain all the essential details for a tourist.
+0	1	0	5	Each arrondissement has its own unique character and selection of attractions for the traveller:
+0	1	0	5	Beyond Paris, the outlying suburbs are called La Banlieue.
+0	1	0	5	Schematically, those to the west of Paris (Neuilly-sur-Seine, Boulogne-Billancourt, Saint Cloud, Levallois, Versailles, Poissy, Rueil-Malmaison) are wealthy residential communities, even if some more middle class suburbs can be found.
+0	1	0	5	Those to the north are poorer communities, and very ethnically diverse.
+0	1	1	5	Those to the south are a mix of rough and poor neighbourhoods alongside very affluent communities.
+0	1	0	6	Finally, those to the east are usually lower-middle class mingled with a few upper-middle class communities.
+0	1	0	6	Due to high expectations, a tight schedule, language barriers and large crowds and long lines at certain attractions during high season, the city might disappoint some visitors.
+0	1	1	6	Foreign visitors who have an idealized view of Paris might be shocked by the typical challenges of visiting any large city; crime, traffic noise, pollution, garbage, and relatively high costs.
+0	1	0	7	In the worst case, visitors might experience the Paris syndrome; a psychological state of delusion.
+0	1	0	7	To enjoy the wonders of Paris, make realistic plans.
+0	1	0	7	The amounts of attractions and landmarks is overwhelming; visiting only the most famous ones (which can be overcrowded during major holidays) takes more than a week.
+0	1	1	7	The city also has more to offer for people who take time for a calm stroll along the backstreets.
+0	1	0	8	If your time in the city is short, be selective, and save some attractions for your next visit.
+0	1	0	8	Paris started life as the Celto-Roman settlement of Lutetia on the Île de la Cité, the island in the Seine now occupied by the Cathédrale de Notre Dame.
+0	1	1	8	It takes its present name from the name of the dominant Gallo-Celtic tribe in the region, the Parisii.
+0	1	0	9	"At least that's what the Romans called them, when they showed up in 52 BCE and established their city Lutetia on the left bank of the Seine, in what is now called the ""Latin Quarter"" in the 5th arrondissement."
+0	1	0	9	The Romans held out here for as long as anywhere else in the Western Empire, but by 508 CE they were gone, replaced by Clovis of the Franks, who is considered by the French to have been their first king.
+0	1	0	9	Clovis' descendants, aka the Carolingians, held onto the expanded Lutetian state for nearly 500 years through Viking raids and other calamities, which finally resulted in a forced move by most of the population back to the islands which had been the centre of the original Celtic village.
+0	1	0	9	The Capetian Duke of Paris was voted to succeed the last of the Carolingians as King of France, ensuring the city a premier position in the medieval world.
+0	1	1	9	Over the next several centuries Paris expanded onto the right bank into what was and is still called le Marais (The Marsh).
+0	1	0	10	Quite a few buildings from this time can be seen in the 4th arrondissement.
+0	1	0	10	The medieval period also witnessed the founding of the Sorbonne.
+0	1	1	10	"As the ""University of Paris"", it became one of the most important centres for learning in Europe—if not the whole world, for several hundred years."
+0	1	0	11	Most of the institutions that still constitute the University are found in the 5th, and 13th arrondissements.
+0	1	0	11	In the late 18th century, there was a period of political and social upheaval in France and Europe, during which the French governmental structure, previously a monarchy with feudal privileges for the aristocracy and Catholic clergy, underwent radical change to forms based on Enlightenment principles of nationalism, citizenship, and inalienable rights.
+0	1	1	11	Notable events during and following the revolution were the storming of the Bastille 4th arrondissements, and the rise and fall of Napoleonic France.
+0	1	0	12	Out of the violent turmoil that was the French Revolution, sparked by the still known Passion des Français, emerged the enlightened modern day France.
+0	1	1	12	The Paris of today was built long after the Capetian and later the Bourbon Kings of France made their mark on Paris with the Louvre and the Palais Royal, both in the 1st.
+0	1	0	13	In the 19th century, Baron von Hausmann set about reconstructing the city, by adding the long straight avenues and replacing many of the then existing medieval houses, with grander and more uniform buildings.
+0	1	0	13	New wonders arrived during La Belle Époque, as the Parisian golden age of the late 19th century is known.
+0	1	1	13	"Gustave Eiffel's famous tower, the first metro lines, most of the parks, and the streetlights (which are partly believed to have given the city its epithet ""the city of light"") all come from this period."
+0	1	0	14	Another source of the epithet comes from Ville Lumière, a reference not only to the revolutionary electrical lighting system implemented in the streets of Paris, but also to the prominence and aura of Enlightenment the city gained in that era.
+0	1	0	14	The twentieth century was hard on Paris, but thankfully not as hard as it could have been.
+0	1	1	14	Both world wars took a heavy toll on the city's inhabitants, but at least Hitler's order to burn the city was ignored by the German General von Choltitz, who was quite possibly convinced by a Swedish diplomat that it would be better to surrender and be remembered as the saviour of Paris, rather than its destroyer.
+0	1	0	15	Following the war, the city recovered quickly at first, but slowed in the 1970s and 1980s when Paris began to experience some of the problems faced by big cities everywhere: pollution, housing shortages, and occasionally failed experiments in urban renewal.
+0	1	0	15	However, post-war Paris enjoyed considerable growth as a multi-cultural city, with new immigrants from all corners of the world, especially La Francophonie, including most of northern and western Africa as well as Indochina.
+0	1	0	15	These immigrants brought their foods and music, both of which are of prime interest for many travellers.
+0	1	1	15	Immigration and multi-culturalism continues in the 21st century with a marked increase in the arrival of people from Latin America, especially Mexico, Colombia, and Brazil.
+0	1	0	16	In the late 1990s, it was hard to find good Mexican food in Paris, whereas today there are dozens of possibilities from lowly taquerias in the outer arrondissements to nice sit-down restaurants on the boulevards.
+0	1	0	16	Nevertheless, Paris remains a French city; bistros, baguettes, high-end fashion, art, accordions, Hausmann architecture, and all the stereotypes (whether good or bad) of France are alive and well in Paris.
+0	1	1	16	People from all over France flock to Paris for work, study, partying, and everything in between.
+0	1	0	17	After all, this IS the capital of France, so anything pertaining to France can be found here.
+0	1	0	17	The 21st century has also seen vast improvements in the general livability of Paris, with the mayor's office concentrating on reducing pollution and improving facilities for soft forms of transportation including a huge network of cycle paths, larger pedestrian districts and new metro lines.
+0	1	0	17	Visitors who normally arrive car-less are the beneficiaries of these policies as much as the Parisians themselves, although tensions and doubts have emerged over the actual benefits of those measures.
+0	1	0	17	Paris has an oceanic climate with moderately cold winters and warm summers.
+0	1	0	17	The moderating effect of the Atlantic Ocean helps to temper temperature extremes in much of western Europe, including France.
+0	1	0	17	Even in January, the coldest month, temperatures nearly always exceed the freezing point with an average high of 7 °C (45 °F).
+0	1	0	17	Snow is not common in Paris, although it can fall a few times per year.
+0	1	1	17	Most of Paris' precipitation comes in the form of light rain year-round.
+0	1	0	18	Daylight hours run from 08:45 until 16:45.
+0	1	0	18	Summers in Paris are moderately warm and humid, with an average high of 25 °C (77 °F) during the mid-summer months.
+0	1	1	18	Occasional heat waves can push temperatures above 30 °C (86 °F) and rarely even reach 35 °C (95 °F).
+0	1	0	19	The sun is up from 06:00 until almost 22:00.
+0	1	0	19	Spring and fall are normally cool and wet.
+0	1	0	19	Paris (PAR IATA) is served by two international airports.
+0	1	0	19	49.00982.56121 Paris Charles de Gaulle Airport (CDG IATA) is the main airport of the city.
+0	1	1	19	It is north of Paris and is connected by train, bus and taxi.
+0	1	0	20	For detailed information on arriving and departing Paris from this airport please consult the main article linked above.
+0	1	0	20	"Transit Summary: The RER train line ""B"" connects CDG airport to central Paris and is the fastest and most economical option for most travellers."
+0	1	0	20	Signs in the airport will direct you to the platform.
+0	1	0	20	Self-serve electronic kiosks sell tickets.
+0	1	0	20	The kiosks provide service in multiple languages, including English.
+0	1	0	20	Some trains will stop at each station along the way to Paris.
+0	1	0	20	Express trains with fewer stops are available during off-peak hours.
+0	1	0	20	The stations Gare du Nord, Châtelet-Les Halles, Saint-Michel Notre-Dame, Luxembourg, Port-Royal, Denfert-Rochereau and Cité Universitaire are always served.
+0	1	1	20	Your ticket will allow you to transfer at one of the aforementioned stations to the Metro and other RER lines within Paris to complete your journey.
+0	1	0	21	The one-way trip costs €10.30 for adults, €7.20 for children aged 4–9, and free for children under 4.
+0	1	1	21	Another option is the RoissyBus coach service that departs from all terminals and travels non-stop to Opéra (actually stops at 11 rue scribe, next to Place Charles Garnier, and not on Place de l'Opéra itself) in Central Paris, within easy walking distance of several stations: Opéra for Métro Lines 3, 7, 8; Auber for RER Line A; Chaussée d'Antin or Havre-Caumartin for Métro Line 9.
+0	1	0	22	It offers great value if you're travelling with lots of luggage; as of December 2023, a one-way ticket is €16.20.
+0	1	1	22	The buses are frequent, departing every 15 min during the day and every 20-30 min in the evening.
+0	1	0	23	Journey time is typically 60 minutes, but can take longer in heavy traffic.
+0	1	0	23	If you arrive to CDG Airport at night you'll need a Noctilien bus to get to the city centre.
+0	1	0	23	The bus stops at all three terminals (in terminal 2F it will be the second level in the departure section, difficult to find, but it really exists).
+0	1	1	23	The bus leaves every 30 min after 00:30 (see timetable).
+0	1	0	24	The buses you'll need are N140 and N143; the price is 2 T+ tickets (€4 if bought on board).
+0	1	0	24	48.72942.36822 Paris Orly Airport (ORY IATA), this older international airport is southwest of the city and is used mainly by Air France for domestic departures, and for several international departures, mostly towards destinations around the Mediterranean.
+0	1	0	24	It consists of two terminals: Terminal Sud (south) and Terminal Ouest (west) connected by light rail.
+0	1	1	24	The airport is connected with Paris by bus and light rail.
+0	1	0	25	For detailed information on arriving and departing Paris from this airport please consult the main article linked above.
+0	1	0	25	"Orly is roughly 25-35 min from Paris via the OrlyBus, which departs from Métro Denfert-Rochereau (lines 4 and 6 of the Metro and RER line ""B""); the price is €11.20 as of December 2023."
+0	1	0	25	There are buses every 8-15 minutes from the Orly Sud (Platform 4) and it stops at Orly Ouest on its way to the city.
+0	1	1	25	Tickets can be bought at a counter near the baggage claim area or directly at the counter in Platform 4.
+0	1	0	26	The tickets need to be validated once on the bus.
+0	1	0	26	Another option is tramway T7 that takes you to the Métro Villejuif - Louis Aragon (Metro 7) in 30 min, but it stops on the way and is designed for commuters and not for travellers.
+0	1	1	26	Tramway T7 costs a single T+ (metro/bus/tram) ticket and runs every 10 min, stopping at airport level -1.
+0	1	0	27	Passes covering zones 1–4 are accepted, except that Tickets Jeunes are not valid on Orlybus.
+0	1	0	27	Via rail the airport can be reached by a southern branch of the RER-B line that heads from Paris in the direction of Massy-Palaiseau or Saint-Rémy-les-Chevreuse (not Robinson).
+0	1	0	27	At Antony station RER-B line connects with the Orlyval light rail that carries passengers to both terminals of the airport.
+0	1	1	27	Orlyval runs every 4-7 min and costs €12.05 (as of 2019) for transfer to Paris, including connections to central area metro stations.
+0	1	0	28	The RER B from Antony runs through Paris to CDG.
+0	1	0	28	Public transport passes are not accepted on Orlyval (but Paris Visite is valid on Orlyval, and zone 1–3 passes are valid between Antony and Paris).
+0	1	1	28	The Orly connection map shows you how you can go to Paris from the airport.
+0	1	0	29	Wi-Fi Internet access is provided free of charge.
+0	1	0	29	49.45942.11393 Beauvais (BVA IATA), north of the city, is a smaller regional airport that is used by some low-cost carriers such as Ryanair and WizzAir.
+0	1	0	29	The airport operates a shuttle service to the Métro at Porte Maillot station.
+0	1	0	29	Buses run as early as 06:00.
+0	1	0	29	Buses leave 20 min after each flight arrives, and a few hours before each flight departs.
+0	1	0	29	A schedule can be found on the Beauvais Airport website.
+0	1	0	29	The journey will take about an hour in good traffic conditions, and costs €16.9 each way (Online) or €18 each way (Physically); there is no reduced price for children over the age of 2 years.
+0	1	0	29	Unless you hire a car this is the most realistic way to head toward Paris.
+0	1	0	29	The alternative is a train service between Gare du Nord and Beauvais, and a connecting shuttle or taxi to the airport.
+0	1	1	29	This journey costs more and takes longer.
+0	1	0	30	Missing the shuttle bus could mean a taxi fare well over €100.
+0	1	1	30	Air France operates shuttles between Charles de Gaulle and Paris (€17), Orly and Paris (€12) and between the two airports (€20).
+0	1	0	31	Discounts apply for young/group travellers and online bookers.
+0	1	0	31	If you have connecting Air France flights that land and depart from different airports, you would still generally need to fetch your luggage after landing, catch either the Air France shuttle or a taxi (readily available at all airports) to the other airport and check-in again.
+0	1	0	31	This altogether could take up to 2 hours, particularly if traffic is at its worst.
+0	1	0	31	It is also common to lose time during disembarking, as passengers often need to get off on the tarmac and get on buses which will take them to the terminal.
+0	1	1	31	Be sure you have sufficient time between flights to catch your connection.
+0	1	0	32	Check-in counters usually close 30 min before the flight departs, longer if flights are international.
+0	1	1	32	Paris Le Bourget Airport (LBG IATA) is a 24-hour airport for private jets and business aviation 11 km northeast of Paris.
+0	1	0	33	Companies like Air Charter Advisors and Priority Jet offer access to a variety of aircraft rentals based at Le Bourget.
+0	1	0	33	Paris is well connected to the rest of Europe by train.
+0	1	1	33	There are seven terminus stations in central Paris and although they are not all in the same district, they are all connected to the Metro and RER networks.
+0	1	0	34	You will probably want to know in advance at which station your train is arriving, so as to better choose a hotel and plan for transport within the city.
+0	1	0	34	The SNCF (French national railway authority) operates practically all trains within France excluding the Eurostar to London, the Thalys to Brussels and onward to the Netherlands and Germany[dead link], and some low-cost services such as Ouigo (although owned by the SNCF, it is considered as a separate brand).
+0	1	0	34	There are also a few local lines of high interest to tourists which are privately owned.
+0	1	0	34	All SNCF, Eurostar and Thalys tickets can be bought in railway stations, city offices and travel agencies (no surcharge).
+0	1	0	34	SNCF relies on travel agencies for selling tickets online, the main one being SNCF Connect and Trainline (easier to use).
+0	1	0	34	You can also find tickets in online and physical travel agencies.
+0	1	0	34	You can book and buy tickets up to three months in advance.
+0	1	0	34	There are significant discounts if you book weeks ahead.
+0	1	0	34	Reduced ticket prices are different for each day and each train and can be used only on the train the reservation is for.
+0	1	1	34	Trains between Paris and south Germany (Frankfurt, Stuttgart, Munich) as well as the Marseille-Frankfurt TGV are jointly operated by SNCF and Deutsche Bahn, but each of the two operators will sell tickets at its own price!
+0	1	1	35	Make sure to check the price offered by each operator before you buy, or use Trainline since they automatically compare SNCF and DB prices.
+0	1	0	36	There are a number of different kinds of high-speed and normal trains:
+0	1	1	36	For most train stations, take the 14 to Gare de Lyon and follow the directions given from Gare de Lyon.
+0	1	0	37	While domestic bus lines were tightly regulated until 2015, the similar experience in Germany, where Intercity buses were deregulated in 2013, have lead to a heavily competitive and fast growing market.
+0	1	0	37	Companies that serve Paris are:
+0	1	0	37	Several autoroutes (expressway, motorway) link Paris with the rest of France: and to the north, and to the south, to the east and and to the west.
+0	1	0	37	Not surprisingly, traffic jams are significantly worse during French school holidays.
+0	1	1	37	The multi-lane highway around Paris, called the Périphérique (BP), is probably preferable to driving through the center.
+0	1	0	38	Another beltway nearing completion; L'A86 (also and A286) loops around Paris about 10 km further out from the Périphérique.
+0	1	0	38	A third, incomplete beltway is much further out and called La Francilienne (N104).
+0	1	0	38	It is advised not to drive within Paris and to be wary in the metropolitan area.
+0	1	0	38	It is better to drive to a suburban train station with a parking lot and then use the train to continue your trip throughout Paris.
+0	1	0	38	Most of Paris' roads were created long before the invention of automobiles.
+0	1	0	38	Traffic inside the city tends to be heavy, especially at rush hour; driving, however, may be rather easy and efficient in the evening.
+0	1	0	38	Parking is also difficult.
+0	1	1	38	Furthermore, the medieval nature of parts of the city's street system makes it very confusing, and traffic will almost never allow one to stop or slow down to get one's bearings.
+0	1	0	39	If you are unfamiliar with the streets and still insist on driving in the city, make sure you have a navigator in the passenger seat with you.
+0	1	0	39	However, Paris does have several iconic boulevards that have multiple lanes, form the backbone of the city’s road network, and are useful if you do choose to bring a car — and are tourist attractions onto themselves.
+0	1	1	39	In Paris, there are many car rental agencies offering a large number and wide range of vehicles for rental.
+0	1	0	40	Additionally, there are numerous car rental agencies located off-site which provide free airport transfers from their location and may offer lower prices well.
+0	1	0	40	The best and cheapest way to get around Paris is on foot, and secondly, using the Metro which is €2.10 for a one-way trip of any length.
+0	1	1	40	Paris walking 101
+0	1	0	41	To get a great orientation of the city on foot while seeing many of Paris' major sights, you can do a West to East walk along the Axe Historique from the Arc de Triomphe to Île de la Cité (Notre Dame).
+0	1	0	41	This walk takes about 1-2 hours without any stops.
+0	1	1	41	Start at the top of the Champs Elysées (at the Arc de Triomphe) and begin walking down the Champs Elysées towards Place ('square') de la Concorde.
+0	1	0	42	Walking in Paris is one of the great pleasures of visiting the City of Light.
+0	1	0	42	It is possible to cross the entire city in only a few hours, but only if you can somehow keep yourself from stopping at numerous cafés and shops.
+0	1	1	42	In fact within a few years walking combined with biking and the Metro may be the only way to get around the very centre of Paris as plans develop to reduce access to cars in the city centre.
+0	1	0	43	The smartest travellers take advantage of the walk-ability of this city, and stay above ground as much as possible.
+0	1	0	43	A metro ride of less than 2 stops is probably best avoided since walking will take about the same amount of time and you'll be able to see more of the city.
+0	1	0	43	That said, pay attention to the Métro stations that you may pass by on your journey; the Métro network is very dense within the city and the lines are virtually always located directly underneath major boulevards, so if you become lost it is easy to regain your bearings by walking along a major boulevard until you find a Métro station.
+0	1	1	43	You may have heard of the hazard of walking into dog droppings in Paris.
+0	1	1	44	The problem is now virtually nonexistent due to fines as high as €180 and extensive street cleaning operations.
+0	1	0	45	It's always fun to experience the city by foot, and there are numerous walking tours around Paris, whether self-guided (with the help of a guidebook or online guide) or with a touring guide (booked through your travel agency or hotel).
+0	1	1	45	The city is best explored by foot, and some of the most marvelous memories you will have of Paris is walking through secret found places.
+0	1	1	46	Pedestrian call buttons at crosswalks are activated by pressing the button underneath the call button box.
+0	1	0	47	Paris has an excellent underground train system, known as the Métro (short for Chemin de fer métropolitain, Metropolitan Railway).
+0	1	0	47	"Although you will probably take the RER suburban train from the airport to Paris, don't be confused: RER is a French-language acronym that translates to ""Regional Express Network,"" and is the suburban train network mostly used by commuters."
+0	1	0	47	"Look for the Métro stations, marked with a large ""M"" sign or with an old-styled sign saying ""Métropolitain""."
+0	1	0	47	There are 17 Métro lines (lignes) (1-14, 3bis, and 7bis) on which trains travel all day at intervals of a few minutes.
+0	1	0	47	Trains usually come 2–3 minutes apart during rush hour and 5–10 minutes apart during other times, depending on the line.
+0	1	0	47	The service starts on each end of every line at 05:30, and the last metro arrives on each end at 01:15 (service ends an hour later on Friday and Saturday nights, and the day before a holiday), stopping at all stations on the line.
+0	1	0	47	Some lines have rare trains that terminate at an intermediate station; if that happens, get off the train with the rest of the crowd and board the next train on the same track or on the other side of the platform (the driver will usually make an announcement in French).
+0	1	1	47	Lines 7 and 13 have a fork, so if you take line 13 north of La Fourche or line 7 south of Maison Blanche, make sure to board the train for the correct destination which is indicated by a lit arrow on the sign in the middle of the platform and on colour-coded binders in each carriage.
+0	1	0	48	Times for trains can be seen on an electronic scroll board above the platform.
+0	1	0	48	Scheduled times for first and last trains are posted in each station on the centre sign.
+0	1	1	48	Generally, except for early and late hours, travellers should not worry about specific Metro train times; just get to your station and take the next train.
+0	1	0	49	The lines are named according to the names of their terminal stations (the end of the line).
+0	1	0	49	"If you ask the locals about directions, they will answer something like: take line number n towards ""end station 1"", change at ""station"", take the line nn towards ""end station 2"" etc."
+0	1	0	49	The lines are also colour-coded.
+0	1	0	49	Changing metro lines might be difficult at times for visitors travelling to or from the airport or train stations with heavy luggage or those with impaired mobility, especially at major metro intersections.
+0	1	1	49	Moving from one platform to another generally involves walking up and down multiple flights of stairs.
+0	1	0	50	Very few stations have elevators (only the newest line 14 is wheelchair-accessible at all stations).
+0	1	0	50	Only the busiest ones have escalators.
+0	1	0	50	It might be a good idea to check out the bus routes and timings and see if one can find a convenient bus connection.
+0	1	1	50	In addition, there are five commuter train lines that cross Paris: RER A, B, C, D, and E. RER trains run at intervals varying from about 3 minutes (RER A) to 6 minutes (RER D), and stop at every station within Paris.
+0	1	0	51	"The rest of the regional network, called ""Transilien"", departs from the main train stations (Lyon for line R, Est for line P, Nord for lines H and K, St-Lazare for lines J and L, Montparnasse for line N) and La Défense (line U)."
+0	1	1	51	Trains can run up to every 5 minutes during rush hour, and you will never have to wait for more than 1 hour between two trains, even on the least served lines in the evening or on the weekend.
+0	1	0	52	Do note that the Transilien is marginally less crowded than the RER and even the Metro.
+0	1	0	52	RER and Transilien will stop at every station within Paris (zone 1), but may skip stations outside Paris, so if you're going to the suburbs make sure your RER stops where you need!
+0	1	0	52	Information about the stops to be made by the next incoming train is presented on a separate board also hanging from the ceiling.
+0	1	1	52	Four letter codes (KRIN, DIPA, TORE, etc.) are used for the RER and Transilien trains; the first letter indicates the station where the train terminates, and the other three indicate the route and stops.
+0	1	0	53	Each line has its own nomenclature.
+0	1	0	53	You can look up what these codes mean on information panels in the station, but the easiest and fastest way is often to check the information screens along the platforms.
+0	1	1	53	The Métro and RER move staggering numbers of people into, out of, and around Paris (6.75 million people per day on average), and most of the time in reasonable comfort.
+0	1	0	54	Certain lines, however, are operating at or near capacity, sometimes being so full that you'll have to let one or two trains pass before being able to board.
+0	1	0	54	If you can help it, avoid Métro lines 1, 4, and 13 and RER line A and B during rush hours as these are the most congested lines in the system.
+0	1	1	54	RATP operates the metro, buses, and about half of the RER A and B.
+0	1	0	55	The rest of the RER, as well as Transilien, is operated by SNCF.
+0	1	1	55	However, both companies take the same tickets, so the difference is of little interest for most people except in case of strikes (RATP may strike without SNCF doing so or the other way round).
+0	1	0	56	You will also see reference to Île-de-France Mobilités, the authority that controls and coordinates the different transport companies operating in the Île-de-France region, which includes Paris.
+0	1	0	56	It provides information for all public transport services operating in the region including all ticket options.
+0	1	1	56	The Île-de-France region is divided into 5 concentric zones for fare purposes.
+0	1	0	57	Paris represents zone 1, all of Paris' immediate neighbours (including Vincennes and Saint-Denis) are in zone 2, La Défense is in zone 3, Orly and Versailles are in zone 4, and Fontainebleau, Provins, Disneyland and Charles de Gaulle airport are in zone 5.
+0	1	0	57	"The few stations outside Île-de-France that are served by the Transilien system are ""hors tarification Île-de-France"", meaning it is necessary to buy a special fare not affected by the zonal system."
+0	1	0	57	Stations have both ticket windows and automatic vending machines.
+0	1	0	57	The automatic vending machines accept credit cards or coins, only some take notes.
+0	1	1	57	To use euro bills or a credit card with a magnetic stripe, it is necessary to make the purchase from the ticket window.
+0	1	0	58	Some automatic vending machines do not give change, so use exact change or go to the ticket window.
+0	1	1	58	If you look at the machines closely, you may find one in the group that takes euro bills and will give change; these machines can be found at major or touristy stations such as Tuileries, Gare de Lyon or La Défense-Grande Arche.
+0	1	0	59	A single Ticket t+ allows you to:
+0	1	0	59	A single paper Ticket t+ costs €2.10 (no longer sold on buses).
+0	1	1	59	A single paper Origin-Destination Ticket allows you to make a journey beyond (and including) zone 1.
+0	1	0	60	Price is distance-based, with capping at €5 (except to/from Charles de Gaulle airport).
+0	1	1	60	You can also purchase a carnet of 10 (20% discount).
+0	1	0	61	Tarif réduit tickets may be purchased for children under the age of 10 (50% discount for a single, 60% discount for a carnet of 10).
+0	1	0	61	"If your Origin-Destination Ticket leaves from or goes to zone 1, or includes a transfer ""via section urbaine"", you can also connect with any metro or RER lines downtown before/after your main trip to/from the suburbs."
+0	1	0	61	In particular, the airports and the Versailles Palace are not within zone 1, so you'll need to purchase Origin-Destination Tickets to reach these locations.
+0	1	0	61	The Navigo Easy Travel Card is a smart card that stores Ticket t+ (Origin-Destination Tickets will be available soon).
+0	1	0	61	The card is available at ticket windows for €2, no ID or photograph required.
+0	1	1	61	The card can be topped up at ticket windows, automatic vending machines or via compatible smartphones using the Île-de-France Mobilités or Bonjour RATP apps.
+0	1	0	62	A single ticket costs €1.90 (cheaper than the paper version).
+0	1	0	62	A carnet of 10 tickets costs €16.90 (cheaper than buying single tickets).
+0	1	1	62	Tarif réduit tickets may be purchased for children under the age of 10 but only in a carnet of 10 for €8.45.
+0	1	0	63	The Navigo Découverte Travel Card is a smart card that stores Weekly or Monthly Tickets, but not Ticket t+ or Origin-Destination Tickets.
+0	1	0	63	The card is available at ticket windows for €5, you will need to write your name and put a photo on it otherwise it will be considered invalid.
+0	1	1	63	The card can be topped up at ticket windows, automatic vending machines or via compatible smartphones using the Île-de-France Mobilités or Bonjour RATP apps.
+0	1	0	64	The Weekly Ticket costs €30 for all zones (you can buy tickets for the current week up till Thursday inclusive.
+0	1	0	64	Tickets bought from Friday onwards are valid from the following Monday.
+0	1	0	64	Ticket validity always ends at midnight on Sunday).
+0	1	1	64	The Monthly Ticket costs €84.10 for all zones (will have to start on the 1st day of the month).
+0	1	0	65	"You can choose between zones 2–3, 3–4, 3–5, 4–5, or ""all zones"", but most visitors to Paris will simply choose ""all zones""."
+0	1	0	65	Weekend travel is free throughout the entire Île-de-France region for passengers holding a Monthly Ticket, despite which zones are covered during the week.
+0	1	0	65	Weekly and Monthly Tickets allow you to reach Orly (zone 4) or Charles de Gaulle (zone 5) airports with any public transit line, except for Orlyval light-rail to Orly airport where it's not valid.
+0	1	1	65	All Navigo cards can store a Day Ticket, allowing unlimited travel on the metro, RER, Transilien, bus and tram networks between 00:00 and 23:59 on any given day.
+0	1	1	66	The price varies depending on the zones you wish to cover.
+0	1	0	67	Prices range from €8.45 (zones 1-2) to €20.10 (zones 1-5).
+0	1	0	67	It is NOT valid on Orlyval, but it is valid on other airport links (RER B, Roissybus, RER C, Orlybus) if the pass includes the appropriate zones.
+0	1	1	67	For travellers under the age of 26, all Navigo cards can store a Jeunes Week-end Under-26 Ticket, allowing unlimited travel on the metro, RER, Transilien, bus and tram networks between 00:00 and 23:59 on weekends or holidays.
+0	1	0	68	The price varies depending on the zones you wish to cover.
+0	1	0	68	Zones 1-3 is €4.60, zones 1-5 is €10.10 and zones 3-5 is €5.90.
+0	1	0	68	It is NOT valid to/from the airports on RER B, Roissybus, Orlybus or Orlyval, but it is valid on local links such as T7 and RER C to Orly and bus 350 or 351 to Roissy.
+0	1	1	68	RATP and SNCF sell passes dedicated to tourists called Paris Visite, more expensive than the one they offer to locals, but they do include something more (a map, and some discounts on selected attractions).
+0	1	0	69	Depending on which attractions you consider visiting, it can be an attractive option... or not.
+0	1	0	69	Although not as good a deal for adults in most cases as the Navigo Day Ticket, the Paris Visite passes might still be a bargain for kids of ages 4–11 for trips on Monday-Friday (when the Jeunes Week-end is not valid), starting at €6.75 (child 4-11) per day for travel within zones 1–3.
+0	1	0	69	The zone 1-5 ticket (adult €28.50 per day) is valid on Orlyval but there are cheaper ways of getting from Orly airport.
+0	1	0	69	Beware that traveling without a ticket will get you fined, and the packs of inspectors who roam the system show no mercy to tourists pleading ignorance.
+0	1	0	69	Keep your ticket with you at all times as you may be checked.
+0	1	0	69	You will be cited and forced to pay on the spot if you do not have a ticket.
+0	1	0	69	The most likely spots for being checked are just behind the turnstiles at big métro stations or during métro line changes (correspondances).
+0	1	0	69	RATP agents may be present in the métro stations even on Sunday nights.
+0	1	0	69	Some larger stations have secondary entrances, where there is no ticket booth.
+0	1	1	69	These are labelled voyageurs munis de billets (passengers with tickets).
+0	1	0	70	When entering the turnstile with a ticket or Navigo card, it will only work once for that particular station and can only be reset if you use it at another station.
+0	1	0	70	Once you have passed your ticket or Navigo card, promptly move through the turnstile as it will not let you through if you attempt to use it again.
+0	1	1	70	Avoid suburban charges
+0	1	0	71	Holding a ticket or a Navigo card for zone 1-2 (inside the Paris area) allows you to use any metro station, regardless of its actual zone.
+0	1	1	71	For example, if you want to go to La Défense (zone 3) from Châtelet, you should take the Métro (Line 1).
+0	1	0	72	You can take the RER A (and save a few minutes), but you have to pay an additional fare because of the zone system for RER.
+0	1	0	72	Each station displays a detailed map of the surrounding area with a street list and the location of buildings (monuments, schools, places of worship, etc.,) as well as exits for that particular metro.
+0	1	0	72	Maps are located on the platform if the station has several exits or near the exit if there is only one exit.
+0	1	0	72	Except for Métro 1, 2, 4, 5, 9, 13, and 14, the doors will not open automatically.
+0	1	1	72	In such a case, there are handles or buttons located both inside and outside the train that you have to push or unlatch in order to open the door.
+0	1	0	73	Many locals may try to squeeze into the trains after the alarm has sounded to signal the closing of the doors.
+0	1	0	73	While one can occasionally pass through on lines with a driver, the automatic doors on Métro 1 and 14 will continue to close despite the presence of a limb or article of clothing.
+0	1	1	73	It is strongly advised to wait for the second train than to chance being caught between the doors.
+0	1	1	74	Strikes, breakdown and construction are regular occurrences on the Paris public transit system.
+0	1	0	75	Generally during a strike, the métro operates with reduced service and some suburban lines may stop operating altogether.
+0	1	0	75	Visit the RATP and Transilien websites for information on which routes are affected (beware that real-time traffic information and construction announcements are often available only on the French-language sites).
+0	1	0	75	Since the Métro is primarily structured around a hub-and-spoke model, there are some journeys for which it can be quite inefficient, and in these cases, it is worth seeing if a direct bus route exists, despite the complexity of the bus network.
+0	1	0	75	A bus ride is also interesting if you want to see more of the city.
+0	1	0	75	All stops have a name and are clearly marked on the street.
+0	1	1	75	At complex intersections, stops usually have a situation map that lets you know where other lines stop and if applicable where to find a Métro entrance.
+0	1	0	76	If more than one line stops, wave to the driver to let them know you want to board.
+0	1	0	76	All buses have a schematic map of the line on display with all stop names, bus connections and major street names.
+0	1	0	76	Electronic displays inside each bus tell riders its current position and what stops remain, but don't overly rely on them as they don't always work.
+0	1	0	76	Buses and trams use the same tickets and Navigo as the Métro.
+0	1	1	76	A ticket is valid for 90min after its first validation, except that you may not backtrack.
+0	1	0	77	Just put the ticket in the machine again when you change buses.
+0	1	0	77	You cannot buy a ticket from the bus driver, and SMS ticket can only be bought with a French mobile phone number.
+0	1	1	77	You can't use a single ticket for a combined Métro+bus trip: if a ticket has been used in a bus, you can't use it in the Métro, and vice versa.
+0	1	0	78	Most tourists will not encounter the trams as they run only on the outskirts of the city.
+0	1	0	78	Trams T3a & T3b go nearly three quarters of the way round the city at the edge.
+0	1	0	78	Tram 7 connects Orly Airport with Métro Line 7; it is cheap but not fast.
+0	1	1	78	Noctilien, night buses run regularly through the central hub at Chatelet to outlying areas of greater Paris.
+0	1	0	79	There is also a circle line connecting the main train stations.
+0	1	0	79	It pays to know one's Noctilien route ahead of time in case one misses the last Métro home.
+0	1	0	79	Women travellers should probably avoid taking the Noctilien on their own to destinations outside Paris.
+0	1	0	79	There are several excellent boat services which make use of the Seine.
+0	1	1	79	As well as providing easy, cheap transport to much of central Paris, excellent photo opportunities abound.
+0	1	0	80	You can buy a day or 3 day ticket and hop on and off the boat as needed.
+0	1	0	80	The boats take a circular route from the Eiffel Tower, down past the Louvre, Notre Dame, botanical gardens then back up the other bank past Musée d'Orsay.
+0	1	0	80	Batobus offers a regular shuttle service between the main tourist sights (closed Jan); other companies such as the famous Bateaux Mouches offer sightseeing cruises.
+0	1	1	80	You
+0	1	0	81	Directions
+0	1	0	81	If you find yourself lost in the streets, a good idea is to find the nearest Hotel and ask the concierge for directions.
+0	1	0	81	Most speak English well.
+0	1	0	81	"A simple ""Bonjour Monsieur / Madame, parlez-vous anglais?"" should suffice."
+0	1	0	81	Renting a bike is a very good alternative over driving or using public transport and an excellent way to see the sights.
+0	1	0	81	Riding a bike anywhere in the city is far safer for the moderately experienced cyclists than almost any town or city in the United States.
+0	1	0	81	The French are very cognizant of cyclists, almost to a point of reverence.
+0	1	0	81	Paris hasn't always been the easiest place to get around by bike, but that is no longer the case.
+0	1	1	81	The city government has taken a number of steps in strong support of improving the safety and efficiency of the urban cyclist as well, in establishing some separated bike lanes, creating a bikesharing system, and allowing cyclists to share the ample bus lanes on most major boulevards.
+0	1	0	82	Paris also has many riverside paths which are perfect for cycling.
+0	1	0	82	The Paris bike network now counts over 150 km of either unique or shared lanes for the cyclist.
+0	1	1	82	In addition, the narrower, medieval side streets of the central arrondissements make for rather scenic and leisurely cycling, especially during off-hours of the day when traffic is lighter.
+0	1	1	83	Do remember to bring a good map, since there is no grid plan to speak of and almost all of the smaller streets are one-way.
+0	1	0	84	While the streets of Paris are generally fairly easy on novice cyclists, there are some streets in the city that should be avoided by those who do not have sufficient urban cycling experience.
+0	1	0	84	Rue de Rivoli, Place de la Bastille, and Place de la Nation are particularly hairy, especially during weekdays and the Saturday evening rush, and should not be navigated by anyone not confident in their ability to cycle in heavy traffic.
+0	1	0	84	Avenue des Champs-Elysées, Place de l'Étoile, and voie Georges Pompidou (the lower-level express lanes along the banks of the Seine) should be avoided at all times.
+0	1	1	84	You can find an excellent map of the bike network called Paris à vélo - Le bon plan[dead link]) at the information centre in the Hôtel de Ville.
+0	1	0	85	Like many cities, Paris was in 2018 more or less flooded with free-floating electric scooters which you can rent through an app.
+0	1	0	85	You'll find them whizzing around and standing nearly everywhere.
+0	1	0	85	Examples include Bird and Lime, but several other brands are also available.
+0	1	0	85	If you take one, make sure to park it in a place where it doesn't obstruct any other foot or motorized traffic.
+0	1	0	85	"Paris is an incredibly open city, with its many ""Grands Boulevards"" and monuments with large open spaces around make it a city perfect to be explored and viewed by scooter."
+0	1	0	85	Be warned that scooter/motorbike is by far the mode of transportation with the most casualties in Paris: half of victims of a collision were riding one, although they only account for about 2% of the traffic.
+0	1	1	85	"When you're riding a scooter or motorbike in Paris, even if you see others doing so, it is not allowed to ""lane-split"" between the rows of cars waiting in traffic."
+0	1	0	86	At the red lights, even though a lot of scooter and motorbike drivers do not respect it, don't forget to pay attention to the bike designated area: you are not allowed to use them, and doing so is equivalent to failing to respect the red light (€135 fine).
+0	1	0	86	Parking-wise there are plenty of deux roues (two wheel) parking spots all over the city.
+0	1	0	86	Again, even though you may see plenty of scooters or motorbikes parked on the sidewalk, it is forbidden to do so.
+0	1	0	86	The city of Paris has dramatically increased the number of vehicles fined every day (€35), some of them even being towed away (at your own expenses).
+0	1	0	86	Paris is a hub for city skating.
+0	1	0	86	This is due to the large, smooth surfaces offered by both the pavements and the roads.
+0	1	0	86	Skating on the pavement is legal all around Central Paris (zone 1) and its suburbs (zones 2+).
+0	1	1	86	In a word: don't.
+0	1	0	87	It is generally a very bad idea to rent a car to visit Paris.
+0	1	1	87	Traffic is very dense during the day, and parking is, on average, exceedingly difficult and expensive.
+0	1	0	88	This is especially true in areas surrounding points of interest, since many of these are in areas designed long before automobiles existed.
+0	1	0	88	A majority of Parisian households do not own cars, and many people who move to the city find themselves selling their cars within a month or two.
+0	1	0	88	That said, driving may be an option for going to some sights in the suburbs such as Vaux-le-Vicomte castle or the castle and city at Fontainebleau, or for starting to other places in France.
+0	1	0	88	You may prefer to rent from a location outside Paris proper.
+0	1	0	88	Traffic rules in Paris are basically the same as elsewhere in France, with the exception of having to yield to incoming traffic on roundabouts.
+0	1	0	88	However, driving in dense traffic in Paris and suburbs during commute times, can be especially strenuous.
+0	1	1	88	Be prepared for traffic jams, cars changing lanes at short notice, and so on.
+0	1	0	89	Another issue is pedestrians, who tend to fearlessly jaywalk more in Paris than in other French cities.
+0	1	0	89	Be prepared for pedestrians crossing the street on red, and expect similar adventurous behaviour from cyclists.
+0	1	0	89	Remember that even if a pedestrian or cyclist crossed on red, if you hit him, you (in fact, your insurance) will have to bear civil responsibility for the damages, and possibly prosecution for failing to control your vehicle.
+0	1	0	89	Note that the speed limit in Paris is 30 km/h in almost every street, besides a few large avenues clearly marked as such.
+0	1	0	89	Paris has several orbital roads.
+0	1	1	89	There is a series of boulevards named after Napoleonic-era generals (Boulevard Masséna, Boulevard Ney, and so forth), and collectively referred to as boulevards des Maréchaux.
+0	1	1	90	These are normal wide avenues, with traffic lights.
+0	1	0	91	Somewhat outside of these is the boulevard périphérique, a controlled-access road with grade separation.
+0	1	0	91	The périphérique intérieur is the inner lanes (going clockwise), the périphérique extérieur the outer lanes (going anti-clockwise).
+0	1	0	91	Despite the looks, the périphérique is not an autoroute: the speed limit is 70 km/h and, very unusually, incoming traffic has the right of way, at least theoretically (presumably because, otherwise, nobody would be able to enter during rush hour).
+0	1	1	91	To stop a taxi...
+0	1	0	92	... watch the sign on the roof: if the wide sign is green, the cab is available, if it is red, the cab is busy, if it is off, the cab is off
+0	1	0	92	Taxis are comparatively cheap especially at night when there are no traffic jams to be expected.
+0	1	0	92	There are not as many as one would expect, and sometimes finding a taxi can be challenging.
+0	1	0	92	In the daytime, it is not always a good idea to take a taxi, as walking or taking the metro (See: Métro) will often be faster.
+0	1	1	92	If you know you will need one to get to the airport, or to a meeting, it is wise to book ahead by phone.
+0	1	0	93	Initial fare is €2.40 and the meter increases by around €1.10 each kilometer and around 50 cents each minute spent at red lights or in traffic jams.
+0	1	1	93	Fares are fixed by the city law and every driver complies to them.
+0	1	0	94	Fares vary according to the day of the week, the hour of the day and the area you're crossing.
+0	1	1	94	If you call a taxi, the meter starts when you call and not when you get in.
+0	1	0	95	You should expect a €5 to €10 fare on the meter when the taxi arrives after you call it.
+0	1	0	95	Remember if a taxi is near a 'taxi station', they're not supposed to pick you up except at the station where there may be people waiting for a taxi.
+0	1	1	95	Taxi stations are usually near train stations, big hotels, hospitals, large crossings.
+0	1	0	96	There are a number of services by which you can call for taxis or make a reservation in advance.
+0	1	0	96	The two largest fleet are Taxis G7 and Taxis Bleus:
+0	1	0	96	As in many other cities a taxi can be difficult to stop; you may have to try several times.
+0	1	0	96	When you do get a taxi to stop, the driver will usually roll down his window to ask you where you want to go.
+0	1	1	96	If the driver can't (or doesn't want to) go where you want, he might tell you that he's near the end of his work day & can't possibly get you where you want before he has to go off-duty.
+0	1	0	97	There is a €6.40 minimum (2012) on all taxi rides, mandated by city law, but the meter does not show this amount, which can result in being asked to pay more than the metered amount on short rides.
+0	1	0	97	In Paris taxis are required by law to charge for the trip with a meter, charging a flat rate is illegal, except from/to Charles de Gaulle airport (€50 from the right bank of the Seine, €55 from the left bank) and Orly airport (€35 from the right bank, €30 from the left bank).
+0	1	0	97	Frequently the taxi driver will not want to drive you all the way to the doorstep, but will prefer to let you out a block or so away if there are one or more one-way streets to contend with.
+0	1	1	97	Try to look at this as a cost-savings rather than an inconvenience.
+0	1	0	98	You should pay while still seated in the cab as in New York and not through the front window London style.
+0	1	1	98	The driver will not let you sit in the front seat (unless there are 3 or 4 of you, which is a rare case usually expedited by more money).
+0	1	0	99	Taxi-drivers come in all types, some nice, some rude, some wanting to chat, some not.
+0	1	0	99	Smoking in taxis is generally not allowed, however it might be that the taxi driver himself wants a cigarette in which case the rule might become flexible.
+0	1	0	99	Many drivers prefer that you avoid using your cellphone during the ride; if you do have to, make an apologizing gesture & sound, and do make a short call.
+0	1	0	99	If for any reason you wish to file a complaint about a Paris taxi, take note of the taxi's number on the sticker on the left hand backseat window.
+0	1	0	99	Beware of illegal taxis (see the 'Stay Safe' section).
+0	1	1	99	Known as car services or livery cabs, these cars are not allowed to cruise the street or airports for fares.
+0	1	0	100	You need to book them before they can pick you up.
+0	1	1	100	"They are flat rate rather than metered (ask for the fare before getting in), and there are two types of licence: the ""Grande Remise"" that allows the car & driver to pick-up & drop-off passengers anywhere in France, and the ""carte verte"" that allows pick-up & drop-off in the department or region where the company is based."
+0	1	0	101	The Grande Remise cars have a GR on their front plate.
+0	1	0	101	They provide more service than a normal cab.
+0	1	0	101	You can find two kind of cab: private and shared.
+0	1	0	101	Store your luggage
+0	1	1	101	When you are visiting Paris, you may need to store your luggage.
+0	1	1	102	You can find luggage storage in every big railway station.
+0	1	0	103	French (français) is of course the country's official language.
+0	1	0	103	Any native French person will speak French and it helps if you can speak a bit of it.
+0	1	0	103	In the parts of the city that tourists frequent the most, the shopkeepers, information booth attendants, and other workers are likely to answer you in English, even if your French is advanced.
+0	1	0	103	These workers tend to deal with thousands of foreign-speaking tourists, and responding in English is often faster than repeating themselves in French.
+0	1	0	103	This is not the case for the rest of the city.
+0	1	1	103	Reading up
+0	1	0	104	Before you leave you may want to read a book like French or Foe by Polly Platt or Almost French by Sarah Turnbull — interesting, well-written records from English-speaking persons who live in France.
+0	1	0	104	For most Parisians, English is something they had to study in school, and thus seems a bit of a chore.
+0	1	0	104	People helping you out in English are making an extra effort, sometimes a considerable one.
+0	1	1	104	Parisians younger than 40 are much more likely to be fluent in English.
+0	1	0	105	Immigrants, often working in service jobs, are less likely to speak English and.
+0	1	0	105	If it's your first time in France you will have some problems understanding what people are saying, even with prior education in French.
+0	1	0	105	Unlike most language education tapes, real Parisians tend to speak fast, use slang, and swallow some letters.
+0	1	0	105	When attempting to speak French, do not be offended if people ask you to repeat, or seem not to understand you, as they are not acting out of snobbery.
+0	1	0	105	Keep your sense of humour, and if necessary, write down phrases or place names.
+0	1	1	105	And remember to speak slowly and clearly.
+0	1	1	106	Unless you have an advanced level and can at least sort of understand French movies, you should also assume that it will be difficult for people to understand what you are saying (imagine someone speaking English to you in an indiscernible accent).
+0	1	0	107	"When in need of directions what you should do is this: find a younger person, or a person reading some book or magazine in English, who is obviously not in a hurry; say ""hello"" or ""bonjour"" (bon-zhor); start by asking if the person speaks English, ""Parlez-vous anglais?"" (Par-LAY voo on-glay?) even if the person can read something in English, speak slowly and clearly; write down place names if necessary."
+0	1	0	107	Smile a lot.
+0	1	1	107	Also, carry a map (preferably Paris par Arrondissement); given the complexity of Paris streets it is difficult to explain how to find any particular address in any language, no matter how well you speak it.
+0	1	0	108	If anything, the person may have an idea as to the place you are looking for, but may not know exactly where it may be, so the map always helps.
+0	1	0	108	"On the other hand, you will probably get the cold shoulder if you stop a random person in the métro, fail to greet them and say ""where is place X or street Y""."
+0	1	1	108	"Now, if you speak French, remember two magic phrases: ""Excusez-moi de vous déranger"" [ex-kuh-zay mwuh duh voo day-rawn-ZHAY] (""Sorry to bother you"") and ""Pourriez-vous m'aider?"" [por-EE-AY voo may-DAY] (""Could you help me?"") especially in shops; politeness will work wonders."
+0	1	0	109	"It is considered polite to always say ""bonjour"" (during the day) or ""bonsoir"" (at night) to employees when entering any type of shop even if you have no intention of buying anything."
+0	1	0	109	"Upon leaving you should say ""merci"" to thank the shopkeeper for allowing you to browse and say ""bonne journée"" (bun zhur-nay) or ""bonne soirée"" (bun swa-ray) to wish them a good day or evening."
+0	1	1	109	"Bonne nuit is only used when telling someone ""goodnight"" when going to bed."
+0	1	0	110	"Finally, if you speak a language other than English or French, and your French is limited or non-existent, offer to speak your second language with the phrase ""Parlez-vous anglais ou XXXX?"""
+0	1	1	110	(Par-LAY voo on-glay oo XXXX?) as this shows that you are making an effort to speak somebody else's language as well as your own.
+0	1	0	111	The listings below are just some highlights of things that you really should see if you can during your visit to Paris.
+0	1	0	111	Detailed information can be found on each individual district page (click on the name of the sight).
+0	1	0	111	All national museums and monuments are free for all every first Sunday of the month.
+0	1	0	111	"Planning your visits: several sites have ""choke points"" that restrict the number of visitors that can flow through."
+0	1	0	111	These include: The Eiffel Tower, Sainte-Chapelle, and the catacombs.
+0	1	0	111	To avoid lines, you should start your day by arriving at one of these sites at least 30 minutes before opening time.
+0	1	0	111	Otherwise, expect a wait of at least an hour.
+0	1	0	111	Most museums and galleries are closed on either Monday or Tuesday.
+0	1	1	111	Examples: the Louvre museum is closed on Tuesdays while the Orsay Museum is closed on Mondays.
+0	1	0	112	Be sure to check museum closing dates to avoid disappointment!
+0	1	0	112	Also, most ticket counters close 30-45 min before final closing.
+0	1	0	112	All national museums are open free of charge on the first Sunday of the month.
+0	1	0	112	However, this may mean long lines and crowded exhibits.
+0	1	0	112	Keep away from Paris during Easter week due to crowding.
+0	1	1	112	People have to queue up at the Eiffel Tower for several hours even early in the morning.
+0	1	0	113	However, this wait can be greatly reduced, if fit, by walking the first two levels, then buying an elevator ticket to the top.
+0	1	0	113	Entry to the permanent exhibitions at city-run museums is free at all times (admission is charged for temporary exhibitions).
+0	1	0	113	One of the best value and most convenient ways to see the sights of Paris is with the Paris Museum Pass, a pre-paid entry card that allows entry into over 70 museums and monuments around Paris (and the Palace of Versailles) and comes in 2-day (€52), 4-day (€66) and 6-day (€78) denominations (March 2022).
+0	1	0	113	These are consecutive days.
+0	1	0	113	The card allows you to jump lengthy queues, a big plus during tourist season when line can be extensive, and is available from participating museums, tourist offices, FNAC branches and all the main Métro and RER train stations.
+0	1	0	113	You will still need to pay to enter most special exhibitions.
+0	1	0	113	To avoid waiting in the first long queue to purchase the museum pass, stop to purchase your pass a day or more in advance after mid-day.
+0	1	1	113	The pass does not become active until your first museum or site visit when you write your start date.
+0	1	1	114	After that, the days covered are consecutive.
+0	1	0	115	Do not write your start date until you are certain you will use the pass that day and be careful to use the European date style as indicated on the card: day-month-year.
+0	1	0	115	Also consider the ParisPass, a pre-paid entry card + queue jumping to 60 attractions including the Louvre, The Arc de Triomphe, as well as a river cruise and allows free metro & public transport travel.
+0	1	0	115	It seems like there's almost always something happening in Paris, with the possible exceptions of the school holidays in August and February, when about half of Parisians are to be found not in Paris, but in the South of France or the Alps respectively.
+0	1	0	115	"The busiest season is probably the fall, from a week or so after la rentrée scolaire or ""back to school"" to around Noël (Christmas) theatres, cinemas and concert halls book their fullest schedule of the year."
+0	1	1	115	Good listings of current cultural events in Paris can be found in Pariscope or Officiel des spectacles, weekly magazines listing all concerts, art exhibitions, films, stage plays and museums.
+0	1	1	116	Available from all kiosks.
+0	1	0	117	Timeout is a good option for tourists, who don't speak French.
+0	1	0	117	Even so, there are a couple of annual events in the winter, starting with a furniture and interior decorating trade fair called Maison & Object in January.
+0	1	1	117	In February le nouvel an chinois (Chinese New Year) is celebrated in Paris as it is in every city with a significant Chinese and Vietnamese population.
+0	1	0	118	There are parades in the 3rd and 4th arrondissements and especially in the Quartier Asiatique (Asian Quarter) in the 13th south of Place d'Italie.
+0	1	0	118	Also in February is the Six Nations Rugby Tournament which brings together France, England, Ireland, Scotland, Wales and Italy.
+0	1	0	118	The International Agricultural Show (Salon Internationale de l'Agriculture) usually takes place over a week around the end of February/beginning of March at the Porte de Versailles exhibition centre.
+0	1	1	118	It is unmissable (not just for tourists but also French politicians wanting to appear in touch with rural France), and showcases large numbers of domestic animals as well as selling speciality food products from all over France and its former colonies in Africa.
+0	1	1	119	Particularly recommended are the food stalls from the overseas territories where you can try regional specialities that are hard to come by even in Metropolitan France, and they will often also have performances from folk musicians/dancers.
+0	1	0	120	It's usually advised to buy tickets in advance as the queues for entry can be long.
+0	1	0	120	The first of two Fashion weeks occurs in March: Spring Fashion
+0	1	1	120	Week, giving designers a platform to present women's prêt-à-porter (ready to wear) collections for the following winter.
+0	1	0	121	In June, Rendez-vous au Jardin is an open house for many Parisian gardens, giving you a chance to meet real Parisian gardeners and see their creations.
+0	1	0	121	The Fête de la Musique celebrates the summer solstice (21 June) with this city-wide free musical knees-up.
+0	1	0	121	Finally on the 26th of June is the Gay Pride parade, featuring probably the most sincere participation by the mayor's office of any such parade on the globe.
+0	1	0	121	The French national holiday Bastille Day on the 14th of July celebrates the storming of the infamous Bastille during the French Revolution.
+0	1	1	121	Paris hosts several spectacular events that day of which the best known is the Bastille Parade which is held on the Champs-Élysées at 10:00 and broadcast to pretty much the rest of Europe by television.
+0	1	0	122	The entire street will be crowded with spectators so arrive early.
+0	1	0	122	The Bastille Day Fireworks is an exceptional treat for travellers lucky enough to be in town on Bastille Day.
+0	1	1	122	The Office du Tourisme et des Congress de Paris recommends gathering in or around the champ de Mars, the gardens of the Eiffel Tower.
+0	1	1	123	Also in July, Cinema en Plein Air is the annual outdoor cinema event that takes place at the Parc de la Villette, in the 19th on Europe's largest inflatable screen.
+0	1	0	124	For most of the months of July and August, parts of both banks of the Seine are converted from expressway into an artificial beach for Paris Plages.
+0	1	0	124	Also in July the cycling race le Tour de France has a route that varies annually, however it always finishes on the last Sunday of July under the Arc de Triomphe.
+0	1	0	124	On the last full weekend in August, a world-class music festival Rock en Seine draws international rock and pop stars to the Domaine national de Saint-Cloud, just west of Paris.
+0	1	1	124	During mid-September DJs and (usually young) fans from across Europe converge on Paris for five or six days of dancing etc.
+0	1	0	125	culminating in the Techno parade - a parade whose route traces roughly from Place de la Bastille to the Sorbonne, and around the same time the festival Jazz à la Villette brings some of the biggest names in contemporary jazz from around the world.
+0	1	0	125	In the beginning of autumn the vine harvest fest takes place.
+0	1	1	125	The most famous is the Fête des Vendanges de Montmartre, a food festival around the vine harvest of the Montmartre vineyard.
+0	1	0	126	The Nuit Blanche transforms most of central Paris into a moonlit theme-park for an artsy all-nighter on the first Saturday of October, and Fashion Week returns shortly thereafter showing off Women's Prêt-à-Porter collections for the following summer; as we've noted winter collections are presented in March.
+0	1	0	126	The third Thursday in November marks the release of Le Beaujolais Nouveau and the beginning of the Christmas season.
+0	1	0	126	This evening, the Christmas lights are lit in a ceremony on the Champs-Élysées, often in the presence of hundreds (if not thousands) of people and many dignitaries, including the president of France.
+0	1	1	126	Unfortunately, there are no comprehensive event guides covering concerts, clubs, movies or special events.
+0	1	0	127	For theatre, movies and exhibitions pick up the Pariscope and L'officiel du Spectacle, available at newsstands for €0.40.
+0	1	0	127	For (especially smaller, alternative) concerts pick up LYLO, a small, free booklet available in some bars and at FNAC.
+0	1	0	127	There is no user-friendly online version of these guides.
+0	1	0	127	Paris is considered by many as the birthplace of photography, and while one may debate the correctness of this claim, there is no debate that Paris is today a photographer's dream.
+0	1	1	127	The French capital offers a spectacular array of photographic expositions and opportunities to the beginner and the pro alike.
+0	1	0	128	It has photogenic monuments (e.g., Arc de Triomphe, Eiffel Tower, the obelisk at Concorde, and countless others); architecture (e.g., the Louvre, Notre Dame, the Museum of the Arab World) and urban street scenes (e.g., in the Marais, Montmartre and Belleville).
+0	1	0	128	When you tire of taking your own photos, visit one of the many institutions dedicated to photography.
+0	1	0	128	At these and other institutions, you can learn the about the rich history of Paris as the place of important developments in photography (e.g., the Daguerrotype) and as the home of many of the trade's great artists (e.g., Robert Doisneau, André Kertész, Eugene Atget and Henri Cartier-Bresson).
+0	1	0	128	The Cinémas of Paris are (or at least should be) the envy of the movie-going world.
+0	1	1	128	Of course, like anywhere else you can see big budget first-run films from France and elsewhere.
+0	1	1	129	That though, is just the start.
+0	1	0	130	During any given week there are at least half-a-dozen film festivals going on, at which you can see the entire works of a given actor or director.
+0	1	0	130	Meanwhile, there are some older cult films like say, What's new Pussycat or Casino Royal which you can enjoy pretty much any day you wish.
+0	1	1	130	"Many non-French movies are subtitled (called ""version originale"" ""VO"" or ""VOstfr"" as opposed to ""VF"" for version française)."
+0	1	1	131	There are any number of ways to find out what's playing, but the most commonly used guide is Pariscope, which you can find at newsstands for €0.70.
+0	1	0	132	"Meanwhile, there are innumerable online guides which have information on ""every"" cinema in Paris."
+0	1	0	132	The Cinemathèque française and the Forum des Images are the two public film institutions that organize retrospectives, exhibitions and festivals.
+0	1	1	132	The 48.8719442.3316675 Paris Opera, as well as its associated ballet company, the Paris Opera Ballet, are considered to be among the premier classical performance companies in the world.
+0	1	0	133	If you are under 26, there is a flat rate of €10 for every private theatre of the town every Tuesday, Wednesday, and Thursday night.
+0	1	0	133	This fare does not apply to public theatres nor opera.
+0	1	0	133	Paris Mômes is a Parisian cultural guide with children's activities and events that comes out several times a year.
+0	1	1	133	Paris is the seat of other places to learn about a variety of topics.
+0	1	0	134	How better to get to know a culture than to learn the ins and outs of its native cuisine.
+0	1	0	134	After sampling your fair share of Macarons and Magret de Canard around Paris, you might enjoy taking an afternoon to learn how to make these delicacies yourself and take the recipes home with you.
+0	1	0	134	While there are many cooking schools around Paris, only a few offer classes in English.
+0	1	0	134	Work in Paris, especially for non-EU/EEA/Swiss citizens, entails a very long and arduous process.
+0	1	0	134	Unless you possess one of a number of in-demand skills, it will almost certainly be necessary to obtain a job offer from an employer before arriving.
+0	1	1	134	Your employer, for their part, will have to have the offer approved by the relevant governmental authorities, as well.
+0	1	0	135	If you opt for unreported work, such as babysitting, you need not fret about going through the process to obtain a Carte de séjour, i.e., a formal visitor's identity card.
+0	1	1	135	However, if you do choose a change in location, it is advisable to obtain a Carte de séjour prior to finding any job whatsoever, as the process can be longer than expected.
+0	1	0	136	A Carte de séjour is often necessary to open a bank account and the like, and by extension for accomplishing any number of other tasks involved in modern life, so unless you're very comfortable transacting everything in cash you should probably bite the bullet and keep things on the up-and-up.
+0	1	1	136	If you go to Paris for a conference, there's a very good chance you'll end up in a meeting or exhibiting at CNIT (Centre of New Industries and Technology).
+0	1	0	137	This conference and convention space is one of the oldest buildings in the La Defense area of Paris and still looks modern even though it's been eclipsed in height by surrounding buildings and hotels near the CNIT are mainly catered to those staying in the area on business.
+0	1	0	137	Remember, the city of Paris has a huge network of immigrants coming and going, and it is always great to tap into that network.
+0	1	0	137	The city holds a great abundance of work ready to be found, even if the search feels nerve-wracking at first.
+0	1	1	137	Paris is one of the great fashion centres of the Western world, up there with New York, London, and Milan, making it a shopper's delight.
+0	1	0	138	While the Paris fashion scene is constantly evolving, the major shopping centres tend to be the same.
+0	1	0	138	High end couture can be found in the 8th arrondissement.
+0	1	1	138	In summer, there is nothing better than browsing the boutiques along Canal St-Martin, or strolling along the impressive arcades of the historic Palais-Royal, with beautifully wrapped purchases swinging on each arm.
+0	1	0	139	Le Marais is a mostly Jewish neighbourhood, most of the shops in Le Marais are open on Sundays.
+0	1	0	139	"The stores in this area are intimate, boutique, ""Parisian"" style clothing stores."
+0	1	0	139	You will no doubt find something along each street, and it is always well worth the look.
+0	1	1	139	Other great areas to shop around in are around the area Sèvres Babylone (Métro Line 10 and Line 12).
+0	1	0	140	It is in this area you will find the Le Bon Marché 7th, particularly rue de Cherche Midi 6th.
+0	1	0	140	The area boasts some of the major fashion houses (Chanel, Jean Paul Gaultier, Versace, etc.) and also has smaller private boutiques with handmade clothing.
+0	1	0	140	In the Quartier Saint-Germain-des-Prés, you can find a handful of vintage clothing shops, carrying anything from couture early 20th century dresses, to 70s Chanel sunglasses.
+0	1	1	140	Walking along Boulevard Saint-Germain, you will find major brands.
+0	1	0	141	However, if in search of eclectic finds, opt to walk the northern side of the Boulevard, especially along rue Saint André des Arts, where you can always find a nice café to stop in.
+0	1	0	141	The area south of Saint-Germain is just as nice, and comes with a price tag to match.
+0	1	1	141	In the artsy quarters of 1 and 4, there are many bargains to be had, once again, if you are prepared to look.
+0	1	0	142	Souvenirs are easily found and can be fairly inexpensive as long as you don't buy from the tourist sites.
+0	1	0	142	For cheap books of French connection, try the University/Latin quarter as they sell books in all languages starting from half a euro each.
+0	1	0	142	Paris has 3 main flea markets, all on the outskirts of the central city.
+0	1	0	142	The most famous of these is the Marché aux Puces de St-Ouen (Porte de Clignancourt) (Clignancourt Flea Market), Métro: Porte de Clignancourt, in the 18th, a haven for lovers of antiques, second-hand goods, and retro fashion.
+0	1	0	142	The best days to go are Saturday and Sunday.
+0	1	1	142	There are particular times of the week when only antique collectors are allowed into the stalls, and there are also times of the day when the stall owners take their Parisian siesta, and enjoy a leisurely cappuccino for an hour or so.
+0	1	0	143	The best times to visit the flea markets are in the spring and summertime, when the area is more vibrant.
+0	1	1	143	In and around the metro station, you may find the area a little wild, but still safe.
+0	1	0	144	The Marché aux Puce de Vanves in the 14th arrondissement is open on Saturday and Sunday from 7h-14h.
+0	1	0	144	The closes metro station is Porte de Vanves.
+0	1	1	144	Rue de Rome, situated near Gare St. Lazare, is crowded with luthiers, brass and woodwind makers, piano sellers, and sheet music stores.
+0	1	0	145	Subway station Europe.
+0	1	0	145	The area south of the metro station Pigalle is also packed with music shops (more oriented towards guitars and drums).
+0	1	0	145	For art lovers, be sure to check out Quartier Saint-Germain-des-Prés, which is renowned for its galleries, and it is impossible to turn a street without finding a gallery to cast your glance in.
+0	1	0	145	On Fridays, most open until late.
+0	1	1	145	Most even have the benefit of bottles of wine so you can wander in with your glass of wine and feel very artistique.
+0	1	0	146	Great roads to walk along are rue de Seine, rue Jacob, rue des Beaux Arts, Rue Bonaparte, and Rue Mazarine.
+0	1	0	146	Also, be sure to visit the historical district of Montparnasse and quartier Vavin where artists like Modigliani, Gauguin and Zadkine used to work.
+0	1	1	146	Paris is one of Europe's culinary centres, where the haute cuisine has flourished since at least the French revolution.
+0	1	0	147	It may however come as a surprise that Paris isn't considered the culinary capital of French cuisine; many people prefer the French cooking found in small rural restaurants, outside of the city, closer to the farms and with their focus on freshness and regional specialities.
+0	1	0	147	Even among French cities, Paris has long been considered by the French as second to Lyon for fine dining.
+0	1	0	147	There have been other challenges in the last 20 years or so as restaurateurs in places like San Francisco and Sydney briefly surpassed their Parisian fore bearers, again with an emphasis on freshness of ingredients but also borrowings from other cuisines.
+0	1	1	147	Parisian cooks didn't just rest on their laurels during this time, rather they travelled, taught, and studied, and together with Paris's own immigrant communities, have revitalized the restaurant trade.
+0	1	1	148	Today you can find hundreds of beautiful restaurants with thoughtful (or just trendy) interior design and well-planned and executed cartes and menus offering a creative mélange of French and exotic foreign cuisines.
+0	1	0	149	It's safe to say that Paris is once again catching up with or edging ahead of its Anglophone rivals.
+0	1	0	149	Of course there are also some traditional offerings, and for the budget conscious there are hundreds of traditional bistros, with their sidewalk terraces offering a choice of fairly simple (usually meat centred) meals for reasonable prices.
+0	1	1	149	For the uninitiated, it is unfortunately possible to have a uniformly poor dining experience during a stay in Paris, mainly because many attractions are situated in upscale areas of town, and that mass tourism attracts price gougers.
+0	1	0	150	It is frequent to hear of people complaining of very high Parisian prices for poor food and poor service, because they always tried to eat close to major tourist magnets.
+0	1	0	150	For good food and great service, try to go eat where the locals eat.
+0	1	1	150	Many restaurants are tiny and have tables close together - square metres are at a premium and understandably restaurateurs need to make the most of limited space.
+0	1	0	151	In some cases when the restaurant is crowded, you may have to sit beside strangers at the same table.
+0	1	1	151	If that does not appeal to you, go to a more upscale place where you will pay for the extra space.
+0	1	0	152	Trendy restaurants often require reservations weeks, if not months in advance.
+0	1	0	152	If you haven't planned far enough ahead, try to get a reservation for lunch which is generally easier and less expensive.
+0	1	0	152	"For an easy-to-manage eating budget while in Paris, consider: breakfast or ""petit déjeuner"" at a restaurant, possibly in your hotel, consisting of some croissants, coffee, and maybe a piece of fruit."
+0	1	0	152	Get a 'walking lunch' from one of Paris' many food stands—a panino in the centre of the city, a crepe from a crepe stand, a felafel pita or take-out Chinese in the Marais.
+0	1	0	152	Traiteurs serving Chinese and/or Vietnamese food are ubiquitous in the city and good for a cheap lunch and many pâtisseries sell inexpensive coffee and sandwiches.
+0	1	0	152	All these are cheap (about the same as breakfast), easy, and allow you to maximize your sightseeing and walking time while enjoying delicious local or ethnic food.
+0	1	1	152	For dinner, stroll the streets at dusk and consider a €20-40 prix-fixe menu.
+0	1	0	153	This will get you 3 or 4 courses, possibly with wine, and an unhurried, candlelit, magical evening.
+0	1	0	153	If you alternate days like this with low-budget, self-guided eating (picnicking, snacking, street food) you will be satisfied without breaking the bank.
+0	1	1	153	If one of the aims of your trip to Paris is to indulge in its fine dining, though, the most cost-effective way to do this is to make the main meal of your day lunch.
+0	1	0	154	Virtually all restaurants offer a good prix-fixe deal.
+0	1	0	154	By complementing this with a bakery breakfast and a light self-catered dinner, you will be able to experience the best of Parisian food and still stick to a budget.
+0	1	0	154	Budget travellers will be very pleased with the range and quality of products on offer at the open air markets (e.g. the biggest one on Boulevard Richard Lenoir (near the Bastille), Rue Mouffetard, Place Buci, Place de la Madeleine and over the Canal Saint-Martin in the 11th or in any other arrondissement).
+0	1	1	154	If your accommodation has cooking facilities you're set, especially for wine and cheese, a decent bottle of French wine will set you back all of about €3-5, while the fairly good stuff starts at around €7.
+0	1	0	155	Bottles for less than €3 are not recommended.
+0	1	1	155	The small épiceries which open until late are more expensive than the supermarchés (Casino, Monoprix, Franprix, etc.)
+0	1	0	156	For wine, the price difference can be up to €2.
+0	1	0	156	Buy a baguette, some cheese and a good bottle of wine and join the Parisian youth for a pique-nique along the Seine (especially on the Île Saint-Louis) or along the Canal Saint-Martin.
+0	1	0	156	The finest food stores are Lafayette Gourmet in the Galeries Lafayette or La Grande Epicerie in the luxury department store Le Bon Marché.
+0	1	0	156	They are worth discovering.
+0	1	0	156	You will find a large variety of wines there, otherwise try wine stores (cavistes) that are present everywhere in the city, and sell all kind of good French wine that you won't find in a supermarket.
+0	1	0	156	The owners usually know their wines and will be happy to help you choose among their huge selection.
+0	1	0	156	Some also sell good food.
+0	1	1	156	You can search for one online or ask a local.
+0	1	0	157	"There are also some ""wine supermarkets"" such as Nicolas or Le Relais de Bacchus (all over the city) that sell more common wines."
+0	1	1	157	For seafood lovers, Paris is a great place to try moules frites (steamed mussels and French fries) (better in fall and winter), oysters, sea snails, and other delicacies.
+0	1	0	158	Meat specialties include venison (deer), boar, and other game (especially in the fall and winter hunting season), as well as French favourites such as lamb, veal, beef, and pork.
+0	1	0	158	Eating out in Paris can be expensive.
+0	1	0	158	However don't believe people when they say you can't do Paris on the cheap - you can!
+0	1	0	158	The key is to stay away from the beaten tracks and the obviously expensive Champs Elysées.
+0	1	0	158	Around the lesser visited quarters especially, there are many cheap and yummy restaurants to be found.
+0	1	0	158	The area around Fontaine Saint-Michel, the fountain facing Notre Dame is crowded by particularly tasty places to eat, with good ambiance, cheap prices and excellent service, with the advantage of being very centric of many places of interest.
+0	1	0	158	The key is to order from the prix-fixe menu, and not off the A la Carte menu unless you want to pay an arm and a leg.
+0	1	0	158	In many places a three course meal can be found for about €15.
+0	1	1	158	"This way you can sample the food cheaply and is usually more ""French""."
+0	1	0	159	"Ask for ""une carafe d'eau"" (oon karaaf doe) to get free tap water."
+0	1	0	159	Paris has the largest number of Kosher restaurants in any European city.
+0	1	0	159	Walk up and down Rue des Rosiers to see the variety and choices available from Israeli, Sushi, Italian and others.
+0	1	0	159	You will also find a wide assortment of Kosher restaurants in the 9th arrondissement of Paris near the rue Richer and rue Cadet areas.
+0	1	1	159	See the district guides for examples.
+0	1	0	160	Kosher restaurants and snacks usually display a big orange rectangle on their front, which ensure clients that they are Beth din certified.
+0	1	0	160	For vegetarians, eating traditional French food will require some improvisation, as it is heavily meat-based.
+0	1	1	160	That being said, it is far easier to be vegetarian in Paris than it is elsewhere in France.
+0	1	0	161	Paris has several excellent vegetarian restaurants, and many non-vegetarian restaurants will provide vegetarian dishes.
+0	1	0	161	"When eating in a traditional restaurant, be careful before ordering dishes labelled as ""vegetarian""."
+0	1	0	161	Many French people presume that fish and seafood are vegetarian dishes.
+0	1	0	161	This is a widely spread misunderstanding all around the country.
+0	1	1	161	"Additionally, French people tend to confuse ""real"" vegetarians with vegans."
+0	1	0	162	When explaining that you're a vegetarian that won't eat fish, people will often presume that you don't eat milk or egg-based products.
+0	1	0	162	Look for spots such as Le Grenier de Notre-Dame in the 5th.
+0	1	0	162	The 10th arrondissement also has quite a large variety of vegetarian restaurants, especially of Indian and East/South-East Asian fare.
+0	1	0	162	See the arrondissement pages for more listings.
+0	1	0	162	For fast food and snacks, you can always find a vegetarian sandwich or pizza, or indeed French tacos.
+0	1	1	162	Even a kebab shop can make you something with just cheese and salad, or perhaps falafel.
+0	1	0	163	And for healthier fare, it's not usually hard nowadays to find hipstery places that sell vegan poke bowls.
+0	1	0	163	There are also lots of Italian, Thai, Indian, and Mezo-American places where you will have little problem.
+0	1	0	163	The famous South Indian chain Saravana Bhavan have their branch near Gare Du Nord.
+0	1	0	163	In Rue des Rosiers (4th arrondissement) you can get delicious falafel in the many Jewish restaurants.
+0	1	1	163	Another place to look for falafel is on Rue Oberkampf (11th arrondissement).
+0	1	0	164	Take away falafel usually goes for €5 or less.
+0	1	1	164	Moroccan and Algerian cooking is common in Paris - vegetarian couscous is lovely.
+0	1	0	165	Another good option for vegetarians - are traiteurs, particularly around Ledru Rollin (down the road from Bastille) take away food where you can combine a range of different options such as pomme dauphinoise, dolmas, salads, vegetables, nice breads and cheeses and so on.
+0	1	0	165	Lebanese restaurants and snack shops abound as well, offering a number of vegetarian mezze, or small plates.
+0	1	1	165	The stand-bys of course are hummas, falafel, and baba-ganouche (caviar d'aubergine).
+0	1	0	166	A good place to look for Lebanese is in the pedestrian zone around Les Halles and Beaubourg in the 1st and 4th.
+0	1	0	166	Also look out for banh mi (Vietnamese sandwich) places, especially around Rue Mouffetard in the 5th, where you can often get a tofu banh mi for less than a fiver.
+0	1	0	166	When you are looking for a restaurant in Paris, be wary of those where the staff speak English a bit too readily.
+0	1	1	166	These restaurants are usually geared towards tourists.
+0	1	0	167	It does make a difference in the staff's service and behaviour whether they expect you to return or not.
+0	1	1	167	Sometimes the advertised fixed price tourist menus (€10-15) are a good deal.
+0	1	0	168	If you're interested in the really good and more authentic stuff (and if you have learned some words of French) try one of the small bistros where the French go during lunch time.
+0	1	0	168	The bars scene in Paris really does have something for everyone.
+0	1	1	168	From bars which serve drinks in baby bottles, to ultra luxe clubs that require some name dropping, or card (black Amex) showing, and clubs where you can dance like no one's watching, (although they will be).
+0	1	0	169	To start your night out right, grab a drink or two in a ubiquitous dive bar, before burning up the dance floor and spreading some cash, at one of the trendy clubs.
+0	1	1	169	For individual bar listings see the various Arrondissement pages under Drink.
+0	1	0	170	Of course there are lots of interesting places which are sort of off on their own outside of these clusters, including a few like the Hemingway Bar at the Ritz which are not to be missed in a serious roundup of Parisian drinking, so check out the listings even in those arrondissements we haven't mentioned above.
+0	1	0	170	Some nightclubs in Paris that are worth it: Folies Pigalle (pl. Pigalle, 18th, very trashy, €20), Rex Club (near one of the oldest cinemas on earth, the Grand Rex, house/electro, about €15).
+0	1	0	170	You might also want to try Cabaret (Palais Royal), Maison Blanche, le Baron (M Alma-Marceau).
+0	1	0	170	Remember when going out to dress to impress, you are in Paris!
+0	1	0	170	Torn clothing and sneakers are not accepted.
+0	1	0	170	The better you look, the more likely you will get past the random decisions of club bouncers.
+0	1	1	170	Also important to remember if male (or in a group of guys) that it will be more difficult to enter clubs; try to always have an equal male/female ratio.
+0	1	0	171	Being often declared the most popular travel destination in the world, Paris has far over a thousand hotels to choose from, and even more in the surrounding Ile-de-France region.
+0	1	0	171	The choice may be overwhelming, but should be made carefully.
+0	1	0	171	There are huge differences in standards and location is key to make your stay in Paris enjoyable and time used well.
+0	1	1	171	Be prepared to pay the price for Paris' popularity - even the cheap hotels are relatively expensive.
+0	1	0	172	Despite the popularity with tourists, global hotel chains have relatively low penetration of the Parisian market.
+0	1	0	172	A notable exception is the French-based Accor, which boasts over 300 hotels in the Paris area, although with large swathes of central Paris largely uncovered.
+0	1	0	172	There is a fair amount of Best Westerns as well, but most international chains limit their presence to very few exclusive (and expensive) hotels in key locations.
+0	1	1	172	Travellers loyal to a particular brand may find their loyalty challenged, be forced to pay for it (rather than be rewarded) or unable to find their hotel brand of choice in Paris.
+0	1	0	173	Hotels in the central arrondissements tend to be expensive, although very cheap ones can also be found.
+0	1	0	173	With few exceptions, they tend to offer small rooms - be aware of the fact that the difference in price between hotels can translate into difference in service, facility and appointment levels, but not necessarily room size.
+0	1	0	173	Rooms of 12-16 square metres (which is roughly half of standard hotels rooms e.g. in the USA) are the norm in central Paris, regardless of hotel standards.
+0	1	1	173	Cheaper hotels in popular arrondissements tend to be older, less attractive properties, whose facilities and appointments may be very worn and outdated, far behind standards one would expect from the capital of all things pretty and fine.
+0	1	0	174	Even updated and restored hotels may exhibit wide variance in standards between room categories, and keep some of the rooms not refurbished or only minimally touched up to be able to offer attractive, eye-catching pricing for them and then upsell to more comfortable room categories.
+0	1	0	174	Always check out latest reviews, preferably with photos, to precisely determine what to expect from a given hotel and given room category.
+0	1	1	174	Hotels outside of the city centre, or even outside of the Peripherique and Paris itself, can be far cheaper and better value for money than ones in central Paris, while still having good transit links via metro or RER.
+0	1	0	175	That said, you should check thoroughly how far from the metro / RER station the given hotel is, and whether the connection to the POIs you want to visit is direct, quick and easy.
+0	1	0	175	Do also factor in the added cost of transportation to outer zones, as well as the time spent to travel to and from the city and obviously resulting limitations.
+0	1	1	175	Because of local preferences, a bathtub in the bathroom is a norm in most hotels, even if it means squeezing it into a very small bathroom, further limiting space.
+0	1	0	176	"If you prefer a walk-in shower, you need to look for a hotel that specifically offers those (called ""douche italienne"" by the French), and you should generally look at newer, purpose-built properties."
+0	1	0	176	Paris hotels, almost without regard to category or price, observe high and low seasons.
+0	1	0	176	These differ slightly from one hotel to another, but usually the high season roughly corresponds to late spring and summer, and possibly a couple of weeks around the Christmas season.
+0	1	1	176	For individual hotel listings see the various Arrondissement pages.
+0	1	0	177	For those staying for a week or more, renting a furnished apartment might be a more comfortable and money-saving option, especially for 3 or more adults.
+0	1	0	177	Furnished apartments can differ considerably in location and quality, offer different accommodations and selections of appliances and kitchen features, or may be well-above street level with no elevator.
+0	1	0	177	Expect apartment sizes to be modest.
+0	1	0	177	Access to local public transport can also vary widely.
+0	1	0	177	So choose carefully only after getting a full description of an interesting property.
+0	1	1	177	Many websites will help you find rentals.
+0	1	0	178	Some do a more disciplined job of locating and describing properties and their locale.
+0	1	0	178	Most charge a commission of 10% or more; some offer insurance covering some risks.
+0	1	0	178	Some may offer a few apartments for shorter stays, usually at somewhat higher cost per day.
+0	1	1	178	In late-spring and summer months, desirable properties may be in short supply.
+0	1	0	179	"If your plans are fairly firm for those periods, you would be wise to ""reserve"" a unit well in-advance."
+0	1	0	179	Owners will often ask for a non-refundable deposit of up to 50% of the total cost of your stay.
+0	1	0	179	Means of payment can range from money order to PayPal or (occasionally) charge card.
+0	1	0	179	(Take great care of how and with whom you share any charge card account number.)
+0	1	0	179	"You should send no payment to any post office box or similarly anonymous place or account...even after exchanging e-mails with a purported owner; most are no more than ""blind"" scams to take your money."
+0	1	1	179	The city government has passed ordinances that require owners renting properties for short periods to collect a tax previously collected only by hotels.
+0	1	0	180	This substantial tax may not be collected by some owners, or may be demanded by them but not mentioned in their rates until you arrive.
+0	1	0	180	Tax enforcement and collection remain in a state of flux.
+0	1	1	180	Some agencies, rental brokers or web sites, that seem amicable, attractive or claim reputations, do not abide by French law to carefully vet and select landlords and apartments they offer for rent.
+0	1	0	181	There are a certain number of guarantees, which are required in France before renting an apartment, and an insurance policy, which aims at protecting the tenants during their stay.
+0	1	1	181	Despite what many naysayers might say or believe, Paris is still a relatively safe city.
+0	1	0	182	This does not stop it from being plagued by petty crime, especially pickpocketing, and muggings.
+0	1	0	182	Scams, of which there are many, are also prevalent, though the police are slowly cracking down on them.
+0	1	0	182	While not common, purse snatchings do happen.
+0	1	0	182	Violent crime is rare.
+0	1	0	182	However, watch yourself at ATMs and other places where your cash may be visible.
+0	1	0	182	Keep your money and your wallet in your front pockets, and avoid ATMs that are open to the outside, especially at night.
+0	1	1	182	As a densely populated city with equally dense neighbourhoods, one would be remiss to generalise the safety of entire 'arrondissements' based on a few specific areas.
+0	1	0	183	Several arrondissements have their share of crime, however.
+0	1	0	183	The 18th, 19th, and 20th arrondissements are widely seen as the least safe areas of Paris, but safety levels vary dramatically from street to street.
+0	1	0	183	During the day, they're usually fine; you might have to watch out for pickpockets and scammers, but not much more.
+0	1	0	183	However, be on your guard at night.
+0	1	0	183	"The 10th arrondissement (namely the areas bordering the 18th and 19th arrondissements) and the southeastern portion of the ""périphérique"" have also gained a reputation for being sketchy."
+0	1	1	183	Several of the inner suburbs of the metropolitan area (commonly referred to as the banlieues) such as La Courneuve, Saint-Denis, Sarcelles, and Pantin are notoriously 'rough' by European standards, and you should be cautious when visiting these places.
+0	1	0	184	Unrest in those areas has made global headline news (as did the somewhat heavy-handed reactions of various French governments).
+0	1	1	184	The police can be reached by phone by dialling 17.
+0	1	0	185	Not all police officers speak English, but those found around touristy areas almost always will.
+0	1	0	185	They are usually friendly and perfectly approachable should you have to.
+0	1	1	185	The métro and RER are also a popular place for pickpockets.
+0	1	0	186	Hold things tightly and be aware of your surroundings.
+0	1	0	186	While trains are usually crowded, if someone is insisting and hovers over you, they are probably going through your pockets.
+0	1	0	186	It is important to know that a majority of these belong to a gang.
+0	1	0	186	These gangs usually use young children as young as seven, with groups of them going around the metro stations pickpocketing tourists and locals alike.
+0	1	0	186	If there is a group of three or more suspicious looking people, be careful of your belongings.
+0	1	0	186	This is a notable occurrence on Métro line 13, tramways, and the RER B.
+0	1	1	186	Common tactics are two of them blocking you as you try to board the subway, with two behind you quickly going through your bag.
+0	1	0	187	Seconds before the doors close, the two jump off, leaving you on the metro without even realizing what has happened.
+0	1	0	187	Take note of what locals do.
+0	1	0	187	If someone warns you to be careful, there are probably some suspicious types hoping to steal from you.
+0	1	0	187	Also be aware that phone-snatching is the most reported crime, and avoid using your cellphone on metro platforms and in the metro itself.
+0	1	1	187	Pickpockets are active on the rail link (RER B) from Charles de Gaulle airport to downtown Paris, which passes through the poor suburbs of Seine-Saint Denis.
+0	1	0	188	Try to take the trains which are nonstop between the airport and Paris proper (Gare du Nord) - EKLI/EKIL from Paris to CDG and KRIN/KROL from CDG to Paris.
+0	1	0	188	These are faster and are less crowded than the alternative.
+0	1	1	188	There have also been problems with thieves physically fighting people in order to steal their belongings.
+0	1	0	189	The most common targets are those with suitcases and backpacks, i.e. tourists.
+0	1	0	189	Thieves usually coin their acts with the closing of the doors.
+0	1	0	189	Newer trains have cameras everywhere, and thieves are much less likely to use them.
+0	1	0	189	Otherwise, stow luggage on the racks above the seat (which is not possible in newer trains) and hold on to your bags so no one can grab them and then run out.
+0	1	0	189	You are much less likely of being a victim if the train is crowded with locals headed to work, usually at rush hour.
+0	1	0	189	The train conductors are widely aware of these crimes and will usually wait a few seconds to leave the station after the doors have closed, just in case thieves have quickly jumped off with belongings.
+0	1	1	189	There are also emergency cords that one can pull if willing to chase after the attackers.
+0	1	0	190	People will usually be helpful and gladly call the police if you do not have a cell phone.
+0	1	0	190	Pickpockets are most likely to be found working at crowded tourists hotspots, so keep your wallet and phone in your front pockets and hold your backpack tightly when in a crowd.
+0	1	0	190	A common place for phone/camera/wallet snatching is in tourist friendly dining areas scattered all over Paris where exposed outdoor tables are commonly right on busy sidewalks.
+0	1	1	190	Common practice by many Western tourists is to leave an aforementioned item of value on the table (most commonly a smartphone) in front of them.
+0	1	0	191	Some of the criminals, working in groups of three to five people, approach your table and shove what appears to be a survey directly under your nose thus blocking your view of your valuable.
+0	1	0	191	While the gang members are yelling in a foreign language another one will slip a hand below your view and take your item of value from the table.
+0	1	0	191	This occurs very quickly (less than five seconds) and the perpetrators disappear around the corner just as quick as they arrived.
+0	1	0	191	Key landmarks like the Louvre or the Eiffel tower have been plagued with gangs of pickpockets, which typically operate in groups of about five.
+0	1	1	191	As many as half a dozen of these gangs may be active at a particularly famous, crowded venue at any one time; occasionally there are fights between rival gangs of thieves.
+0	1	0	192	Asian visitors are often targeted due to a presumption that they are visiting from affluent nations.
+0	1	0	192	Venue staff have complained of being spat at, threatened, abused or assaulted by pickpocketing gangs; the Louvre closed briefly in 2013 (as did the Eiffel tower in 2015) due to worker protests of unsafe conditions due to criminal activity.
+0	1	0	192	Token attempts to deploy more police have not solved the problems.
+0	1	0	192	"At Sacré-Cœur, there are many men who will try to tie strings or bracelets on your finger (often called ""string muggers"")."
+0	1	1	192	Not only will they demand an obscene fee for the cheap trinkets (usually over €15), they will also try to pickpocket you or threaten you with force if you do not give them money.
+0	1	0	193	They are usually only at the base of the monument and can be avoided by taking the Funicular of Montmartre.
+0	1	0	193	Otherwise, you can quickly walk past them and ignore them, though they will readily grab people's arms and have even been known to target children of tourists.
+0	1	0	193	Yelling at them may cause unwanted attention and cause them to back off, but be careful.
+0	1	0	193	Sacré-Cœur appears to be the only area where they congregate, but they have been sighted also near the Eiffel Tower.
+0	1	0	193	Besides them, you will notice many people walking around with cheap trinkets at touristy areas, especially the Trocadéro, Eiffel Tower, and Louvre Museum.
+0	1	1	193	They are generally not rude, but buying things from them is illegal and hurts small businesses.
+0	1	0	194	Of course, they bolt at the sight of the police, and you may end up in the middle of a stampede!
+0	1	0	194	Be careful around Barbès-Rochechouart and the bars near Moulin Rouge.
+0	1	1	194	A very common clip joint trick is played here which might cost you up to €500.
+0	1	0	195	The agents standing outside will force you to enter a bar and just have a look for 5 minutes.
+0	1	0	195	The moment you order a drink (about €5), a girl will approach you and start talking generally, and leave in 10–15 minutes.
+0	1	0	195	After a harmless conversation with the girls when you request a bill, you will encounter a charge of say €200-500 as 'service fees' for the services rendered by the girl!
+0	1	0	195	In case you resist paying, the bouncers will start intimidating you to try to extract money from your wallet.
+0	1	0	195	In such cases, threaten them that you are calling the police and informing the local embassy.
+0	1	0	195	Try to buy some time and start creating a ruckus.
+0	1	0	195	However, do not try to start a fight with the bouncers.
+0	1	0	195	This trick is common to many European big cities.
+0	1	0	195	"One scam involves a ""helpful"" local buying a ticket for you."
+0	1	1	195	Normally, tourists buy 1-day, 3-day or longer Paris Visite passes.
+0	1	0	196	They would tell you that your single trip ticket has expired and bring you to the ticketing machine to purchase day passes.
+0	1	0	196	Then they would select the 3 day pass for adults (even though you may be a student) and deliberately show you the price on the screen.
+0	1	0	196	Everything else is in French so you would not understand a thing.
+0	1	0	196	They would proceed to purchase with a credit card and while entering the PIN code, get you to turn your back on them.
+0	1	0	196	They then sneakily change the ticket to a single trip ticket and ask for payment for a 3-day ticket from you.
+0	1	0	196	Unsuspecting tourists would pay the full sum thinking it is a 1-day or 3-day pass when it is only a useless ticket.
+0	1	0	196	Buy the tickets yourself to avoid situations like these, as machines are available in English and other languages.
+0	1	0	196	If you feel threatened, call the police and don't physically handle the ticket if they forcibly purchase without your agreement.
+0	1	0	196	Another common scam is found along the banks of the Seine river and involves a ring.
+0	1	1	196	"This involves thieves ""finding"" a ring which they give to you."
+0	1	0	197	They then ask you if you own it.
+0	1	0	197	When you say no, they insist you keep it, saying it goes against their religion or they cannot wear rings.
+0	1	0	197	A few moments later, they ask you for money to buy something to eat, eventually following you and becoming more annoying.
+0	1	0	197	You can either yell at them or steer them towards an area where there are likely to be police present, at which point they will quickly run away.
+0	1	0	197	The most common scam (besides pickpocketing) that has taken over Paris by storm since June 2011 involves women coming up to tourists with pledge sheets.
+0	1	1	197	They pretend to be deaf people collecting money for one charity or another.
+0	1	0	198	Once you are distracted with the petition, an accomplice pickpockets you and takes your belongings.
+0	1	0	198	"In addition, once you sign, they point to a thing that reads ""minimum ten euro donation."""
+0	1	0	198	While they may at first insist on this, shaking your head and walking away will usually make them pester someone else.
+0	1	0	198	Otherwise, simply waving them off and a loud no should make them give up.
+0	1	0	198	If they are in a large group, as is common, be careful of your belongings!
+0	1	0	198	This is a ploy to pickpocket you as you are surrounded by them.
+0	1	0	198	At this point, yelling for the police will make them disperse quickly.
+0	1	0	198	This is most commonly found around major tourist sites, but has also been a problem at Gare du Nord, though this has gotten much better.
+0	1	0	198	Never bet money on a 3-card game as you will always lose.
+0	1	1	198	This trick is played by con artists on some of the bridges on River Seine near the Eiffel Tower.
+0	1	0	199	It is a good idea to steer clear of the suburb of Seine Saint-Denis, as this suburb is known for its gangs and poverty, though there is of little interest to a tourists anyway (except the Basilique de Saint-Denis, but that is located near a métro station).
+0	1	1	199	You may want to avoid walking alone at night in the 18th and 19th arrondissements as well, as these can be a little shady at night.
+0	1	0	200	There is a large problem with youths from the depressed suburbs causing trouble with the police.
+0	1	0	200	If locals are moving away, it is most likely from a confrontation.
+0	1	0	200	While these groups rarely target people besides the police, be careful.
+0	1	0	200	Walk away from a situation that could lead to fights or worse.
+0	1	0	200	In general, remember to be aware of pickpockets, as they act by trying to distract you.
+0	1	1	200	Avoid showing off expensive phones or a lot of money in public transportation or in open areas.
+0	1	0	201	Put your things in a money belt or your front pockets, but never in the back pockets.
+0	1	0	201	Paris has the largest Jewish community in Europe and the 6th largest in the world.
+0	1	1	201	However, antisemitic acts have increased in France since the early 2000s, culminating with the January 2015 Île-de-France attacks targeting a local kosher supermarket.
+0	1	0	202	Attacks on Jews have since decreased and as of 2023, there have been no recent reports of attacks against tourists of Jewish faith.
+0	1	0	202	After 2015, the French government assigned thousands of soldiers to guard synagogues and Jewish schools.
+0	1	0	202	Still, fearing harassment or attacks, many of the local Jews no longer wear a kippa/yarmulke in the street or public transportation.
+0	1	0	202	So consider taking the advice of local Jews regarding your behavior.
+0	1	0	202	For example, if you wear a kippa, consider wearing it under a hat that is not identifiably Jewish.
+0	1	0	202	Parisians have a reputation for being egocentric, rude and arrogant.
+0	1	1	202	"While this is often only an inaccurate stereotype, the best way to get along in Paris still is to be on your best behavior, acting like someone who is ""bien élevé"" (well brought up)."
+0	1	0	203	It will make getting about considerably easier.
+0	1	0	203	Parisians' abrupt exteriors will rapidly evaporate if you display some basic courtesies.
+0	1	1	203	"A simple ""Bonjour, Madame"" when entering a shop, for example, or ""Excusez-moi"" when trying to get someone's attention, are very important; say ""Pardon"" or better ""je suis désolé"" if you bump into someone accidentally or make other mistakes."
+0	1	0	204	If you speak French or are using a phrasebook remember to always use the vous form when addressing someone you don't know; this may transform the surliest shop assistant into a smiling helper or the grumpiest inhabitant to a helpful citizen.
+0	1	0	204	"Courtesy is extremely important in France (where the worst insult is to call someone ""mal élevé"", or ""badly brought up"")."
+0	1	0	204	"If you only learn one long phrase in French a good one would be ""Excusez-moi de vous déranger, monsieur/madame, auriez-vous la gentillesse de m'aider?"" (pardon me for bothering you, sir/madam, would you have the kindness to help me?) - this level of extreme politeness is about the closest one can come to a magic wand for unlocking Parisian hospitality."
+0	1	1	204	If you know some French, try it!
+0	1	0	205	But remember, too, that Parisians have places to go and things to do, so if they have no time and don't answer you, don't take it personally.
+0	1	0	205	Many Parisians, given time, will go out of their way to help, especially if you make an effort to speak their language and act polite to them.
+0	1	0	205	Most foreigners tend to ignore two basic rules of courtesy in metro and train transport in Paris.
+0	1	0	205	If the carriage is full and you're sitting on a folding seat, you should consider standing up.
+0	1	0	205	If you stand next to the door, you are expected to get down to the platform at a stop so that people inside can find their way out.
+0	1	1	205	Once they have got out, you can go back.
+0	1	0	206	However, don't always expect that others will do the same for you and, if the train is full, get ready to get down with enough time in advance.
+0	1	0	206	In a corridor, when pushing a door, you are expected to hold it for the next person, so that it won't close abruptly.
+0	1	0	206	This rule is strictly observed in the metro, and quite commonly everywhere else.
+0	1	0	206	In addition, if you are traveling to or from the airport or train station and have luggage with you, make certain that you are not blocking the aisles in the train by leaving your bags on the floor.
+0	1	0	206	The RER B (which links both Orly and Charles de Gaulle airports to the city) has luggage racks above the seats (on the newer trains, there are no such racks above the seats, but racks dedicated to luggage in between some seats); it is best to use them so you do not block the path of a local who is getting off the train before the airport stop.
+0	1	0	206	On the métro and especially in the RER, don't take up extra seats with your luggage.
+0	1	1	206	There are luggage racks and spaces between the seats.
+0	1	0	207	There are hefty fines for littering in Paris, especially with dog droppings (often you'll find free plastic bags dispensers around parks or playgrounds).
+0	1	0	207	As of Sept 2021, Paris has 5G from all French carriers.
+0	1	0	207	Wifi is widely available in public places, transport, cafes and so on.
+0	1	1	207	One helpful thing about having official and numbered districts in Paris is that you can easily tell which arrondissement an address is in by its postal code, and can easily come up with the postal code for a Paris address if you know its arrondissement.
+0	1	0	208	The rule is just pre-pend 750 or 7500 to the front of the arrondissement number, with 75001 being the postal code for the 1st and 75011 being the postal code for the 11th, and so on.
+0	1	0	208	The 16th has two postal codes, 75016 for the portion south of Rue de Passy and 75116 to the north; all other arrondissements only have one postal code.
+0	1	1	208	"Phone cards are available from most ""tabacs"" but make sure you know where you can use them when you buy them, as some places still sell the cartes cabines which are hard to use as cabines are rare."
+0	1	0	209	"Famous for its status as ""fashion capital"", Paris isn't as conservative in dress as one might think."
+0	1	0	209	"Parisians will tolerate all kinds of clothes as long as they're worn ""avec style"" (with style)."
+1	1	1	209	"That's why men do not usually wear shorts shorter than above the knee outside of sporting events: it is not considered indecent but may stand out from the locals; shorts are for ""schoolboys and football players"" only."

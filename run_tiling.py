@@ -1,15 +1,14 @@
-
 import os
 import csv
 from nltk.tokenize import sent_tokenize, TextTilingTokenizer
 from sklearn.metrics import cohen_kappa_score
 from nltk.metrics import windowdiff
 
-TEXT_DIR = "data/travel_guides"
-DATA_DIR = "TextTiling_travel_vlog_data/travel_guides"
+TEXT_DIR = "data/vlogs"
+DATA_DIR = "data/vlogs"
 #OUT_DIR = "results/wiki_grid"
 #OUT_DIR = "results/human_grid"
-OUT_DIR = "results/baseline"
+OUT_DIR = "results/baseline/vlogs"
 
 os.makedirs(OUT_DIR, exist_ok=True)
 
@@ -19,8 +18,8 @@ os.makedirs(OUT_DIR, exist_ok=True)
 # FINE_PARAMS = dict(w=20, k=4, smoothing_width=1, smoothing_rounds=1, cutoff_policy="LC")
 
 # from human annotation grid search:
-COARSE_PARAMS = dict(w=50, k=25, smoothing_width=5, smoothing_rounds=3, cutoff_policy="HC")
-FINE_PARAMS = dict(w=35, k=15, smoothing_width=5, smoothing_rounds=3, cutoff_policy="HC")
+COARSE_PARAMS = dict(w=40, k=40, smoothing_width=5, smoothing_rounds=3, cutoff_policy="HC")
+FINE_PARAMS = dict(w=15, k=7, smoothing_width=2, smoothing_rounds=1, cutoff_policy="LC")
 
 
 # helpers
@@ -63,20 +62,28 @@ def assign_segments(labels):
     return segments
 
 # run text tiling
-doc_ids = [f[:-4] for f in os.listdir(TEXT_DIR) if f.endswith(".txt")]
+doc_ids = [f[:-4] for f in os.listdir(TEXT_DIR) if f.endswith(".tsv")]
 
 for doc_id in doc_ids:
     print(f"\nTiling: {doc_id}")
     # Load text
-    with open(os.path.join(TEXT_DIR, f"{doc_id}.txt"), "r", encoding="utf-8") as f:
-        doc_text = f.read()
+    # with open(os.path.join(TEXT_DIR, f"{doc_id}.txt"), "r", encoding="utf-8") as f:
+    #     doc_text = f.read()
+
+    sentences = []
+    tsv_path = os.path.join(DATA_DIR, f"{doc_id}.tsv")
+    with open(tsv_path, "r", encoding="utf-8") as f:
+        reader = csv.DictReader(f, delimiter="\t")
+        for row in reader:
+            sentences.append(row["sentence"])
+    doc_text = "\n\n".join(sentences)
 
     # Load human boundaries
     sentences, y_gold_coarse = load_human_boundaries(doc_id, "coarse")
     _, y_gold_fine = load_human_boundaries(doc_id, "fine")
 
     # Coarse segmentation
-    tt_coarse = TextTilingTokenizer(**COARSE_PARAMS)
+    #tt_coarse = TextTilingTokenizer(**COARSE_PARAMS)
     tt_coarse = TextTilingTokenizer() # baseline
     coarse_segments = tt_coarse.tokenize(doc_text)
     coarse_breaks = segments_to_breaks(coarse_segments)

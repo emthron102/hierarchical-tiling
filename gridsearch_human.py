@@ -29,11 +29,11 @@ from sklearn.metrics import precision_recall_fscore_support, cohen_kappa_score
 #     dict(w=40, k=30, smoothing_width=5, smoothing_rounds=3, cutoff_policy="HC"),
 # ]
 
-COARSE_PARAMS = [
-    dict(w=60, k=30, smoothing_width=7, smoothing_rounds=3, cutoff_policy="HC"),
-    dict(w=80, k=40, smoothing_width=9, smoothing_rounds=3, cutoff_policy="HC"),
-    dict(w=100, k=50, smoothing_width=11, smoothing_rounds=4, cutoff_policy="HC"),
-]
+# COARSE_PARAMS = [
+#     dict(w=60, k=30, smoothing_width=7, smoothing_rounds=3, cutoff_policy="HC"),
+#     dict(w=80, k=40, smoothing_width=9, smoothing_rounds=3, cutoff_policy="HC"),
+#     dict(w=100, k=50, smoothing_width=11, smoothing_rounds=4, cutoff_policy="HC"),
+# ]
 
 # FINE_PARAMS = [
 #     dict(w=10, k=3, smoothing_width=1, smoothing_rounds=1, cutoff_policy="LC"),
@@ -53,10 +53,22 @@ COARSE_PARAMS = [
 #     dict(w=10, k=8, smoothing_width=1, smoothing_rounds=1, cutoff_policy="LC"),
 # ]
 
+# FINE_PARAMS = [
+#     dict(w=25, k=10, smoothing_width=3, smoothing_rounds=2, cutoff_policy="HC"),
+#     dict(w=30, k=12, smoothing_width=5, smoothing_rounds=2, cutoff_policy="HC"),
+#     dict(w=35, k=15, smoothing_width=5, smoothing_rounds=3, cutoff_policy="HC"),
+# ]
+
+COARSE_PARAMS = [
+    dict(w=40, k=40, smoothing_width=5, smoothing_rounds=3, cutoff_policy="HC"),
+    dict(w=50, k=45, smoothing_width=7, smoothing_rounds=3, cutoff_policy="HC"),
+    dict(w=30, k=35, smoothing_width=5, smoothing_rounds=2, cutoff_policy="HC"),
+]
+
 FINE_PARAMS = [
-    dict(w=25, k=10, smoothing_width=3, smoothing_rounds=2, cutoff_policy="HC"),
-    dict(w=30, k=12, smoothing_width=5, smoothing_rounds=2, cutoff_policy="HC"),
-    dict(w=35, k=15, smoothing_width=5, smoothing_rounds=3, cutoff_policy="HC"),
+    dict(w=10, k=5, smoothing_width=1, smoothing_rounds=1, cutoff_policy="LC"),
+    dict(w=12, k=6, smoothing_width=2, smoothing_rounds=1, cutoff_policy="LC"),
+    dict(w=15, k=7, smoothing_width=2, smoothing_rounds=1, cutoff_policy="LC"),
 ]
 
 ALL_PARAMS = (
@@ -64,11 +76,11 @@ ALL_PARAMS = (
     + [("fine", p) for p in FINE_PARAMS]
 )
 
-TEXT_DIR = "data/travel_guides"
-DATA_DIR = "TextTiling_travel_vlog_data/travel_guides"
-OUT_JSON = "last_travel_grid_human.json"
+TEXT_DIR = "data/vlogs"
+DATA_DIR = "data/vlogs"
+OUT_JSON = "vlog_grid_human.json"
 
-doc_ids = [filename[:-4] for filename in os.listdir(TEXT_DIR)]
+doc_ids = [filename[:-4] for filename in os.listdir(TEXT_DIR) if filename.endswith(".tsv")]
 
 # helpers
 def load_human_boundaries(doc_filename, granularity="coarse"):
@@ -137,9 +149,17 @@ for granularity, params in ALL_PARAMS:
         # get gold labels from the human annotated data
         sentences, y_gold = load_human_boundaries(doc_id, granularity)
 
-        with open(os.path.join(TEXT_DIR, f"{doc_id}.txt"), "r", encoding="utf-8") as f:
-            doc_text = f.read()
-
+        # with open(os.path.join(TEXT_DIR, f"{doc_id}.txt"), "r", encoding="utf-8") as f:
+        #     doc_text = f.read()
+        
+        sentences = []
+        tsv_path = os.path.join(DATA_DIR, f"{doc_id}.tsv")
+        with open(tsv_path, "r", encoding="utf-8") as f:
+            reader = csv.DictReader(f, delimiter="\t")
+            for row in reader:
+                sentences.append(row["sentence"])
+        doc_text = "\n\n".join(sentences)
+        
         segments = tt.tokenize(doc_text)
         pred_breaks = segments_to_breaks(segments)
         y_pred = breaks_to_labels(pred_breaks, len(sentences))

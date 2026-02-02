@@ -1,0 +1,759 @@
+boundary-coarse	segment-coarse	boundary-fine	segment-fine	sentence
+0	1	0	1	"One of the world's greatest cities, New York (known as ""The Big Apple"", ""NYC,"" and often called ""New York City"") is a global center for media, entertainment, art, fashion, research, finance, and trade."
+0	1	1	1	The bustling, cosmopolitan heart of the 4th largest metropolis in the world and by far the most populous city in the United States, New York has long been a key entry point and a defining city for the nation.
+0	1	0	2	From the Statue of Liberty in the harbor to the Empire State Building towering over the Manhattan skyline, from the tunnels of the subway to the riches of Wall Street, from the bright signs of Times Square to the naturalistic beauty of Central Park, and from Yankee Stadium in the Bronx to Coney Island in Brooklyn, New York's landmarks are quintessential American landmarks.
+0	1	0	2	The city's neighborhoods and streets are so iconic they have become ingrained into the American consciousness.
+0	1	1	2	Here the power, wealth and culture of the United States is on full display in one of the largest and most iconic skylines in the world, in the food and music to be found around every corner, and in the diverse population of immigrants who come from every corner of the globe to take part in what this city has to offer.
+0	1	0	3	Lying at the mouth of the Hudson River in the southernmost part of the state of the same name and at the center of the Mid-Atlantic region, New York City is home to approximately 8.3 million people.
+0	1	1	3	The New York Metropolitan Area, which spans lower New York state, northern New Jersey, and southwestern Connecticut, has a population of 18.9 million, making it the largest metropolitan area in the U.S.
+0	1	0	4	New York City consists of five boroughs, which are five separate counties.
+0	1	0	4	Each borough has a unique culture and could be a large city in its own right.
+0	1	0	4	Within each borough individual neighborhoods, some only a few blocks in size, have personalities lauded in music and film.
+0	1	1	4	Where you live, work, and play in New York says something to New Yorkers about who you are.
+0	1	0	5	The five New York boroughs are:
+0	1	0	5	New York City is a major global center of international finance, politics, communications, film, music, fashion, and culture, and is among the world's most important and influential cities.
+0	1	0	5	It is home to many world-class museums, art galleries, and theaters.
+0	1	0	5	Many of the world's largest corporations have their headquarters here.
+0	1	1	5	The headquarters of the United Nations is in New York and most countries have a consulate here.
+0	1	0	6	This city's influence on the world and all its inhabitants is hard to overstate, as decisions made within its boundaries often have impacts and ramifications around the globe.
+0	1	1	6	Immigrants (and their descendants) from over 180 countries live here, making it one of the most cosmopolitan cities in the world.
+0	1	0	7	Travelers are attracted to New York City for its culture, energy and cosmopolitanism.
+0	1	0	7	The first human settlers are believed to have arrived in the area at around 7000 BCE, though this settlement was later abandoned.
+0	1	1	7	A subsequent wave of settlers, known as the Lenape people, would then arrive at around 1000 BCE.
+0	1	0	8	Although they have been largely wiped out from the area since the days of European settlement, many of the thoroughfares used by them, such as Broadway, continue to be in use to this day.
+0	1	0	8	The first Europeans to settle in the area were the Dutch in 1609, who named the colony New Amsterdam (Dutch: Nieuw Amsterdam).
+0	1	1	8	The colony was conquered by the British in 1664, who re-named the colony New York.
+0	1	0	9	Columbia University, the most prestigious in the city, and one of the most prestigious in the United States, was founded during the British colonial period in 1754.
+0	1	0	9	For much of the War of Independence, New York City remained a British stronghold.
+0	1	0	9	The British only withdrew from the city in 1783, allowing George Washington's troops to march in and claim it for the United States of America.
+0	1	0	9	New York City became the first capital of the United States of America in 1789, though this status was short-lived as the capital was transferred to Philadelphia only a year later.
+0	1	1	9	Nevertheless, during that period, the first United States Congress was convened at what is now Federal Hall on Wall Street, and George Washington was also inaugurated as the first President of the United States on the steps of Federal Hall.
+0	1	0	10	The Supreme Court of the United States was first convened at the now-demolished Royal Exchange Building, which was adjacent to Federal Hall.
+0	1	0	10	The borough of Manhattan is a long, narrow island nestled in a natural harbor.
+0	1	1	10	It is separated from The Bronx on the north east by the Harlem River (actually a tidal strait); from Queens and Brooklyn to the east and south by the East River (also a tidal strait); and from the State of New Jersey to the west and north by the Hudson River.
+0	1	0	11	Staten Island lies to the southwest, across Upper New York Bay.
+0	1	0	11	In Manhattan, the terms “uptown” and “north” mean northeast, while “downtown” and “south” mean to the southwest.
+0	1	0	11	To avoid confusion, simply use “uptown” and “downtown.”
+0	1	0	11	Street numbers continue from Manhattan into the Bronx, and the street numbers rise as one moves farther uptown (however, in the Bronx, there is no simple numerical grid, so there may be 7 blocks between 167 St. and 170 St., for example).
+0	1	0	11	Avenues run north and south.
+0	1	1	11	In Brooklyn, street numbers rise as one moves south.
+0	1	0	12	Queens streets are laid out in a perpendicular grid – street numbers rise as one moves toward the east, and avenues run east and west.
+0	1	1	12	Staten Island's grid system is small and insignificant, only covering one neighborhood.
+0	1	0	13	The term “the city” may refer either to New York City as a whole, or to the borough of Manhattan alone, depending on the context.
+0	1	0	13	The other boroughs - Brooklyn,
+0	1	0	13	"The Bronx, Staten Island, and Queens - are sometimes referred to as the ""outer boroughs.”"
+0	1	0	13	There has been a pronounced local warming trend in New York City since the 1990s, but the climate is still temperate, except in the summer.
+0	1	0	13	Due to its proximity to the humid continental climate zone of the north, it generally experiences all four seasons, with hot and humid summers (Jun-Sept), mild to cool falls (Sept-Nov), mild to very cold winters (Dec-Mar), and increasingly mild, wet springs (Mar-Jun).
+0	1	0	13	Average highs for January are around 38°F (3°C) and average highs for July are about 84°F (29°C).
+0	1	0	13	However, temperatures in the winter can go down to as low as 0°F (-18°C), although periods of sustained extreme cold with highs in the teens or low 20s for two weeks or more are increasingly a thing of the past, whereas what used to be freakish temperatures in the 70s in midwinter are increasingly common, and in the summer, temperatures can go above 100°F (38°C).
+0	1	0	13	The temperature in any season is quite variable and it is not unusual to have a sunny 60°F (16°C) day in January followed by a snowy 25°F (-4°C) day.
+0	1	1	13	New York can also be prone to snowstorms and nor'easters (large storms similar to a tropical storm), which can dump as much as 2 feet (60 cm) of rain and/or snow in 24–48 hours.
+0	1	0	14	Although snowstorms may commonly occur during the winter months, some winters see almost no snow, and snow rarely lies more than a few days before it melts.
+0	1	1	14	Major snowstorms can happen as early as Thanksgiving (the fourth Thursday in November) and as late as the second week in April, though this is not the norm.
+0	1	0	15	Tropical storms can also hit New York City in the summer and early fall, and with climate change occurring apace, they can bring truly torrential rains that cause flooding in places.
+0	1	0	15	The diverse population runs the gamut from some of America's wealthiest celebrities and socialites to homeless people.
+0	1	0	15	New York's population, formed by millions of immigrants, has been diverse since the city's founding by the Dutch, and successive waves of immigration from virtually every nation in the world make New York a giant social experiment in cross-cultural harmony.
+0	1	0	15	The city's ethnic heritage illuminates different neighborhoods throughout the five boroughs.
+0	1	0	15	Manhattan's Chinatown remains a vibrant center of New York City's Chinese community, though the very large Chinese community in Flushing, Queens, has rivaled if not eclipsed it in importance, and three other Chinatowns have formed in New York City: the Brooklyn Chinatown in Sunset Park; the Elmhurst Chinatown in Queens; and the Avenue U Chinatown in the Homecrest section of Brooklyn.
+0	1	0	15	Traces of the Lower East Side's once-thriving Jewish community still exist amid the gentrified neighborhood's trendy restaurants and bars, but there are Chasidic communities in Borough Park, Crown Heights and Williamsburg, Brooklyn.
+0	1	0	15	Harlem has been gentrifying and diversifying and remains a center of African-American culture in New York.
+0	1	0	15	East (Spanish) Harlem, though also significantly gentrified, still justifies its reputation as a large Hispanic neighborhood.
+0	1	1	15	Little known to most tourists are the large Dominican neighborhoods of Hamilton Heights and Washington Heights in upper Manhattan.
+0	1	0	16	Brooklyn's Greenpoint is famous for its formerly large and vibrant Polish community, of which only a bit remains, and the Flatbush section - once home to the Brooklyn Dodgers - is today a huge and thriving Caribbean and West Indian section.
+0	1	0	16	Queens and Brooklyn are known for being home to many of New York's immigrant groups, which since 1990 have included large numbers of Russians, Uzbeks, Chinese, Irish, French, Filipinos, Yugoslavians, Indians, Pakistanis, Bangladeshis, Japanese, Koreans, Thais, Africans, Arabs (from throughout the Middle East and northern Africa), Mexicans, Dominicans, Ecuadorians, Brazilians, Colombians and Jamaicans.
+0	1	1	16	Queens is the single most diverse area on Earth, having the most languages and ethnic groups living in one place.
+0	1	0	17	New York City is home to 46 of the Fortune 500 companies.
+0	1	0	17	Its gross metropolitan product of $1.7 trillion is the largest of any American city and represents roughly 9% of the American economy.
+0	1	0	17	If it were a nation, the city would have the 16th-highest GDP in the world.
+0	1	0	17	New York is the national center for several industries.
+0	1	1	17	It is the home of the three largest U.S. stock exchanges (NYSE, NASDAQ, and AMEX) and many banking and investment firms.
+0	1	0	18	Though these companies have traditionally been located in the area around Wall Street in the Financial District, many have offices in other parts of the city, such as Midtown.
+0	1	0	18	New York is the hub of the country's publishing, fashion, accounting, advertising, media, legal, theater, and art industries.
+0	1	0	18	The city boasts several top-tier hospitals and medical schools, which train more physicians than those in any other city in the world.
+0	1	0	18	English is the primary language spoken by most New Yorkers, although it is common to hear other languages from around the world.
+0	1	0	18	There are many Spanish-speaking neighborhoods with large Latino populations (especially several neighborhoods in the Bronx, Bushwick, Corona, Jackson Heights, Washington Heights, East Harlem and West Harlem), and it is possible, albeit somewhat difficult, for a non-English-speaking tourist to get by in New York speaking only Spanish.
+0	1	0	18	Many establishments in the main commercial and tourist areas have Spanish-speaking staff on duty.
+0	1	0	18	Cantonese is the main language among New York City's Chinese community, though a significant minority are immigrants from Fuzhou and hence speak the Fuzhou dialect; some speak Mandarin.
+0	1	0	18	You can expect to hear Russian spoken on the streets in parts of South Brooklyn, and Yiddish or Hebrew in other parts.
+0	1	1	18	In some of these neighborhoods, some locals may not speak very good English, but store owners and those who would deal frequently with tourists or visitors will generally speak English.
+0	1	1	19	Most municipal government services in New York City are available in English, Spanish, Chinese, and Russian.
+0	1	0	20	Italian was once a major language albeit until recently most Italian immigrants to NYC spoke southern dialects (Napuletano, Siciliano, Calabrese, etc.).
+0	1	0	20	You can still hear them in Italian neighborhoods along with Italian-American dialects of the younger generations and the more standardized Italian brought by recent immigrants who tend to be young business professionals, as opposed to the much larger wave of working class southern Italian immigrants before them.
+0	1	0	20	The upside to this linguistic confusion is that, while you can find a restaurant or other establishment for nearly every culture somewhere in Manhattan, catering to English-speaking tourists, more adventurous travelers may be able to find a more authentic experience for less money among an ethnic community somewhere in the outer boroughs.
+0	1	0	20	Traditionally, English in New York City was spoken with distinctive accents, which differed according to ethnicity, neighborhood and social class (compare the Queens accent of Donald Trump with the Brooklyn accent of Bernie Sanders, both New Yorkers, as an example).
+0	1	0	20	Some of these accents are notable for being among the few non-rhotic American accents.
+0	1	1	20	You may still encounter the traditional accents when talking to older working-class New Yorkers, though they are gradually dying out in favor of a more nearly general American accent.
+0	1	0	21	Due to its large Ashkenazi Jewish population, many Yiddish terms have also made their way into local English slang.
+0	1	0	21	You may also hear the New York dialect of African-American Vernacular English (AAVE) being spoken among African-Americans, and a distinctive dialect known as New York Latino English, with noticeable influences from Puerto Rican and Dominican Spanish, is spoken by many Latinos.
+0	1	0	21	The long-established Jewish American and Italian-American communities have developed their own dialects that can still be heard throughout the city.
+0	1	0	21	New York City (NYC IATA for all airports) is well connected by air with flights from almost every corner of the world.
+0	1	0	21	Three large airports, and several small ones, serve the region.
+0	1	1	21	John F. Kennedy International Airport (JFK IATA) and Newark Liberty International Airport (EWR IATA) are large international airports, while LaGuardia Airport (LGA IATA) is a busy domestic airport.
+0	1	0	22	All three airports are run by The Port Authority of New York and New Jersey.
+0	1	0	22	Inter-airport transfers:
+0	1	1	22	Scammers outside of the arrivals terminals at JFK will claim to be Uber drivers and that their original fare cancelled their ride in an effort to offer their services.
+0	1	0	23	In many cases they will show the Uber logo either on a sign or on a smartphone.
+0	1	0	23	Under no circumstances should you accept such offers!
+0	1	1	23	These people are not Uber drivers and many of them are not even licensed taxi drivers.
+0	1	0	24	These scammers will charge several times the rate into Manhattan, plus suddenly add extras, such as “tax” and “tip.”
+0	1	0	24	In some cases, drivers have charged as much as $1,300 from originally unsuspecting passengers.
+0	1	0	24	If somebody like this approaches you, simply and firmly say “No.”
+0	1	1	24	Do not let them touch any of your luggage and do not allow them to intimidate you in any way.
+0	1	0	25	Do not hesitate to call the police on 911 if the scammers persist.
+0	1	0	25	The authorities will always back you in such incidents, despite the scammer's threats of possible arrest or deportation.
+0	1	0	25	40.639722-73.7788891 John F. Kennedy International Airport (JFK IATA).
+0	1	1	25	New York's main airport and a major hub for American, Delta, and JetBlue, as well as other domestic and international airlines.
+0	1	0	26	If you are arriving into New York by plane from overseas, it is likely that JFK will be your point of entry.
+0	1	0	26	(updated Sep 2018)
+0	1	0	26	If you arrive at this airport from overseas, be prepared to wait in line at Customs & Border Protection, often over an hour if you are not a permanent resident of the United States.
+0	1	0	26	As cellphones are not allowed in waiting lines, you may want to bring a book or other non-digital entertainment.
+0	1	0	26	If you are departing from this airport, beware that it's a huge and congested airport with six terminals.
+0	1	0	26	Make sure you know what terminal you're leaving from before you get to the airport, and it's recommended that you arrive 2 hours before domestic flights and 3 hours before international ones, to check in and pass through security without a huge increase in blood pressure and/or a last minute dash worthy of the Olympics, but without any of the medals.
+0	1	0	26	If you're going to Manhattan, you can get there by taxi for a flat fare of $52, bus plus subway for $2.75, or the AirTrain—a 24-hr people mover system that takes passengers to the nearby Jamaica subway and LIRR stations for $8 (AirTrain + subway card).
+0	1	1	26	From Jamaica you can take NYC subway lines E, J or Z further into Brooklyn, Queens and onward to the island of Manhattan, with travel time being between 50 and 60 minutes to Penn Station in Midtown Manhattan.
+0	1	0	27	A faster option for those in the know is the Long Island Rail Road (LIRR); these commuter trains can whisk you from Jamaica to Penn Station in roughly 20-25 minutes.
+0	1	0	27	Be forewarned, however, that Jamaica is a major hub for LIRR train services—only use this option if you are absolutely sure of what you're doing.
+0	1	0	27	You don't want to get on the wrong train and end up 30 miles east of the city in some Long Island suburb, or at a smaller NYC terminal in a neighborhood far from Penn Station.
+0	1	0	27	To add insult to injury, unforgiving conductors on the LIRR will charge you on the spot for incorrect tickets.
+0	1	1	27	Best to use this option once you have fully done your research or consulted with a local.
+0	1	0	28	LIRR trains are extremely crowded both toward and away from New York City during rush hours.
+0	1	0	28	Traffic can be horrendous at all hours, in all directions.
+0	1	1	28	If you are driving or taking a taxi to or from JFK, leave yourself plenty of time to get to or from the airport if going by road.
+0	1	0	29	40.6925-74.16862 Newark Liberty International Airport (EWR IATA).
+0	1	0	29	In the state of New Jersey, west of Manhattan, serves as New York's second major international airport, New Jersey's primary airport, and a major hub for United Airlines.
+0	1	0	29	It is also the starting point of the world's longest nonstop commercial flight; the flight from Newark to Singapore on Singapore Airlines that takes a whopping 19 hours to cover a distance of 9,521 miles (15,323 km) (updated Sep 2018)
+0	1	1	29	You can get into New York City by taxi for $50-70.
+0	1	0	30	Other taxi companies that run cabs to different destinations are also available from the airport.
+0	1	0	30	For a cheaper option, take the train: the NJ Transit commuter rail to Penn Station takes about 30 minutes and costs $15.25 each way.
+0	1	0	30	New Jersey Transit Bus #62 and other NJT Buses -
+0	1	0	30	The most inexpensive option, New Jersey Transit #62 bus runs from in front of the airport terminals to Newark Penn Station (one-way fare $1.60; exact change only; 25 min).
+0	1	1	30	From there, you may take a PATH subway train ($2.75) either to World Trade Center station in lower Manhattan (25 min), or, to Journal Square, where you can transfer to the Journal Square-33rd
+0	1	1	31	St train across the platform, which runs to the following stops along 6th Ave: Christopher St in Greenwich Village, 9th St, 14th St, 23rd St, and 33rd St. Plan on 90 minutes including waiting times.
+0	1	0	32	The #62 Bus operates 24/7 between Elizabeth and Newark Penn Station, including holidays.
+0	1	0	32	Service generally runs every 10-15 minutes weekdays, 15-20 minutes Saturdays, and 20-30 minutes Sundays, with overnight service every 30 minutes.
+0	1	0	32	The AirTrain Newark is easily accessed from the airport terminals via elevator/escalators and runs 24 hours to Newark Airport Rail Station, 10 min away, however, there's a $7.75 fee when exiting/entering to the Newark Airport Station (the $7.75 fee is included in the $15.25 NJ Transit train ticket).
+0	1	0	32	From here you can take a NJ Transit train (30-min ride, every 15-30 min) to New York Penn Station (34th St & 8th Ave in Manhattan) or Amtrak train to other destinations along the east coast.
+0	1	0	32	Amtrak also runs trains to Manhattan, but they cost $20-30.
+0	1	1	32	NJ Transit tickets are not valid on Amtrak trains.
+0	1	0	33	NJ Transit trains stop at both Newark Penn Station and New York Penn Station, so if your destination is Manhattan, stay on till you reach New York Penn Station.
+0	1	0	33	Newark Airport's station along the Northeast Corridor gives it a major advantage over JFK and LGA, as long-distance Amtrak trains coming from as far south as Virginia, as far north as Massachusetts, and as far west as Harrisburg also stop at the station.
+0	1	0	33	40.77725-73.8726113 LaGuardia Airport (LGA IATA).
+0	1	0	33	The smallest of the New York Metropolitan Area's three major airports, but also the closest to Midtown Manhattan.
+0	1	0	33	Almost all direct flights to LGA are from destinations within 1,500 miles.
+0	1	0	33	Most flights are domestic; however, there are international flights from Canada, Aruba, the Bahamas and Bermuda.
+0	1	0	33	The Art Deco Marine Air Terminal, used by Spirit Airlines and Frontier Airlines, is one of the oldest airport terminals that is still in use in the world.
+0	1	0	33	It had long been considered dingy and one of the worst major airports to fly out of, but that has changed with the opening of the new Terminal B in 2021, and the new Terminal C in 2022, and it is now quite pleasant to use.
+0	1	0	33	LaGuardia does not have a direct rail or subway connection to the rest of the city.
+0	1	0	33	Your best bet for reaching Manhattan is to take a taxi or use a rideshare app.
+0	1	1	33	Most taxi or rideshare fares to Midtown Manhattan from LaGuardia will average $40-45 before tip.
+0	1	0	34	Trips via the Queens-Midtown Tunnel or RFK Bridge will incur a toll in addition to the fare.
+0	1	0	34	Traffic between Manhattan and LaGuardia can be awful during rush hours but generally is not a big issue outside of peak commuting times.
+0	1	0	34	If you feel comfortable using public transportation, two MTA Select Bus Service routes serve the airport.
+0	1	0	34	These buses can be very crowded at times but they do include luggage racks and operate 24 hours a day with a fair degree of frequency.
+0	1	0	34	The M60-SBS can take you to the area of Upper Manhattan around Columbia University via the Astoria neighborhood of Queens and 125th Street in Harlem.
+0	1	1	34	The Q70-SBS LaGuardia Link provides a connection to busy public transit hubs in the Woodside and Jackson Heights neighborhoods of Queens, where you can then connect onward to multiple subway, LIRR and bus lines.
+0	1	1	35	As of late 2022, riding the Q70 is free of charge.
+0	1	0	36	The M60 costs the standard bus fare of $2.75 per passenger.
+0	1	1	36	Amtrak, ☏ +1 215-856-7924, toll-free: +1-800-872-7245.
+0	1	0	37	Operates trains throughout the United States.
+0	1	0	37	(updated Dec 2020) Amtrak trains stop at 40.7515-73.99594 Moynihan Train Hall at Penn Station (Amtrak code NYP), 351 West 31st Street (directly under Madison Square Garden, between 31st and 33rd
+0	1	1	37	St, and between 8th and 9th Ave).
+0	1	0	38	(updated Oct 2023) Popular trains leaving during rush hours can fill up quickly; it is a good idea to make reservations online, or via phone, and pick up your ticket using a credit card or your confirmation number at one of the electronic kiosks throughout the station.
+0	1	0	38	On some of the non-business routes, for example New York to Montreal, Amtrak takes more time and costs more money than taking the bus or renting a car.
+0	1	1	38	Check and compare schedules and prices before booking.
+0	1	0	39	Amtrak's routes stopping at Moynihan Train Hall at Penn Station include:
+0	1	0	39	Service from California, Oregon or Washington states takes about 4 days and requires a change of train in Chicago.
+0	1	1	39	Amtrak's ClubAcela Lounge, near the big security desk in Penn Station, offers complimentary drinks, wi-fi access, newspapers and magazines, and clean bathrooms.
+0	1	0	40	Access to the club is granted to travelers with sleeper tickets, First Class Acela tickets, or Amtrak GuestRewards SelectPlus membership.
+0	1	1	40	New York City is served by three commuter railroads:
+0	1	0	41	PATH (Port Authority Trans-Hudson) is a subway system connecting New York City to Hoboken, Newark, and various points on the New Jersey shore of the Hudson River.
+0	1	1	41	Two lines pass under the Hudson and enter the city, one terminating near the World Trade Center site downtown, the other at 33rd Street in midtown (see map[dead link]).
+0	1	1	42	The PATH station at 33rd Street is not connected to, nor part of Penn Station.
+0	1	0	43	PATH costs $2.75 per ride.
+0	1	0	43	An RFID-type stored value card called Smartlink[dead link] affords PATH users discounts: $21 for 10 trips; $42 for 20 trips; $84 for 40 trips.
+0	1	0	43	However, the card itself must be purchased ($5, $24 including 10 trips).
+0	1	1	43	The PATH system accepts the MTA system's Pay-Per-Ride MetroCard (but not Unlimited Ride MetroCard).
+0	1	0	44	For the visitor traveling from New Jersey daily, it is more convenient and possibly cheaper to purchase the MetroCard to travel on both the PATH and the MTA systems.
+0	1	0	44	However, there is no free MetroCard transfer between PATH and MTA subways/buses.
+0	1	0	44	Some buses offer wi-fi, outlets and even business-class style luxury.
+0	1	1	44	Buses serve New Jersey, New York suburbs west of the Hudson River, and all cities along the east coast of the U.S.
+0	1	0	45	New York City has always been one of the world's most important passenger sea ports, and arriving by ocean liner or cruise ship still remains an extraordinary and stylish method of arrival.
+0	1	0	45	In addition to passenger service from the Cunard Line, many cruise ships start or end their voyages in New York City.
+0	1	0	45	"While most people would advise against entering New York City by car (see the ""Get around"" section below), it is accessible by a number of highways:"
+0	1	0	45	From New Jersey there are three Hudson River crossings: The George Washington Bridge (on I-95, US 1 and US 9) in Fort Lee drops you off in Upper Manhattan, the Lincoln Tunnel (on NJ Route 495) in Weehawken will bring you to Midtown Manhattan, and the Holland Tunnel (on I-78) in Jersey City leaves you in lower Manhattan.
+0	1	0	45	Depending on where you are heading to in New York City and the time of day, you'll want to take advantage of the different crossings, but if you have the time and are looking for the most scenic of the three, take the George Washington Bridge's upper level for spectacular views of New York City; Hudson County, New Jersey; and the Hudson River.
+0	1	0	45	If you are heading to Staten Island, Queens or Brooklyn you can also take the Goethals Bridge (on I-278) in Elizabeth; the highway cuts across Staten Island and continues over the Verrazzano-Narrows Bridge to Brooklyn.
+0	1	0	45	The other routes into Staten Island from NJ are the Outerbridge Crossing in Perth Amboy, which puts you in Tottenville near the southern tip of the island, and the Bayonne Bridge, which leaves you in extreme northern Staten Island.
+0	1	1	45	From Upstate New York, you can take one of several highways into the Bronx, including the New York State Thruway, which becomes the Major Deegan Expressway in the Bronx (both roads are I-87).
+0	1	0	46	The Connecticut Turnpike/New England Thruway (I-95) and the Merritt Parkway/Hutchinson River Parkway are good routes from Connecticut and areas of Westchester County near the Long Island Sound.
+0	1	0	46	From Long Island you can take the Long Island Expressway (I-495) or the Northern State Parkway/Grand Central Parkway for access to Queens, the Bronx and Manhattan.
+0	1	0	46	The Southern State and Belt Parkways are useful for Queens, Brooklyn, and Staten Island.
+0	1	1	46	Left luggage
+0	1	0	47	Because of security concerns, there are very few left luggage, storage lockers, or coat-check service at any New York train station.
+0	1	0	47	This includes Penn Station and Grand Central Terminal; however the Amtrak checked and left luggage point at Penn Station is still operating, but only for ticketed passengers.
+0	1	0	47	There are left luggage services in the Arrivals area of Terminals 1 and 4 at JFK Airport.
+0	1	0	47	The left luggage office in Terminal 4 is open 24 hours.
+0	1	0	47	There is also a luggage storage at Building 4 of JFK, which will require photo ID.
+0	1	1	47	Schwartz Travel & Storage, with three locations in Midtown Manhattan close to Penn Station is one of several left luggage services; the price per day is $7-10 per bag.
+0	1	0	48	Most left luggage services will only accept cash but a few of them include a lounge where users can watch TV and use the Wi-Fi services.
+0	1	0	48	Some hotels will store luggage for customers who have checked out of the hotel.
+0	1	1	48	For shorter distances, there is no better way of getting around New York than hitting the sidewalk.
+0	1	0	49	If you use the subway or buses, you will almost certainly need to walk to and from stations or stops.
+0	1	0	49	In all areas of New York a traveler is likely to visit, all streets have wide, smoothly-paved sidewalks.
+0	1	0	49	For long distances, walking is also fine and a great way to see the city.
+0	1	0	49	"OMNY is the MTA's contactless payment system, which allows passengers at all subway stations and on all MTA buses to pay by ""tapping"" their credit card or smart device equipped with Google Pay, Apple Pay, Samsung Pay or Fitbit Pay."
+0	1	0	49	If you tap in with a physical credit card the first time, you can not use that same credit card loaded on a mobile wallet for a second tap (including to transfer between buses or the subway); you must still use the physical card.
+0	1	1	49	OMNY uses a large reader module with an LCD display mounted to the front of subway turnstiles and beside fare boxes on local buses.
+0	1	0	50	On Select Bus Service vehicles, OMNY readers are situated beside all boarding doorways; you do not need to utilize the SBS ticket machines found at stops.
+0	1	0	50	If you take 12 paid OMNY trips with the same device or card starting Monday, you’ll automatically ride free for the rest of the week through Sundays.
+0	1	0	50	As of late 2022, OMNY only supports full-fare and pay-per-ride options.
+0	1	1	50	PATH trains between New Jersey and New York City now offer a contactless payment method via a physical RFID card called SmartLink.
+0	1	0	51	Payment via this method for PATH services will NOT work on contactless OMNY readers for MTA subways or buses once in New York City.
+0	1	0	51	MetroCard is the tried-and-true pre-paid debit card for transit fares that will be phased out by 2024.
+0	1	1	51	MetroCards, which cost $1, can be bought online, at station booths, and at vending machines in subway stations, as well as at newsstands and some bodegas and convenience stores.
+0	1	0	52	The vending machines in the stations accept credit cards; however, MetroCard vending machines will require that you type in your 5-digit zip code, or your regular PIN on international cards.
+0	1	0	52	You can add either value or time (i.e. unlimited trips) to your MetroCard at vending machines in stations.
+0	1	1	52	Unlimited Ride MetroCards may not be used in rapid succession at the same subway station or on the same bus route.
+0	1	0	53	MetroCards generally expire 1 year after purchase; the expiration date is printed on the back of the card at the upper left.
+0	1	0	53	The PATH rapid transit rail system between New York and New Jersey has a separate fare structure.
+0	1	0	53	PATH accepts payment by MetroCard, but no free transfers are available to or from MTA subways or buses.
+0	1	1	53	JFK AirTrain also accepts MetroCard, but again there are no free transfers are available.
+0	1	0	54	Metro-North Commuter Railroad, Long Island Rail Road (LIRR), New Jersey Transit (NJT), and Amtrak trains do not accept MetroCards, but Westchester Bee Line Buses, Roosevelt Island Tram, and NICE Bus (Nassau Inter-County Express) do accept them.
+0	1	0	54	OMNY is accepted on all subway stations and MTA-operated buses as well as Metro-North and LIRR; however it will not work on NJ Transit as NJT will be using a different fare payment system.
+0	1	1	54	Up to three children 44 inches (112 cm) tall and under ride for free on subways and local buses when accompanied by a fare paying adult.
+0	1	0	55	MetroCards generally expire 1 year after purchase; the expiration date is printed on the back of the card at the upper left.
+0	1	0	55	A $1 fee is charged for each MetroCard purchased at station booths and vending machines.
+0	1	0	55	This fee does not apply when buying a card from neighborhood merchants, who may insist to be paid cash only (even if they otherwise accept credit cards with displayed logos), and if so, buy a lowest available pre-valued[dead link] $11.00 card that may be later refilled at MetroCard vending machine with credit card.
+0	1	0	55	However, expired MetroCards can be exchanged at station booths and vending machines free of charge, and the remaining balance will also be transferred to the new card.
+0	1	0	55	Most vending machines accept cash, but only return up to $9 in change.
+0	1	0	55	Debit and credit cards are accepted at vending machines; international card users need to input '99999' on the keypad when the ZIP code is requested.
+0	1	1	55	However, staffed station booths only accept cash, and no $50 bill if buying less than $30 or $100 bill if buying less than $70.
+0	1	0	56	The amount you should add is (number of rides × $2.75).
+0	1	0	56	Regular MetroCard is the best option if you are spending a few days in New York and plan to use the subway or bus fewer than 12 times.
+0	1	0	56	You can also get discounted tickets to certain events by showing your MetroCard when purchasing tickets.
+0	1	1	56	Current promotions are listed on the MetroCard website
+0	1	0	57	Despite a reputation for being dirty, the subway, which operates 24 hours a day 7 days a week, is the fastest and best way to travel around four boroughs of the city.
+0	1	0	57	Unfortunately for people who live there, it hasn't reached Staten Island, which is instead served by a separate railway.
+0	1	0	57	Fares are $2.75 (unless you use Single Ride MetroCard, which is $3), regardless of distance traveled.
+0	1	0	57	The much-feared subway crimes of the 1970s and 1980s are for the most part a thing of the past, and it is usually completely safe.
+0	1	0	57	Just remember to use common sense when traveling late at night alone.
+0	1	0	57	Try to use heavily-traveled stations, remain visible to other people, and don't display items of value publicly.
+0	1	1	57	While violent crime is rare, petty crime - especially theft of iPhones and other expensive electronics - is very frequent, so be aware when using your phone on the train.
+0	1	0	58	Every subway route is identified by either a letter or a number, not by a color like in Boston or Washington, D.C.
+0	1	0	58	"Therefore, if you ask where the ""green line"" is, a New Yorker will look at you like you're insane, since the green line is really three different lines."
+0	1	0	58	The only reason why some lines are the same color is because in Manhattan, they use the same set of tracks as the other lines colored in that specific color.
+0	1	0	58	It may be possible for trains from one line to be diverted to a platform normally intended for another line, especially during weekends and other periods of maintenance work.
+0	1	0	58	PATH (Port Authority Trans-Hudson) trains primarily provide commuter service between urban Northern New Jersey and Manhattan in two branches—one connecting the city of Newark with the World Trade Center and a branch connecting the smaller enclaves of Hoboken and Jersey City with the Herald Square area of Midtown Manhattan.
+0	1	0	58	PATH trains can be used to travel within Manhattan along a segment running under Sixth Avenue, although realistically there's no reason to use this service unless the Sixth Avenue subway line ( B D F F M ) is severely delayed or disrupted.
+0	1	1	58	Manhattan PATH stations are cramped and dusty; expect extremely crowded conditions during rush hours.
+0	1	0	59	Unlimited Ride MetroCards cannot be used on the PATH.
+0	1	0	59	PATH also accepts the SmartLink Card (similar to the MetroCard, but the SmartLink Card cannot be used on the NYC subway).
+0	1	0	59	Like the subway, PATH operates 24 hours a day, 7 days a week.
+0	1	0	59	PATH trains usually arrive every 5–10 minutes (based on the time of day), but overnight, they may only come every 35 minutes.
+0	1	1	59	The Staten Island Railway, true to its name, is a railway line that serves Staten Island.
+0	1	0	60	It is owned and operated by the MTA.
+0	1	0	60	It is free except at the Tompkinsville and St. George stations.
+0	1	0	60	There, the price is the same as the subway ($2.75), and is payable by MetroCard (free transfers from MTA buses work, just as is the case with subways).
+0	1	0	60	SIR departure times from the terminal at St. George are usually coordinated with those of the Staten Island Ferry.
+0	1	0	60	The SIR consists of one line that travels along the East Shore of Staten Island, ending at Tottenville.
+0	1	0	60	A full timetable with other information can be found here.
+0	1	1	60	Commuter rail lines are mostly used for traveling between the city and its suburbs, owing to the vast existence of the Subway; however, they can be used for intracity transit as well.
+0	1	0	61	A handful of destinations are closer to commuter rail stops but far from the subway.
+0	1	0	61	MetroCards are not accepted on commuter rail; separate single or period tickets must be bought.
+0	1	0	61	When purchasing commuter railroad tickets, it is advantageous to purchase them online or in railroad stations prior to boarding.
+0	1	0	61	While tickets are available for sale on trains, there is an on-board surcharge that makes them significantly more expensive.
+0	1	0	61	The Long Island Rail Road, often called the LIRR runs from Penn Station in Midtown Manhattan, Atlantic Terminal in Downtown Brooklyn, and has limited rush hour service to Long Island City, Queens.
+0	1	1	61	The Port Washington Branch goes to Northeast Queens which, aside from Flushing and Citi Field, is not served by the subway system.
+0	1	0	62	The Main Line, which contains most of the branches to the different parts of Long Island, goes to Southeastern Queens, including Jamaica, Laurelton, and Rosedale.
+0	1	1	62	The Atlantic Branch, which ends in Downtown Brooklyn, goes to East New York and Bedford-Stuyvesant, both in Brooklyn.
+0	1	0	63	This branch is not accessible from Manhattan, however.
+0	1	0	63	The LIRR is also the fastest way to get from JFK to Manhattan, Brooklyn, or Queens, and also runs to many popular getaways in Long Island, such as Long Beach, Port Jefferson, and Montauk.
+0	1	1	63	The LIRR has a somewhat deserved reputation for poor on-time performance, however this is more of a problem in the farther eastern reaches of the railroad and not so much a problem in New York City and its immediate suburbs.
+0	1	1	64	The Metro-North Railroad provides services from Grand Central Terminal.
+0	1	0	65	Trains go to the Bronx and the northern suburbs of the city.
+0	1	0	65	The Hudson Line covers several parts of the Western Bronx, while the Harlem Line goes through the Central Bronx — an area with no subway service.
+0	1	0	65	It is the best way to get to Arthur Avenue and the New York Botanic Gardens.
+0	1	1	65	The Hudson and Harlem Lines are also your gateway to Westchester County and beyond, with the Hudson Line running all the way to Poughkeepsie.
+0	1	0	66	The New Haven Line runs to Connecticut, terminating, logically enough, in New Haven.
+0	1	0	66	However, the other commuter railroad, NJ Transit Rail Operations only operates between Penn Station or places like Newark and Hoboken (both in New Jersey) to other points in New Jersey.
+0	1	0	66	Hence the name, NJ Transit.
+0	1	0	66	Even in Manhattan, with its dense subway network, buses can often be the best way of making a crosstown (i.e. east-west) journey — for example, crossing Central Park to go from the Metropolitan Museum of Art to the Museum of Natural History.
+0	1	0	66	And outside peak hours, a ride by bus from the tip of Lower Manhattan at Battery Park to Midtown is a good and cheap way of taking in the sights.
+0	1	0	66	Taxis are widely available in New York, but due to surface traffic, it is often quicker to take the subway — or in Midtown Manhattan, to walk.
+0	1	0	66	In some areas, livery cabs can be flagged on the street.
+0	1	0	66	Though this is not legal (the driver, not you, could get into trouble), it is useful in upper Manhattan and the outer boroughs and is accepted practice, though this has mostly been replaced by the Borough Taxis and ride hailing apps.
+0	1	0	66	The minimum fare in these cabs is about $7, and it is advisable to negotiate the fare before you get inside (again, tipping your driver is expected).
+0	1	0	66	Since yellow cabs are hard to come by in the outer boroughs, these cars are particularly useful for getting to the airport (your hotel can arrange one, or look up car services in the Yellow Pages).
+0	1	1	66	—Philip J. Fry, Futurama
+0	1	0	67	A word of advice about driving in New York City: don't.
+0	1	1	67	A car is inadvisable — street parking is practically nonexistent near crowded areas and tourist attractions, and garage parking rates range from very expensive to plain extortion.
+0	1	0	68	Traffic is almost always congested, parking rules are confusing, and many drivers are infamously aggressive.
+0	1	0	68	Public transportation options are many, and are quicker, cheaper and more pleasant.
+0	1	1	68	That's why many New Yorkers, particularly in Manhattan, don't own cars.
+0	1	0	69	If you think of staying in a suburb and commuting to the city by car, better to do as the locals do.
+0	1	0	69	Drive to one of the commuter rail stations (see above) or ferry docks.
+0	1	0	69	Parking fees at the station, fare, and MetroCard combined are usually much cheaper than parking downtown.
+0	1	0	69	Many stations have secure parking areas, however it’s wise to investigate beforehand.
+0	1	0	69	Some suburban stations limit their parking to local residents, with enforcement by license plate camera and aggressive ticketing of unregistered vehicles.
+0	1	1	69	In Staten Island, parking near the ferry terminal and using the ferry will save you money and time.
+0	1	0	70	If you do choose to drive, a smartphone with GPS support and a mapping application with turn-by-turn directions and live traffic conditions support (such as Google Maps, Apple Maps or Waze) is invaluable: New York's eternal cycle of road, bridge and tunnel maintenance, not to mention the daily changes created by accidents, festivals and police activity mean that a published paper map may be catastrophically inaccurate, even if it's been published comparatively recently.
+0	1	0	70	Many rental cars may not have a USB power port and even those that do will not provide a charge cable: bringing your own car power adaptor is a must if you're renting.
+0	1	0	70	In Queens, numbers identify not only avenues and streets, but also roads, places, crescents, and lanes, all of which might be near each other.
+0	1	1	70	Read the entire street sign.
+0	1	0	71	Outer borough highways are confusing and often narrowed to one lane, the potholes could trap an elephant, the signs are sometimes misleading, exits which should appear do not, and signs directing a highway approach drag you through miles of colorful neighborhood (in the wrong direction) before finally letting you onto the highway with a stop sign and a hand's width of merge space.
+0	1	0	71	Traffic in New York City roughly follows a hierarchy of precedence, which it is unwise to challenge.
+0	1	0	71	Fire engines, ambulances, and police cruisers are given priority, followed by other public service vehicles such as buses, road crews, and sanitation trucks.
+0	1	0	71	Beneath them are taxi cabs and delivery trucks.
+0	1	0	71	Below those are other cars.
+0	1	0	71	Driving a car with out-of-state license plates (save for perhaps Connecticut or New Jersey) will instantly mark you as an outsider, sometimes resulting in other drivers being more aggressive around you than they would with a local.
+0	1	0	71	Suffice it to say, driving in New York is not for the timid or emotionally fragile.
+0	1	1	71	However, driving can be an exciting adventure, particularly on the parkways, with their numerous twists and turns.
+0	1	0	72	(Just watch out for other drivers, as noted above.)
+0	1	0	72	Also, since buses don't serve some of the parkways, driving or taking a taxi might be a workable option for those.
+0	1	1	72	Nonetheless, try to use bicycles or walk on the pedestrian trails near those parkways, where they exist; trails are less harrowing and you'd probably enjoy the scenery better.
+0	1	0	73	The major car rental agencies have offices at all three airports as well as throughout the city.
+0	1	0	73	Smaller agencies are also well represented.
+0	1	0	73	Be warned that car rentals in New York are generally more expensive than elsewhere in the United States, especially on weekends, when the locals rent cars to get out of the city.
+0	1	0	73	Rentals may require a deposit of up to $500 if you do not have a credit card.
+0	1	0	73	New York state law caps rental car collision damage waiver at $9 per day ($15 per day for premium cars), which is quite a bit less than in most other states.
+0	1	1	73	At that price, it's not a bad idea to add it to your rental, even if you have another source of coverage.
+0	1	0	74	(For more on rental car insurance in New York, check out the New York Attorney General's page on the subject.
+0	1	0	74	http://www.ag.ny.gov/consumer-frauds/car-rental-tip-sheet)
+0	1	1	74	Unlike most other states in the U.S., New York state law requires rental companies to rent to anyone at least 18 years of age, but there are hefty fees for those under 25.
+0	1	1	75	Car-sharing services like Zipcar and Hertz 24/7 are very well represented.
+0	1	0	76	Gas stations can be found along main streets in the outer boroughs, but are sparse in Manhattan where only a handful exist around the perimeter of the island and in neighborhoods north of Central Park.
+0	1	0	76	Avoid filling your gas tank on highways within city limits—these charge a lot more compared to neighborhood gas stations.
+0	1	0	76	There are several points of entry/exit into the city from the New Jersey side: the Lincoln Tunnel (midtown/41st Street), the Holland Tunnel (downtown/Canal Street), and the George Washington Bridge (way uptown/178th Street) — all are accessible from the New Jersey Turnpike (I-95).
+0	1	0	76	I-78 east will also feed directly into the Holland Tunnel (US-1/9 is also a popular route).
+0	1	0	76	I-80 east will terminate at an I-95 junction, the north route of which will lead directly to the George Washington Bridge.
+0	1	0	76	The bridge is also directly accessible from US-46 east.
+0	1	1	76	With all of these options, many commuters choose to listen to 24 hour traffic reports on AM stations 880 (every ten minutes on the 8s) and 1010 (every ten minutes on the 1s) to find the least congested route at that time.
+0	1	0	77	Weekend traffic delays can easily exceed 60 minutes at some of the tunnels, so plan accordingly!
+0	1	0	77	The Midtown Tunnel under the East River is convenient for Long Island travelers, as it becomes the Long Island Expressway.
+0	1	0	77	The Queensborough Bridge (aka The 59th Street Bridge) also crosses the East River into Queens, is toll-free, and lands near the mouth of the Midtown Tunnel but requires some automotive manipulation to get onto a highway.
+0	1	1	77	Other routes head north and east out of the Bronx, including Interstates 87 (north to Albany) and 95 (northeast to Boston) and the Henry Hudson Parkway, which is along the Hudson River.
+0	1	0	78	When entering New York from New Jersey, as well as when driving across bridges and tunnels within New York City, you will incur tolls of up to $15, and associated traffic delays.
+0	1	0	78	Traveling at off-hours makes sense to avoid rush hour traffic, but highways and roads are still generally packed any time of day.
+0	1	0	78	The Cross Bronx Expressway, which is part of I-95 and leads to the George Washington Bridge, is almost always choked with traffic.
+0	1	0	78	The Long Island Expressway has heavy eastbound traffic between the morning and evening rushes.
+0	1	0	78	The Holland and Lincoln Tunnels are 10-minute waits on a good day.
+0	1	1	78	The Brooklyn-Queens Expressway (BQE) is notorious, and an accident on the Verazzano Bridge without shoulders can cause a backup all the way through the northern part of Staten Island into New Jersey.
+0	1	0	79	It is a good idea to check radio traffic reports, especially before crossing a bridge or tunnel.
+0	1	0	79	Three different stations have reports every 10 minutes around the clock: 880 AM (on the 8's), 1010 AM (on the 1's), and 1130 AM (on the 5's).
+0	1	0	79	Driving cross-town (east-west) in Manhattan during rush hours is especially troublesome because the traffic lights are optimized to move traffic along the north-south roads.
+0	1	0	79	Your best bet is to avoid driving in Midtown Manhattan (between the 30s and 50s) whenever possible.
+0	1	1	79	"If you do drive in Midtown Manhattan crosstown on weekdays, consider using ""Thru Streets""—these streets restrict turns onto major avenues at certain intersections and may reduce delays."
+0	1	0	80	They are indicated with purple and white signs at intersections.
+0	1	1	80	If you are traveling with a commercial vehicle (defined as any vehicle designed to transport property with two axles and six tires, or three or more axles) remember that commercial traffic is prohibited on many roadways throughout the city.
+0	1	0	81	Commercial traffic is permitted only on roadways designated as Through and Local Truck Routes.
+0	1	0	81	"Commercial traffic is prohibited on all multiple-lane roadways designated as ""parkways"" (such as the Grand Central Parkway, Cross-Island Parkway, or Henry Hudson Parkway) with frequent low bridges."
+0	1	1	81	Unfortunately, the majority of fast-moving roadways are designated as parkways in New York City.
+0	1	0	82	Commercial traffic is also prohibited on the Franklin Delano Roosevelt (FDR) Drive in Manhattan.
+0	1	0	82	Before traveling anywhere in New York City with a commercial vehicle, refer to the New York City Truck Route Map.
+0	1	0	82	Parking in garages or outdoor lots is usually very expensive, costing as much as $40 per day in Manhattan, although cheap or free lot parking is available at some times at certain locations.
+0	1	0	82	Street parking can be free or much cheaper than garage or lot parking, but can be extremely hard to come by.
+0	1	0	82	"In Manhattan, self-park (or ""park-and-lock"") is extremely rare."
+0	1	0	82	The overwhelming majority of parking facilities in Manhattan have mandatory valet parking, so you must set aside a few dollars for tips, and anticipate the time it will take for a valet to retrieve your vehicle.
+0	1	0	82	Self-park garages in Manhattan near major tourist attractions include the Battery Parking Garage in Lower Manhattan, Manhattan Plaza Parking in Midtown Manhattan, and the public parking garage underneath the Metropolitan Museum of Art.
+0	1	1	82	"In the case of parallel parking on the street, ""bumping"" cars in front of and behind of you to get into and out of a parking spot (known to some as ""Braille Parking"") is common."
+0	1	0	83	If you choose to park on the street, don't be surprised if you find a few new scratches and scrapes on your bumper.
+0	1	0	83	As a general rule, hotels in New York do not supply garage parking.
+0	1	0	83	The few that do will charge you handsomely for the privilege.
+0	1	0	83	There are several websites and mobile apps that can help you find and book parking, including: ParkMe.com, SpotHero, ParkWhiz.com, BestParking.com, Parkopedia.com, IconParking.com, and ParkFast.com.
+0	1	0	83	Using a bicycle in New York City is common among New Yorkers and tourists alike.
+0	1	0	83	Bike paths can be found in every borough of the city, in three forms: bike lanes (road lanes specifically for bicycles), shared lanes (lanes shared between cars and bicycles), and greenways (roads solely designated to bicycles and pedestrians).
+0	1	0	83	Greenways are highly recommended for those wishing to go on a recreational journey.
+0	1	1	83	The Manhattan Waterfront Greenway circles (almost) the whole of Manhattan, and protected bikeways exist on some major avenues.
+0	1	0	84	However, most destinations will require some street biking.
+0	1	0	84	A map of bike paths in New York City can be found here.
+0	1	0	84	Bike shops give out free maps provided by the City.
+0	1	1	84	They show bike routes and shops, and indicate the ones that offer rentals.
+0	1	0	85	The city has a bike share program called CitiBike.
+0	1	1	85	The program has over 750 stations in Manhattan and parts of Brooklyn, Queens, and the Bronx.
+0	1	0	86	A map can be found here.
+0	1	0	86	To access a bike install the app.
+0	1	0	86	You can also visit one of the locations and pay for a pass.
+0	1	0	86	A single ride costs $3.81 to unlock plus $0.18 per minute.
+0	1	1	86	Return your bike to a station (remember to place it securely in a dock–you will be further fined if the light on the dock does not turn green).
+0	1	0	87	CitiBike is good for short trips to a known destination and not recommended for using a bike for a prolonged period of time.
+0	1	1	87	Cycling in Manhattan can often be quicker than taking the subway or a taxi, but it isn't for the fainthearted.
+0	1	0	88	The borough's tumultuous traffic makes biking difficult.
+0	1	0	88	Aggressive cab drivers, jaywalking pedestrians, potholes and debris on the roads create a cycling experience that might just as well have been taken from Dante's Inferno.
+0	1	0	88	If you do venture into the concrete jungle on a bike, make sure you wear a helmet and have sufficient experience in urban cycling.
+0	1	0	88	Cycling in Brooklyn and The Bronx can be more rewarding, or not, depending on the neighborhood.
+0	1	0	88	There are few bike paths in Queens; however, the roads are bike-friendly for the most part.
+0	1	0	88	Cycling is not recommended in Staten Island.
+0	1	0	88	Access is difficult, with the main way to get in being the Staten Island Ferry.
+0	1	0	88	There are only a handful of bike paths on the entire island, mostly on the south shore.
+0	1	0	88	This is unfortunate, as Staten Island has beautiful displays of nature in some of its parks, most of which are accessible only on foot or by bicycle.
+0	1	0	88	If you are looking for scenery, by all means, take your bike with you on the ferry, but do not rely on it for transportation on the street.
+0	1	1	88	Like most of the great world cities, New York has an abundance of great attractions—so many, that it would be impossible to list them all here.
+0	1	0	89	What follows is but a sampling of the most high-profile attractions in New York City; more detailed info can be found in the district pages.
+0	1	0	89	"A general word of advice on sightseeing in New York: Tourists often spend their entire vacation in New York standing in line (or as New Yorkers say, ""on line"")."
+0	1	1	89	This is often unnecessary; there are usually alternatives.
+0	1	0	90	For example, one can choose to avoid the Empire State Building during the day (it is open, and much quieter, late, until 2AM), skip the Statue of Liberty in favor of the Staten Island Ferry, and stay away from the Guggenheim on Monday (it is one of the only museums open that day).
+0	1	0	90	Also, there is no reason to stand in line for a Broadway show if you already have a ticket with an assigned seat.
+0	1	0	90	If you prefer, get a drink nearby and come back closer to curtain time, when you can walk right in.
+0	1	0	90	The lines for bus tours can be absurd because tourists all seem to have exactly the same itinerary - which is get on a bus in the morning in Times Square, get off for the Statue of Liberty, and finish on the East Side in the afternoon.
+0	1	0	90	Why not go downtown in the morning, and save Midtown for the afternoon?
+0	1	0	90	You will thank yourself for avoiding the crowds.
+0	1	1	90	Also, understand that buses are the slowest way to go crosstown in Midtown Manhattan during peak hours, and taxis are not much better.
+0	1	0	91	You are often better off on foot.
+0	1	0	91	Additionally, New York rush hour (especially in Manhattan) puts much of the city in gridlock––all subway lines and roads will be much busier from 4:30pm to 6:30pm.
+0	1	0	91	A number of multi-attraction schemes give reduced prices and line-skipping privileges.
+0	1	1	91	See also the district pages for detailed information about attractions.
+0	1	0	92	Detail is gradually being moved from this page to the district pages.
+0	1	1	92	Naturally, Manhattan possesses the lion's share of the landmarks that have saturated American popular culture.
+0	1	0	93	Starting in the Financial District, perhaps the most famous of these landmarks is easy to spot - the Statue of Liberty, a symbol of the nation standing atop a small island in the harbor, and perhaps also the most difficult attraction to access in terms of crowds and the long lines to see it.
+0	1	0	93	Nearby Ellis Island preserves the site where millions of immigrants completed their journey to America.
+0	1	0	93	Within the Financial District itself, Wall Street acts as the heart of big business being the home of the New York Stock Exchange, although the narrow street also holds some historical attractions, namely Federal Hall, where George Washington was inaugurated as the first president of the United States.
+0	1	1	93	Furthermore, there is a large statue of a bull that tourists often take pictures with.
+0	1	0	94	Nearby, the National September 11 Memorial at the World Trade Center Site commemorates the victims of that fateful day.
+0	1	0	94	Connecting the Financial District to Downtown Brooklyn, the Brooklyn Bridge offers fantastic views of the Manhattan and Brooklyn skylines.
+0	1	0	94	Moving north to Midtown, Manhattan's other major business district, you'll find some of New York's most famous landmarks.
+0	1	1	94	The Empire State Building looms over Midtown, with the nearby Chrysler Building also dominating the landscape.
+0	1	0	95	Nearby is the headquarters of United Nations overlooking the East River and Grand Central Terminal, one of the busiest train stations in the world.
+0	1	0	95	Also nearby is the main branch of the New York Public Library, a beautiful building famous for its magnificent reading rooms and the lion statues outside the front door; and Rockefeller Plaza, home to NBC Studios, Radio City Music Hall, and (during the winter) the famous Christmas Tree and Skating Rink.
+0	1	0	95	Still in the Midtown area but just to the west, in the Theater District, is the tourist center of New York: Times Square, filled with bright, flashing video screens and LED signs running 24 hours a day.
+0	1	0	95	Just to the north is Central Park, with its lawns, trees and lakes popular for recreation and concerts.
+0	1	0	95	New York has some of the finest museums in the world, many of which are priced accordingly.
+0	1	1	95	In addition to the major museums, hundreds of small galleries are spread throughout the city, notably in neighborhoods like Chelsea and Williamsburg.
+0	1	0	96	Many galleries and museums in New York close on Mondays, so be sure to check hours before visiting.
+0	1	1	96	The following is just a list of highlights; see district pages for more listings.
+0	1	0	97	New York City is home to some of the finest art museums in the country, and in Manhattan, you'll find the grandest of them all.
+0	1	0	97	The Metropolitan Museum of Art in Central Park has vast holdings that represent a series of collections, each of which ranks in its category among the finest in the world.
+0	1	1	97	Within this single building you'll find perhaps the world's finest collection of American artwork, period rooms, thousands of European paintings including Rembrandts and Vermeers, the greatest collection of Egyptian art outside Cairo, one of the world's finest Islamic art collections, Asian art, European sculpture, medieval and Renaissance art, and antiquities from around the ancient world.
+0	1	1	98	As if all that wasn't enough, the Metropolitan also operates The Cloisters in Fort Tryon Park in Upper Manhattan, which houses a collection of medieval art and incorporates elements from five medieval French cloisters and other monastic sites in southern France in its renowned gardens.
+0	1	0	99	Near the Metropolitan, in the Upper East Side, is the Guggenheim Museum.
+0	1	1	99	Although more famed for its architecture than the collection it hosts, the spiraling galleries are ideal for exhibiting art works.
+0	1	0	100	The nearby Frick Collection houses a smaller though well-regarded collection of paintings by the old masters.
+0	1	0	100	In Midtown, the Museum of Modern Art (MoMA) holds the most comprehensive collection of modern art in the world, and is so large as to require multiple visits to see all of the works on display, which include Van Gogh's Starry Night and Picasso's Les Demoiselles d’Avignon, as well as an extensive industrial design collection.
+0	1	1	100	Midtown is also home to the Paley Center for Media, a museum dedicated to television and radio, including a massive database of old shows.
+0	1	0	101	The Whitney Museum of American Art, with a collection of contemporary American art, can be found in the Meatpacking District.
+0	1	0	101	In Brooklyn's Prospect Park, the Brooklyn Museum of Art is the city's second largest art museum with excellent collections of Egyptian art, Assyrian reliefs, 19th-century American art, and art from Africa and Oceania, among other things.
+0	1	1	101	Long Island City in Queens is home to a number of art museums, including the PS1 Contemporary Art Center, an affiliate of the Museum of Modern Art, and the Museum of the Moving Image, which showcases movies and the televisual arts.
+0	1	0	102	In New York City, no museum holds a sway over children like the American Museum of Natural History in Manhattan's Upper West Side.
+0	1	0	102	Containing the Hayden Planetarium, incredible astronomy exhibits, animal dioramas, many rare and beautiful gems and mineral specimens, anthropology halls, and one of the largest collections of dinosaur skeletons in the world, this place offers plenty of stunning sights.
+0	1	0	102	Near Times Square in the Theater District, the Intrepid Sea, Air & Space Museum takes up a pier on the Hudson River, with the aircraft carrier Intrepid docked here and holding some incredible air and space craft, including a former British Airways Concorde.
+0	1	0	102	Over in the Flushing district of Queens, on the grounds of the former World's Fair, is the New York Hall of Science, which incorporates the Great Hall of the fair and now full of hands-on exhibits for kids to enjoy.
+0	1	0	102	Another standout museum is the New York Transit Museum in an abandoned subway station in Downtown Brooklyn.
+0	1	0	102	The old subway cars are a real treat and the museum is a must if you're in New York with kids (and well-worth it even if you're not).
+0	1	0	102	Until the mid-20th century, New York was a predominantly industrial city.
+0	1	1	102	While most factories have been torn down, some neighborhoods, such as SoHo and the Meatpacking District, remain as a heritage of manufacturing.
+0	1	0	103	See the American Industry Tour.
+0	1	0	103	Like all great cities, New York is made up of distinct neighborhoods, each of which has its own flavor.
+0	1	0	103	Many of the neighborhoods are popular with visitors, and all are best experienced on foot.
+0	1	0	103	See individual borough pages (Manhattan, Brooklyn, Queens, Bronx, and Staten Island) for a comprehensive listing of neighborhoods.
+0	1	0	103	Though the image many people have of New York is endless skyscrapers and packed sidewalks, the city also boasts numerous lovely parks, ranging from small squares to the 850-acre Central Park.
+0	1	0	103	There are worthwhile parks in every borough, more than enough to keep any visitor busy.
+0	1	1	103	These include Fort Tryon Park in Upper Manhattan, which boasts grand views of the New Jersey Palisades, the grand Pelham Bay Park in The Bronx, the popular Prospect Park in Brooklyn, the famous Flushing Meadows Park in Corona, Queens, site of the U.S. Open Tennis Tournament, and the wondrous Greenbelt in Staten Island, a collection of beautiful parks and protected forests unlike any other park in the city.
+0	1	0	104	New York City is also home to portions of the Gateway National Recreation Area.
+0	1	1	104	Almost any park is a great spot to rest, read, or just relax and watch the people streaming past.
+0	1	0	105	To find out more about New York City parks, go to the New York City Department of Parks & Recreation website and the guide pages for each borough.
+0	1	0	105	Except for special events, all NYC parks are closed 1AM–6AM.
+0	1	0	105	The exception to this rule is parks affiliated with schools, which are closed for the entire time the sun is down.
+0	1	0	105	New York boasts an enormous number and variety of theatrical performances.
+0	1	0	105	Most of these are concentrated in Manhattan, particularly the Theater District around Times Square, where you'll find the major musicals and big-name dramatic works of Broadway.
+0	1	0	105	These are the most popular with visitors, with tickets for some shows running to $130 a seat, though discounters make cheaper seats available.
+0	1	0	105	And if you're in town in early June (and willing to spend a lot of money), it's possible to purchase tickets to the Tony Awards, Broadway's biggest award ceremony and the culmination of the theatrical season in the city.
+0	1	1	105	"However, you can also find ""Off-Broadway"" shows (and even the dirt cheap and very small ""Off-Off-Broadway"" shows) throughout Manhattan that play to smaller audiences and are far less expensive."
+0	1	0	106	Playbill.com is a good resource for current and upcoming Broadway and Off-Broadway info and listings.
+0	1	0	106	See the Manhattan page for more detailed info on theater offerings.
+0	1	0	106	"Some of New York's (and the world's) most high profile music and dance halls include the Brooklyn Academy of Music in Downtown Brooklyn, Carnegie Hall — the premier venue for classical music in the United States — in Manhattan's Theater District, Radio City Music Hall — home of the Rockettes — in Midtown, and Lincoln Center in the Upper West Side, home to the prestigious Chamber Music Society, the Metropolitan Opera (""the Met""), the New York City Ballet, and the New York Philharmonic."
+0	1	1	106	There are also numerous small companies putting on more idiosyncratic shows every night of the week.
+0	1	0	107	New York is one of the world's greatest film cities, home to a huge number of theaters playing independent and repertory programs.
+0	1	0	107	Many major US studio releases open earlier in New York than elsewhere (especially in the autumn) and can be found at the major cineplexes (AMC, United Artists, etc.) around the city.
+0	1	0	107	As with everything else in New York, movies are quite popular, and even relatively obscure films at unappealing times of the day can still be sold out.
+0	1	1	107	It's best to get tickets in advance whenever possible.
+0	1	0	108	As many films premiere in New York, you can often catch a moderated discussion with the director or cast after the show.
+0	1	1	108	Sometimes even repertory films will have post-screening discussions or parties.
+0	1	0	109	Check listings for details.
+0	1	0	109	In addition to the many commercial multiplexes throughout the city, some of the more intriguing New York film options include the several theaters in Greenwich Village and the East Village which play independent and foreign releases, many of which are screened only in New York.
+0	1	0	109	The Film Society at Lincoln Center in the Upper West Side puts on a terrific repertory program and shows a wide variety of experimental and foreign films, and also hosts the prestigious New York Film Festival in October.
+0	1	1	109	Another major film festival is the Tribeca Film Festival, held each May and a prominent event in New York's film calendar.
+0	1	0	110	The Museum of the Moving Image in Long Island City in Queens puts on a terrific screening program, with films showing continuously throughout the day, while MoMa in Midtown Manhattan puts on a terrific repertory program (and compared to other New York movie theaters, tickets to films at MoMA are a steal).
+0	1	0	110	Virtually every major national television network has studios in Manhattan, particularly the Midtown area, and many well-known programs are open to viewers.
+0	1	0	110	Rockefeller Center is home to NBC Studios and its flagship shows, including Saturday Night Live and Today, and is open for tours.
+0	1	0	110	Lincoln Square boasts programming produced for ABC, such as The View and Who Wants to Be a Millionaire, at the network's West 66th Street facility.
+0	1	1	110	More examples of popular programs you can see in person can be found on the Manhattan page.
+0	1	1	111	New York City hosts many parades, street festivals and outdoor pageants.
+0	1	0	112	The following are the most famous:
+0	1	0	112	The Labor Day Carnival, or West Indian Carnival, is an annual celebration held in Crown Heights, Brooklyn.
+0	1	1	112	Its main event is the West Indian-American Day Parade, which attracts between one and three million spectators, who watch the parade on its route along Eastern Parkway.
+0	1	0	113	A number of professional and collegiate teams play in the New York metropolitan area.
+0	1	0	113	Unsurprisingly, New York City, as the largest city in the United States, is home to many colleges and universities.
+0	1	0	113	Columbia University, a member of the Ivy League, is undoubtably the most prestigious of the large universities (but also among the most expensive without financial aid).
+0	1	0	113	It is adjacent to and affiliated with Barnard College, a top women's school.
+0	1	0	113	New York University (NYU) is also highly selective.
+0	1	1	113	Another notable university is Rockefeller University, a graduate-only school at which several significant biomedical discoveries were made.
+0	1	0	114	And the city also has its very own system of public colleges, City University of New York, with every borough represented among its numerous branches.
+0	1	0	114	New York City has a reputation for being one of the world's most expensive cities, and it can be, particularly when it comes to accommodation.
+0	1	1	114	That being said, there are ways to limit the damage; food is available from many halal food trucks for $7-10, which will get you rice with meat, vegetables and a soft drink, and you can still find inexpensive pizza slices at many of the hole-in-the-wall pizzerias throughout the city.
+0	1	0	115	Supermarkets and convenience stores generally also sell basic items at reasonable prices (by Western standards).
+0	1	1	115	New York's public bathroom infrastructure is lacking, so buying an item at a facility with a bathroom is generally advisable if you are far from your accommodation.
+0	1	0	116	New York is the fashion capital of the United States, and is a major shopping destination for people around the world.
+0	1	0	116	The city boasts an unmatched range of department stores, boutiques, and specialty shops.
+0	1	0	116	Some neighborhoods boast more shopping options than most other American cities and have become famous as consumer destinations.
+0	1	1	116	Anything you could possibly want to buy can be found in New York, including clothing, cameras, computers and accessories, music, musical instruments, electronic equipment, art supplies, sporting goods, and all kinds of foodstuffs and kitchen appliances.
+0	1	0	117	See the borough pages and district sub-pages for listings of some of the more important stores and major business districts, of which there are several.
+0	1	0	117	New York state has a sales tax exemption on all clothing items that cost less than $100.
+0	1	1	117	The popular place to begin is Manhattan, most notably Fifth Avenue in Midtown Manhattan, where the iconic flagship stores of many major department stores such as Saks Fifth Avenue and Bergdorf Goodman are located.
+0	1	0	118	Other notable department stores in Manhattan include the world-famous Macy's at Herald Square, Bloomingdale's on 59th Street between 3rd and Lexington Avenues, and Nordstrom on Broadway at 57th Street.
+0	1	0	118	Of course, for dirt-cheap knockoffs, the various Chinatowns in Manhattan, Queens and Brooklyn respectively are the place to go.
+0	1	1	118	New York City is not known for budget shopping, but during major sales, such as the Black Friday sale after Thanksgiving, prices of some out-of-season items have been known to be slashed by as much as 50%, meaning that it is possible to find good deals for genuine luxury brand-name items if you are there at the right time.
+0	1	0	119	Savvy New Yorkers shop after Christmas and especially after New Year's.
+0	1	0	119	Anyone can freely create, display, and sell art, including paintings, prints, photographs, sculptures, DVDs, and CDs, based on freedom of speech rights.
+0	1	0	119	Thousands of artists earn their livings on New York's streets and parks.
+0	1	0	119	Common places to find street artists selling their work are SoHo, the Financial District and near the Metropolitan Museum of Art.
+0	1	0	119	New York City has a number of retail outlet locations, offering substantial discounts and the opportunity to purchase ends-of-line and factory seconds.
+0	1	0	119	Basic food, drinks, snacks, medicine, and toiletries can be found at decent prices at the ubiquitous Duane Reade[dead link] (owned by Walgreens), CVS, and Rite Aid stores.
+0	1	1	119	For a more authentically New York experience, stop by one of the thousands of bodegas/delis/groceries.
+0	1	0	120	Although some of these stores have a somewhat ramshackle appearance, they are reliable though often not the cheapest places to purchase groceries, water, flowers, coffee, and cooked food, typically 24/7.
+0	1	0	120	There are several local and regional chains of supermarkets represented all over the city, including Associated, C-Town, D'Agostino's, Foodtown, Gristedes and Key Food, and Fairway and West Side Market have a few locations.
+0	1	0	120	There are also chains such as Hong Kong Supermarket and H-Mart, which cater primarily to Chinese and Korean customers, respectively.
+0	1	0	120	National chains selling food include Trader Joe's, Whole Foods Market, Costco (membership required; mostly in bulk) and Target.
+0	1	0	120	Most shops in New York-area airports are chain outlets, the same as can be found in most large airports in the world, so it's pretty difficult to feel the spirit of the fashion capital if you only have 2 hours waiting for a connecting flight.
+0	1	0	120	At JFK, JetBlue Airways' new Terminal 5 is populated with modern, cutting-edge restaurants and shops, but terminals 4 and 8 are also relatively good places for retail and duty-free shopping.
+0	1	0	120	In New York City it is common for street vendors to set up tables on the sidewalk, close to the curb, and sell items.
+0	1	1	120	They are required to obtain a permit to perform this activity, but it is legal.
+0	1	0	121	Purchasing from these vendors is generally legitimate, although buying brand name goods from them (particularly expensive clothing and movies) is generally ill-advised unless you want cheap imitation products.
+0	1	0	121	It is considered safe to buy less expensive goods from these vendors, but most will not accept payment by credit card, so you will have to bring cash.
+0	1	0	121	Be particularly wary of any street vendor that does not sell from a table (especially vendors who approach you with their merchandise in a briefcase), as these goods are almost certainly cheap imitation products.
+0	1	0	121	New York has, as you might expect of the Big Apple, all the eating options covered and you can find almost every type of food available and every cuisine of the world represented.
+0	1	0	121	There are literally tens of thousands of restaurants, ranging from dingy cheap pizza-by-the-slice joints to $500-a-plate prix fixe sushi.
+0	1	1	121	Thousands of delis, bodegas, and grocery stores dot every corner of the city and do it yourself meals are easy and cheap to find.
+0	1	0	122	Street food comes in various tastes, ranging from the ubiquitous New York hot dog vendors to the many middle eastern carts at street corners in Midtown.
+0	1	0	122	Fast food is as plentiful and as diverse as you can imagine.
+0	1	0	122	Fruit stalls appear at many intersections from spring to fall with ready-to-eat strawberries, bananas, apples, etc. available at very low cost.
+0	1	0	122	Vegetarian and vegan options abound throughout the city.
+0	1	0	122	A peculiarly New York thing, a true New York pizza is a plain cheese pizza with a very thin crust (sometimes chewy, sometimes crisp), and an artery-hardening sheen of grease on top.
+0	1	0	122	"From just about any pizzeria, you can get a whole pie with a variety of toppings available, or a ""dollar slice"" if you just want a piece of plain cheese pizza."
+0	1	1	122	"The ""dollar slice"" cost $1 at the start of the 21st century, but prices have risen, and it may cost anywhere between $1.50 and $4 before sales tax, depending on the place and any toppings you want."
+0	1	0	123	Just fold in half lengthwise, grab a lot of napkins, and eat – the quintessential meal on the go in New York.
+0	1	0	123	"Dollar-slice places can be found all over the city, and include the many different variations of ""Ray's Pizza"", all of which claim to be the original thing."
+0	1	0	123	However, perhaps the most respected of the corner joints is the wildly popular Joe's in Greenwich Village.
+0	1	0	123	But while pizza in New York is generally considered a fast food, the most respected pizzerias in the city are those that act like sit-down restaurants, and some of them serve whole pies only, no slices.
+0	1	1	123	Except for DiFara's, all the following pizzerias use a classic New York style of coal-fired, rather than gas-fired ovens, which allows them to bake their pizza for a very short time at very high temperatures, producing a unique style of crispy, slightly charred crust that makes their output quite different from the average corner slice shop.
+0	1	0	124	Every New Yorker has their own personal favorite, but several routinely make it to the top of the list.
+0	1	0	124	Lombardi's in Little Italy is regarded as the oldest pizzeria in town and continues to draw in big crowds of tourists, but Patsy's in East Harlem has long been regarded by connoisseurs as serving perhaps the purest example of plain New York-style coal-oven pizza (don't order any toppings, though).
+0	1	0	124	Greenwich Village is the center of pizza on Manhattan, home to not only Joe's but also the classic John's and the popular Arturo's.
+0	1	0	124	In Brooklyn, Grimaldi's in DUMBO is hugely popular with lines that go down the street, while Totonno's on Coney Island and Di Fara's in Midwood remain mainstays with the locals.
+0	1	0	124	There are also excellent brick-oven establishments serving Neapolitan or other styles of pizza that are not classic New York but well worth having.
+0	1	0	124	Nothing represents New York street food like the almighty hot dog.
+0	1	0	124	"Affectionately called ""dirty water dogs"" by the locals, a New York hot dog is typically all-beef, served in a plain bun, and topped with mustard, ketchup, relish, or any combination of the three."
+0	1	1	124	You can get one from pushcarts on seemingly every street corner and park in the city.
+0	1	0	125	Just wrap the dog in a paper napkin and walk along the sidewalk trying not to let the toppings slip and slide all over your hands.
+0	1	0	125	And of course, both ballparks make sure to keep their fans' hot dog needs satisfied.
+0	1	0	125	However, there are a few places that go a step beyond the typical dirty water dog, with better cooked dogs and a much greater variety of toppings available.
+0	1	0	125	Many hot dog enthusiasts make the pilgrimage to the original hot dog stand, Nathan's on Coney Island, although locals generally view it as a tourist trap.
+0	1	0	125	In Manhattan, Papaya King (on the Upper East Side) and Gray's Papaya (on the Upper West Side) are favorites, so-named because they also serve tropical drinks with their frankfurters.
+0	1	0	125	In addition to their sandwiches, Katz's on the Lower East Side is also reputed for an excellent deli dog.
+0	1	0	125	In the East Village, Crif Dogs draws people in for their deep-fried, beef-and-pork (and often bacon-wrapped!) dogs.
+0	1	1	125	Dominick's food truck commands a fiercely loyal crowd, who flock to a quiet side of Queens to get a taste.
+0	1	0	126	People looking for a good bratwurst should try the Hallo Berlin cart on 54th and Fifth in Midtown, while Chicago purists should head to the Shake Shack in Madison Square Park.
+0	1	0	126	There is no bagel like the New York bagel anywhere else in the world.
+0	1	1	126	Bagels are a doughnut-shaped round of boiled dough that is then baked until it has a distinctive, chewy, sweet interior and a leathery outer crust.
+0	1	0	127	They arrived from the Old World with Jewish immigrants from Eastern Europe and have become utterly New York in character.
+0	1	0	127	You can get bagels anywhere in the city, but for the best bagels you may have to trek away from the main tourist sites.
+0	1	0	127	The key point, though, is get them when they are hot (and that does not mean reheated in the microwave).
+0	1	1	127	Some places actively discourage toasting; try them fresh out of the oven.
+0	1	0	128	Good bagel shops will offer a variety of cream cheese spreads and sandwich stuffings, like lox, salmon, tofu spreads, onions, tomatoes, and cucumbers.
+0	1	0	128	"Many bagel shops are extremely generous with their cream cheese; locals will order ""just a schmear"" to get a more reasonable amount."
+0	1	1	128	On Manhattan, many people swear by Ess'a Bagel in Midtown, with their giant bagels and huge variety of toppings, although bagel purists respect Murray's in Greenwich Village and Chelsea for their refusal to allow toasting.
+0	1	0	129	Other places in Manhattan which command fiercely loyal followings are Brooklyn Bagel, also in Chelsea, and Absolute Bagels on the Upper West Side.
+0	1	0	129	In Brooklyn, Bagel Hole in Park Slope is a no-frills place with smaller bagels, and is often ranked as one of the top bagels in the city, while over in a quiet section of Queens, Bagel Oasis is regularly considered among the very best.
+0	1	1	129	Another delicacy brought over by Jewish immigrants, pastrami sandwiches are another specialty of New York City.
+0	1	0	130	"A ""Reuben"", a grilled sandwich piled high with corned beef, Swiss cheese, Russian dressing and sauerkraut between two slices of rye bread, is always a good choice."
+0	1	0	130	A good deli sandwich doesn't come cheap: be prepared to spend upwards of $20 for a good sandwich, due to the fact that these meats are prepared using natural methods now outmoded by artificial flavorings and mass production.
+0	1	1	130	Many delis also serve other Jewish specialties, such as matzo ball soup.
+0	1	0	131	If you want pastrami, your best bet is Katz's Delicatessen, an institution on the Lower East Side that's been serving up excellent sandwiches for over a century.
+0	1	1	131	2nd Ave Deli in Murray
+0	1	0	132	Hill is a famous kosher deli that's a real throwback to the Jewish delis of old.
+0	1	0	132	And if you find yourself over in East Brooklyn, Mill Basin Deli is known for some of the best pastrami in Brooklyn.
+0	1	0	132	Another New York claim to fame is the New York cheesecake, which relies upon heavy cream, cream cheese, eggs and egg yolks to add a richness and a smooth consistency.
+0	1	0	132	It was made famous by Junior's, which still commands a loyal crowd with two locations in Midtown, although the original is in Downtown Brooklyn.
+0	1	0	132	Other favorites are Eileen's in NoLiTa, Lady M and Two Little Red Hens in the Upper East Side and S&S in the Bronx (whose cheesecake is also sold at Zabar's on the Upper West Side).
+0	1	0	132	"Another dessert of New York origin is the egg cream, also often referred to as a ""chocolate egg cream"", a blend of chocolate syrup, milk, and seltzer water (note the curious absence of either egg or cream)."
+0	1	0	132	Though not often on the menu at many diners, many will still prepare one for you if you ask for one.
+0	1	0	132	You can also find them in surprising places, like the tiny Ray's Candy Store in the East Village.
+0	1	0	132	Maybe it's the size of New Yorkers' tiny kitchens, or perhaps it's the enormous melting-pot immigrant populations, but either way, this city excels at every kind of restaurant.
+0	1	0	132	There are fancy famous-chef restaurants, all ethnic cuisines and fusion/updates of ethnic cuisines (second-generation immigrants tweaking their family tradition), plus all the fashionable spots, casual bistros, lounges for drinking and noshing and more.
+0	1	1	132	It's only a slight exaggeration to say that virtually every type of cuisine is available in New York.
+0	1	1	133	And in some neighborhoods you'll find many national and regional styles represented.
+0	1	0	134	However, certain neighborhoods, particularly those in Queens, really shine in terms of the sheer variety available to visitors.
+0	1	1	134	While Manhattan's high rents often result in expensive restaurants and sometimes watered-down, unnaturally sweetened food, Queens' vast array of cuisines are often served primarily to patrons from the countries where they originated.
+0	1	0	135	"Not that Manhattan is completely bereft by any stretch, however: a wide variety of Chinese options can be found in Chinatown and the East Village, there's the small Koreatown with some very good (but not necessarily cheap) restaurants, Washington Heights is the center for Dominican food, the East Village is full of Japanese eateries of various types, and part of Murray Hill is known as ""Curry Hill"" for its proliferation of Indian restaurants."
+0	1	0	135	But in Queens, Flushing offers a vast and diverse array of Chinese (including Northeastern, Sichuan, Hunanese, Shanghainese, etc.), Korean, and Indian eateries; Jackson Heights includes a prominent Indian section among a vast Latin American neighborhood whose eateries span the American continents from Chilean to Mexican and almost everything in between; nearby Elmhurst features various Southeast Asian (for example Vietnamese and Thai, with a couple of Indonesian and Malaysian restaurants thrown in) and Chinese cuisines; Long Island City has locally well-known halal restaurants among a very diverse set of good establishments; nearby Astoria is best known for its Mediterranean food; and Rego Park has Uzbek dining halls.
+0	1	1	135	In Brooklyn, Brighton Beach is noted for its Russian eateries, while Sunset Park is home to a third Chinatown as well as plenty of Malaysian and Vietnamese options.
+0	1	0	136	Italian options can be found in virtually every neighborhood, although a higher number appear in Staten Island, the East Village, Greenwich Village, heavily Italian parts of Brooklyn like Bensonhurst and Bay Ridge, and the area around Arthur Avenue in the Bronx.
+0	1	0	136	"(Italian restaurants in Manhattan's ""Little Italy"" are mostly for tourists only, and New Yorkers generally avoid Mulberry St. between Canal and Broome."
+0	1	0	136	Likewise, you would be hard pressed to find locals eating in the chain restaurants [including chain pizzerias] around Times Square.)
+0	1	0	136	Due to the higher cost of living, you are in general expected to tip more in New York City than in other parts of the U.S.
+0	1	1	136	As a general rule, tips should start at 18% of the cost of the meal for adequate service, and may go up to 25% for service that goes above and beyond what is expected.
+0	1	0	137	Restaurants with entrees under $35 are unlikely to have any preference about what their customers wear.
+0	1	0	137	"Of course, like most major cities, New York has some expensive, extremely fashionable restaurants that care about, and enforce, a certain level of dress among their customers - but ""jackets only"" restaurants are very uncommon nowadays to the point at which the restaurant's reputation would make the fact known."
+0	1	0	137	"If you're from elsewhere in the US and wish to ""pass"" as a local within Manhattan, pay attention to your shoes and coat."
+0	1	0	137	Most local exclusiveness is pretty understated, but where it exists it's generally to distinguish locals from nightlife commuters from New Jersey and Long Island that supposedly threaten to rob bar-filled neighborhoods of their local color.
+0	1	0	137	Therefore, if your style doesn't fit in but is obviously from outside the US, you may find yourself welcomed as graciously as any local, if not more so.
+0	1	0	137	Vegetarians and vegans will find New York to be a paradise with hundreds of vegetarian-only restaurants and good veggie options in even the most expensive places.
+0	1	0	137	There are many vegetarian-only restaurants with offerings varying from macrobiotic food to Ayurvedic thalis or Asian Buddhist food.
+0	1	0	137	But, more importantly, almost every restaurant at every point on the price scale has vegetarian dishes that are more than an afterthought.
+0	1	0	137	Even Per
+0	1	0	137	Se, one of the most expensive and sought after restaurants in the city, has a seven course vegetarian tasting menu well worth the expense.
+0	1	0	137	DIY vegetarians will have no problem finding fresh vegetables, a wide variety of cheese, bread, and prepared vegetarian foods in New York supermarkets.
+0	1	1	137	Nothing differentiates New York more from other American (and European) cities than the astonishing amount of food cooked and served on the streets.
+0	1	0	138	Starting with the thousands of hot dog stands on almost every street corner, the possibilities are endless.
+0	1	0	138	People trek to Jackson Heights in Queens for a nibble of the famous arepas of the Arepa Lady.
+0	1	0	138	Freshly cooked Indian dosas are served up for a pittance at the NY Dosas stand in Washington Square Park.
+0	1	0	138	The Trinipak cart on 43rd and Sixth in Midtown serves delicious Trinidadian/Pakistani food.
+0	1	0	138	Danny Meyer, the famous restaurateur, runs the burger stand Shake Shack in Madison Square Park as well as several other locations throughout the city.
+0	1	0	138	The halal offerings in Midtown are legendary (Kwik-Meal on 45th and Sixth; Halal Guys on 53rd and Sixth and many others).
+0	1	1	138	Most carts serve lunch from about 11AM to 5 or 6PM in the evening and disappear after dark, so look for a cart near you, smell what's cooking, and enjoy a hot and often tasty lunch for a few dollars (a meal costs anywhere from about $2 to $8).
+0	1	0	139	Mornings, from about 6AM to 10AM, the streets are dotted with coffee carts that sell coffee, croissants, bagels, and Danish pastries and are good for a cheap breakfast: small coffee and bagel for a dollar or so.
+0	1	0	139	From 10AM to 7PM, many vendors sell lunch and dinner choices, including hot dogs, hamburgers, gyros, and halal.
+0	1	1	139	Other street vendors sell Italian ices, pretzels, ice cream, and roasted peanuts.
+0	1	0	140	Also, look around for the coffee truck (often found in Union Square), dessert truck, and the Belgian waffle truck that roam around the city.
+0	1	0	140	New York's many markets and grocery stores make preparing your own food interesting and easy.
+0	1	0	140	Almost every grocery store, deli, or bodega has a prepared foods section where you can make your own salad (beware, you are charged by the pound!) or buy ready-to-eat foods such as burritos, tacos, curries and rice, lasagna, pastas, pre-made or freshly-made sandwiches, and many other types of foods.
+0	1	1	140	Any supermarket will have enough to take away to the park or your hotel room for a low-cost meal.
+0	1	0	141	Whole Foods has five New York City locations, all with a variety of foods and a clean place to sit and eat.
+0	1	1	141	Zabar's on the Upper West Side is very famous, with a huge selection of foodstuffs and expensive foods as well as cooking supplies.
+0	1	0	142	There is also a Trader Joe's at Union Square and in 6 other locations in every borough but the Bronx for cheap but delicious supermarket buys, and Western Beef supermarkets offer more foods from different ethnicities than average supermarkets.
+0	1	1	142	If you have a place to cook, you'll find almost any kind of food in New York, though you may have to travel to the outer boroughs for ethnic ingredients.
+0	1	0	143	Most supermarkets have Thai, Chinese, and Indian sauces to add flavor to your pot; many, especially in Upper Manhattan, have the ingredients necessary for a Mexican or Central American meal; and there are several H-Mart supermarkets around town for Korean ingredients and prepared foods; but go to Chinatown for the best Chinese ingredients, Little India in Murray Hill for Indian ingredients, Flushing for all things Chinese or Korean, Jackson Heights for Peruvian, Ecuadorian, and South Asian, Flatbush and Crown Heights for Jamaican, Williamsburg for Kosher, and Greenpoint for Polish.
+0	1	0	143	Ask around for where you can get your favorite ethnic ingredients and you'll find traveling around in local neighborhoods a rewarding experience.
+0	1	0	143	Last call can be as late as 4AM, although many establishments will let you stay beyond that, especially in the outer boroughs.
+0	1	0	143	It is not uncommon to be locked in a bar after 4AM so people can keep drinking.
+0	1	0	143	Wine and liquor are sold at liquor stores, and are not sold at delis or supermarkets.
+0	1	0	143	Beer cannot be bought between 4AM and 8AM on Sunday morning (although if you look hard, you can get around this).
+0	1	0	143	As in most American cities, drinking alcoholic beverages on the street is illegal.
+0	1	1	143	The law is flouted openly in many areas, but bars will not generally let you take your drink outside.
+0	1	0	144	The only thing about New York City that changes faster than the subway map or the restaurants is the bar scene.
+0	1	0	144	While some established watering holes have been around for decades or centuries, the hot spot of the moment may well have opened last week and could likely close just as quickly.
+0	1	0	144	On Manhattan, Greenwich Village is probably the best neighborhood to go if you are in town for just a brief period, full of locals of all ages, especially students attending NYU.
+0	1	0	144	Chelsea has lots of clubs and a thriving gay scene, and if you are European and looking for a discothèque, this is where you want to be.
+0	1	1	144	The Meatpacking District holds trendier bars and clubs and some expensive restaurants.
+0	1	0	145	The Lower East Side, formerly the dingy alternative to the West Village, has become trendier today, with an influx of hipsters.
+0	1	0	145	The East Village also has lots of bars, as well as a sizeable cluster of Japanese bars.
+0	1	1	145	Nearby, Alphabet City, once a dangerous drug-addled hell hole, has since cleaned up and is loaded with bars.
+0	1	0	146	Murray Hill is more hip with the 30-year-old crowd, with many Indian restaurants and plenty of watering holes, including a couple of fireman bars and an all Irish whiskey pub.
+0	1	0	146	Times Square is a very touristy area with a few classy hotel rooftop bars, although very few New Yorkers would be caught dead at these places.
+0	1	0	146	In Brooklyn, Williamsburg is the capital of NYC's hipster scene, and many of New York's small music venues are here.
+0	1	0	146	Bay Ridge has one of the highest concentrations of bars in the city in a neighborhood that has been generally Irish/Italian and does not have the hipster/yuppie scene common in New York.
+0	1	0	146	Park Slope, however, is the yuppie capital of New York and you are more likely to find a tea house serving soy milk than a bar here.
+0	1	0	146	There is some low-key nightlife, although this has been on the decline.
+0	1	1	146	A number of lesbian bars are in this area.
+0	1	0	147	Queens is home to Woodside, an Irish neighborhood great for happy hour and drinking festivities before a Mets baseball game.
+0	1	0	147	Astoria is home to Queens' Bohemian Hall Beer Garden, which covers an entire city block, is walled and filled with trees, indoor and outdoor tables and a cool crowd, and serves great Czech and German beer.
+0	1	0	147	And on Staten Island, St. George has a few bars located south of the ferry terminal, with good live music.
+0	1	0	147	NYC has a pretty confident claim to be the world capital of jazz.
+0	1	0	147	It exerts a brain drain influence on the rest of the country's most talented jazz musicians, and the live music scene is simply thriving.
+0	1	0	147	This goes for all styles of jazz, (except pre-swing trad jazz, which safely belongs to New Orleans): Latin, modern, fusion, experimental, bebop, hard bop, you name it.
+0	1	1	147	The Blue Note in Greenwich Village is probably the most famous extant jazz club in the world, with nightly headliners and cover charges to match.
+0	1	0	148	The Village Vanguard is a legendary hole-in-the-wall (also in Greenwich Village), having played host to most of the greats going back to 1935.
+0	1	0	148	Other top (i.e., famous—there are fabulous lesser-known places to hear jazz throughout the city) clubs include Birdland in the Theater District and the Cotton Club in Harlem.
+0	1	0	148	If the high cover charges in this expensive city are giving you the blues, look at Smalls and Cellar Dog, which are within a block of each other in Greenwich Village and keep the covers as low as possible, so that musicians can actually afford to come!
+0	1	0	148	Would it be too provocative to declare New York the home of salsa?
+0	1	0	148	Possibly, but there's a reason to consider it.
+0	1	0	148	Salsa originated in Cuba, but its second home was New York (especially the Bronx), where it truly exploded and developed into a global phenomenon, driven by innovations from Cuban and later Puerto Rican immigrants.
+0	1	1	148	Latin dance, particularly salsa (danced on the two) and other Afro-Caribbean varieties, remains enormously popular, although it's now centered more on a semi-professional ballroom-dancing crowd rather than Latino communities.
+0	1	0	149	The Copacabana near Times Square dates back to 1940, and is probably the city's best known Latin dance club.
+0	1	0	149	Other well known options include Club Cache also near Times Square, the very Dominican El Morocco in Spanish Harlem, and Iguana in west Midtown.
+0	1	0	149	Many venues in the city hold a salsa night once a week, so poke around the city papers for event listings.
+0	1	1	149	New York has some of the most expensive accommodations in the world.
+0	1	0	150	Expect to pay $100–$200 for a budget room with shared bath, $250–$350 for a mid-range hotel with a decent room and a restaurant and/or room service; and much higher in a high end hotel.
+0	1	0	150	Most accommodations below $200 in Manhattan are a small room with space only for a bed, a TV, perhaps a sink, and little else.
+0	1	1	150	Cheaper accommodations may have communal bathrooms (although many will have a sink in the room).
+0	1	0	151	Be warned that the quality of hotels varies significantly and, in many cheap hotels away from the center such as along the West Side Highway or in the outer reaches of Queens, you may share the premises with hourly customers!
+0	1	0	151	As New York is a popular destination throughout the year, it is necessary to make reservations well in advance.
+0	1	1	151	If you plan to be in the city during the height of the tourist season, booking months in advance would be wise.
+0	1	1	152	Expect to pay up to $50 for a hostel.
+0	1	0	153	"There are several hostels in Manhattan including two Jazz Hostels[dead link] (located at 36 West 106th Street and 184 Eleventh Avenue) and one official Hostelling International hostel (located at 891 Amsterdam Avenue--between 102nd and 103rd Streets--in Manhattan), there are many places that call themselves ""hostel"" and offer accommodations below $100 a night."
+0	1	0	153	Some cater exclusively to students.
+0	1	0	153	You are strongly advised to make reservations months in advance.
+0	1	0	153	Room rates are typically quoted excluding taxes, so expect your actual bill to be materially higher than the quoted rate.
+0	1	1	153	Taxes include New York State and New York City sales tax (8.875%), a New York City Hotel Occupancy Tax (varies but, for rooms above $40, $2 + 5.875%), and a surcharge of $1.50.
+0	1	0	154	For a $100 per night room, expect to pay $117.75, after taxes are taken into account.
+0	1	0	154	You don't have to stay in Manhattan.
+0	1	1	154	There are many hotels just outside Manhattan in Long Island City, Queens, Brooklyn and New Jersey that are cheaper than hotels in Manhattan.
+0	1	0	155	Also, due to the high accommodation prices and insider knowledge of the locals, you may want to consider a hospitality exchange.
+0	1	0	155	Lower accommodation prices are also generally available in January and February, the end of August, and on Sunday nights.
+0	1	1	155	Find free wireless wifi & hotspot across the city online at openwifinyc, NYC Wireless, and WiFi Free Spot.
+0	1	1	156	Wireless is available in city parks and quite a few public libraries.
+0	1	0	157	The Apple store has dozens of computers set up and doesn't seem to mind that many people use them for free internet access, but they can be pretty busy at times.
+0	1	0	157	Easy Internet Cafe and FedEx
+0	1	0	157	Office are just some of the internet cafes which offer broadband internet at reasonable prices.
+0	1	0	157	Finding a store with an open power outlet may be difficult so be sure your device is fully charged and its battery is working properly.
+0	1	0	157	Public phones are less and less common, but there are now some free phone charging stations on the street if you are running out of power.
+0	1	0	157	"Remember to include the 1 and area code when dialing from any phone in New York City - including private ""land line"" phones in buildings - as 11-digit dialing is always in effect, even when dialing locally."
+0	1	1	157	However, you don't need to dial 1 from a cell phone.
+0	1	0	158	New York was through 2019 statistically the safest large city in the United States, and its crime rate per person was lower than the national average and the crime rate of many small towns, but 2020 saw a frightening jump in shootings, people being pushed onto the subway tracks and bias crimes, with those against people who are or look Asian increasing at the greatest rate, and the violence continued in 2021 and into 2022 though homicides and shootings have ebbed considerably in 2023.
+0	1	0	158	That said, the spike still leaves the city much safer than it used to be in the 1980s and 90s.
+0	1	0	158	You can be assured of a high police presence in Times Square, public transportation hubs and other major crowded places.
+0	1	0	158	Despite a sharp rise in subway crimes, some of them sensational, rates are still way below the levels in the 1980s, and it is generally safe to travel around at night in the subway as long as you use common sense and keep a moderate level of vigilance.
+0	1	0	158	The most common crime against tourists (not including being overcharged!) is bag snatching.
+0	1	1	158	Never let go of your handbag (putting other bags down is OK, as long as you guard them carefully), especially in the subway but also when eating at a restaurant.
+0	1	0	159	Take special care if you are sitting outdoors or in a crowded self-service restaurant.
+0	1	0	159	Leave your passport and other valuables that you don't need to carry in a hotel safe or hidden in your suitcase.
+0	1	0	159	Don't flaunt a wad of money if you can help it; if you want to be safer, count your money in your room before you go out and take only what you think you may need.
+0	1	0	159	Unless you have protective outer wear, consider not wearing expensive jewelry, and hide valuables like cameras when you're not using them.
+0	1	0	159	While muggings are rare, they do happen.
+0	1	1	159	Take a tip from seasoned New Yorkers and always try to be aware of who's walking near you in all directions (especially behind you), at all times.
+0	1	0	160	Always be aware of your surroundings, especially if you find yourself on a lightly traveled or poorly lit street.
+0	1	0	160	Certain neighborhoods that are off the tourist path should be avoided in the Bronx, Brooklyn, Queens, and Staten Island.
+0	1	1	160	Riverside Park and Central Park can be dangerous at night.
+0	1	0	161	If you go to an evening outdoor concert at one of the parks, follow the crowd out of the park before heading toward your destination.
+0	1	1	161	As of 2023, most neighborhoods that tourists or visitors to New York would venture into are quite safe.
+0	1	0	162	There are, however, some areas that have changed considerably since 2019 and would invite particular caution.
+0	1	0	162	These may not be immediately apparent to those unfamiliar with the city:
+0	1	1	162	If you think you've inadvertently wandered into a dangerous area, hop into a cab, if available, or into the nearest subway station and go elsewhere, and if none of those is an option, don't hesitate to cross the street or duck into an open shop.
+0	1	0	163	If a subway platform is deserted, stay within sight of the station agent if possible.
+0	1	0	163	Trust your instincts; if a station or street feels unsafe, it's best to leave.
+0	1	1	163	In some areas (like the East New York LIRR station) helpful locals may even assist you in finding a safer place to go, or will wait/walk with you!
+0	1	0	164	Airport-style security is common at buildings, museums and tourist attractions, even the Main Branch of the New York Public Library.
+0	1	0	164	Generally you can expect to have your bags checked (either manually by a security guard or through an x-ray machine) and walk through a metal detector.
+0	1	1	164	Unlike their counterparts at JFK and LaGuardia, security screenings at building entrances are surprisingly quick and efficient - and you can even leave your shoes on!
+0	1	0	165	New York has its share of odd people: talkative pan-handlers, lonely people just wanting a chat, religious preachers, people with psychological disorders, etc.
+0	1	1	165	"If you prefer not to speak with someone who approaches you for a chat, do what most New Yorkers do: completely ignore them or say ""Sorry, gotta go"" while continuing to walk at a brisk pace."
+0	1	0	166	Watch out for cyclists and even motorcyclists riding, sometimes at high speeds, on the sidewalk or the wrong way on one-way streets.
+0	1	0	166	This has become a constant in some neighborhoods.
+0	1	0	166	Also, you will notice that New Yorkers routinely jaywalk, but don't do it yourself unless you have good sight lines and can do so safely.
+0	1	0	166	Despite the stereotypes, many New Yorkers are nice people and don't mind giving out directions (time allowing), so don't be afraid to ask!
+0	1	1	166	If you ever get into trouble, approach the nearest police officer.
+0	1	0	167	You'll find them to be friendly, polite, and very helpful.
+0	1	0	167	"Some popular venues have a ""No guns"" sign posted outside, leading people to falsely assume such weapons are prohibited only in certain places."
+0	1	0	167	In fact, they're just as illegal outside these venues as inside.
+0	1	0	167	Attempting to leave weapons with security guards or police prior to entry will likely lead to very serious criminal charges.
+0	1	0	167	As of Feb 2023, New York City's gun laws are in flux after the U.S. Supreme Court struck down the city's gun permit law as unconstitutional.
+0	1	1	167	It is still advisable to avoid bringing a gun to New York City, even if you're just passing through by air (LaGuardia and JFK) or by car.
+0	1	0	168	The quality of tap water in New York City is considered to be among the best in the world (unless you are in an old building with outdated plumbing).
+0	1	0	168	There is generally no good reason to drink bottled water in preference to New York City tap water.
+0	1	0	168	Lower-end restaurants will simply place glasses of ice water on your table (and refill them constantly, for free).
+0	1	0	168	At nicer restaurants you will be asked “what kind of water” you want.
+0	1	1	168	Asking for tap water is completely acceptable in any restaurant; your other choices are “bottled” (non-carbonated water, such as Fiji or Evian) or “sparkling” (which almost always means Pellegrino).
+0	1	0	169	Public restrooms are few and far between in New York City.
+0	1	0	169	"The parks department maintains a list of ""comfort stations"" in their parks, and the one at Bryant Park in Manhattan is even something of a tourist attraction."
+0	1	0	169	Public libraries also have free restrooms, and some subway stations have restrooms open during the day.
+0	1	1	169	There are a small number of self-cleaning, coin-operated toilets in the city, which require quarters (25¢) and are always wheelchair-accessible.
+0	1	1	170	Large stores and sit-down restaurants usually have restrooms for paying customers.
+0	1	0	171	Otherwise, look for a church or police station that's open and ask if you can use the restroom.
+0	1	1	171	Smoking in public places is highly restricted.
+0	1	0	172	It is prohibited in indoor sections of bars, restaurants, subway stations and trains (all transit system property), public parks, public beaches, pedestrian malls, both indoor and outdoor stadiums and sports arenas, and many other public places.
+0	1	0	172	If you light up in any of these places, you are subject to a summons and fine, ejection, and/or indignant reactions from residents.
+0	1	0	172	There do remain a small number of legal cigar bars that are exempt, as are the outside areas of sidewalk cafes and the like, but these are very much the exception.
+0	1	0	172	If you need to smoke while eating or drinking, be prepared to take a break and join the rest of the smokers outside, whatever the weather; many establishments have large space heaters.
+0	1	1	172	There is also some vaping on the streets of New York.
+0	1	0	173	Cannabis and marijuana are legal in New York for those 21 or older.
+0	1	1	173	Adults may possess up to 3 ounces of marijuana or up to 24 grams of cannabis concentrate and consume it anywhere tobacco smoking is permitted —— it is the only jurisdiction in the USA where public marijuana smoking is legal.
+0	1	0	174	You will smell it walking down the street with some frequency.
+0	1	0	174	New Yorkers are embracing legal weed with typical impatience and irreverence, and cannabis sales occur openly in every tourist-dominated area of the city, including Times Square and most Manhattan & Brooklyn parks.
+0	1	0	174	Because NYC law only prohibits driving under the influence of cannabis and possession thereof by minors/children, you'll be hard-pressed to find a cop who'll lift a finger to stop open cannabis sales (they have bigger fish to fry), though unfortunately the way a dealer is treated by police often depends on skin color.
+0	1	0	174	Purchase cannabis at your own risk, but only the dealer commits a crime.
+0	1	0	174	Purchasing hard drugs in New York City is dangerous.
+0	1	0	174	Penalties for possession are draconian, including long prison sentences, and legal representation is expensive.
+0	1	0	174	Fake hard drugs and hard drugs laced with poisonous fentanyl are common.
+0	1	0	174	New York City is home to diplomatic missions from virtually every country on Earth due to the presence of the United Nations.
+0	1	0	174	Most countries have consulates here that double as the permanent mission to the United Nations, even if a country may otherwise not have diplomatic relations with the United States.
+0	1	0	174	Locals would ask why you ever want to leave, but New York is a great jumping-off point to other locations in the metro area (including New Jersey and Connecticut) or anywhere in the Boston-Washington Megalopolis corridor.
+0	1	0	174	Despite being a constant target of mockery and jokes from New York, the densely-populated Garden State has plenty of great attractions to offer nearby:
+1	1	1	174	For routeboxes with commuter rail trains, see Manhattan or other borough articles.
