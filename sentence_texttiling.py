@@ -1,5 +1,6 @@
 import math
 import re
+from typing import Optional
 from nltk.corpus import stopwords as sw
 import numpy
 import spacy
@@ -23,7 +24,8 @@ class TextTilingTokenizer:
         similarity_method: int = BLOCK_COMPARISON,
         smoothing_method: list[int] = DEFAULT_SMOOTHING,
         smoothing_width: int = 2,
-        cutoff_policy: int = HC
+        cutoff_policy: int = HC,
+        sentence_sep: Optional[str] = None,
     ):
         stopwords = sw.words("english")
         self.stopwords = set(stopwords)
@@ -37,8 +39,11 @@ class TextTilingTokenizer:
         self.smoothing_method = smoothing_method
         self.smoothing_width = smoothing_width
         self.cutoff_policy = cutoff_policy
+        self.sentence_sep = sentence_sep
 
     def _sentence_tokenize(self, text: str) -> list[str]:
+        if self.sentence_sep:
+            return [s for s in text.split(self.sentence_sep) if s]
         doc = self.nlp(text)
         return [sent.text for sent in doc.sents]
 
@@ -95,9 +100,10 @@ class TextTilingTokenizer:
         final_sentence_indices.sort()
         
         segments = []
+        join_char = self.sentence_sep if self.sentence_sep else " "
         for start, end in zip(final_sentence_indices[:-1], final_sentence_indices[1:]):
             segment_sentences = sentences[start:end]
-            segments.append(" ".join(segment_sentences))
+            segments.append(join_char.join(segment_sentences))
             
         return segments
 
