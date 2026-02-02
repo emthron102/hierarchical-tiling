@@ -1,0 +1,102 @@
+{
+  "all_parameter_results": [
+    {
+      "granularity": "coarse",
+      "params": {
+        "w": 20,
+        "k": 12,
+        "smoothing_width": 3,
+        "smoothing_rounds": 2,
+        "cutoff_policy": "HC"
+      },
+      "avg_kappa": 0.06903494057140322,
+      "avg_f1": 0.24937999623393262
+    },
+    {
+      "granularity": "coarse",
+      "params": {
+        "w": 20,
+        "k": 15,
+        "smoothing_width": 5,
+        "smoothing_rounds": 2,
+        "cutoff_policy": "HC"
+      },
+      "avg_kappa": 0.02511021980335514,
+      "avg_f1": 0.21016509085880347
+    },
+    {
+      "granularity": "coarse",
+      "params": {
+        "w": 40,
+        "k": 20,
+        "smoothing_width": 5,
+        "smoothing_rounds": 3,
+        "cutoff_policy": "HC"
+      },
+      "avg_kappa": 0.029219784853409213,
+      "avg_f1": 0.14881661703402263
+    },
+    {
+      "granularity": "fine",
+      "params": {
+        "w": 20,
+        "k": 4,
+        "smoothing_width": 1,
+        "smoothing_rounds": 1,
+        "cutoff_policy": "LC"
+      },
+      "avg_kappa": 0.13526710879484766,
+      "avg_f1": 0.3192062529354508
+    },
+    {
+      "granularity": "fine",
+      "params": {
+        "w": 20,
+        "k": 6,
+        "smoothing_width": 2,
+        "smoothing_rounds": 1,
+        "cutoff_policy": "LC"
+      },
+      "avg_kappa": 0.08454537563255046,
+      "avg_f1": 0.2670233728925262
+    },
+    {
+      "granularity": "fine",
+      "params": {
+        "w": 10,
+        "k": 5,
+        "smoothing_width": 1,
+        "smoothing_rounds": 1,
+        "cutoff_policy": "LC"
+      },
+      "avg_kappa": 0.1335538645085929,
+      "avg_f1": 0.3586083179170619
+    }
+  ],
+  "best_by_granularity": {
+    "coarse": {
+      "granularity": "coarse",
+      "params": {
+        "w": 20,
+        "k": 12,
+        "smoothing_width": 3,
+        "smoothing_rounds": 2,
+        "cutoff_policy": "HC"
+      },
+      "avg_kappa": 0.06903494057140322,
+      "avg_f1": 0.24937999623393262
+    },
+    "fine": {
+      "granularity": "fine",
+      "params": {
+        "w": 20,
+        "k": 4,
+        "smoothing_width": 1,
+        "smoothing_rounds": 1,
+        "cutoff_policy": "LC"
+      },
+      "avg_kappa": 0.13526710879484766,
+      "avg_f1": 0.3192062529354508
+    }
+  }
+}
